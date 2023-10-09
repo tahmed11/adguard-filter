@@ -1,0 +1,16 @@
+jobs:
+    build:
+        runs-on: ubuntu-latest
+    
+        steps:
+        - uses: actions/checkout@v2
+    
+        - name: Run generate script
+        run: bash ./generate.sh
+    
+        - name: Upload results
+        uses: actions/upload-artifact@v2
+        with:
+            name: results.txt
+            path: ./results.txt
+    
