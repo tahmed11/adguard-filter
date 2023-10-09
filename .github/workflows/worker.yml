@@ -5,12 +5,16 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
     - name: Run script
       run: |
         chmod +x ./generate.sh
-        ./generate.sh
-    - name: Upload artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: Script results
-        path: adguard_filtered.txt
+        bash generate.sh
+    - name: Commit and push
+      run: |
+        git diff
+        git config --global user.email "action@github.com"
+        git config --global user.name "Github action"
+        git commit -am "updating adguard_hosts.txt" || exit 0
+        git push
