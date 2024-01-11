@@ -1,3 +1,4 @@
+0.0.0.0 ||meksicie.net
 0.0.0.0 ||sugpgeaunpet.com
 0.0.0.0 ||capletstyldia.com
 0.0.0.0 ||dwvbfnqrbif.com
@@ -1764,6 +1765,7 @@
 0.0.0.0 ||1f6f6bfb05.com
 0.0.0.0 ||1f7eece503.com
 0.0.0.0 ||1f87527dc9.com
+0.0.0.0 ||1f98dc1262.com
 0.0.0.0 ||1fd92n6t8.de
 0.0.0.0 ||1fluxx-strean.com
 0.0.0.0 ||1freestyl3domain.com
@@ -1852,6 +1854,7 @@
 0.0.0.0 ||259luxu.xyz
 0.0.0.0 ||25obpfr.de
 0.0.0.0 ||2639iqjkl.de
+0.0.0.0 ||26485.top
 0.0.0.0 ||2685da0b4d.com
 0.0.0.0 ||268stephe5en3king.com
 0.0.0.0 ||26q4nn691.de
@@ -2968,6 +2971,7 @@
 0.0.0.0 ||additiontreason.com
 0.0.0.0 ||addizhi.top
 0.0.0.0 ||addkt.com
+0.0.0.0 ||addlnk.com
 0.0.0.0 ||addoer.com
 0.0.0.0 ||addonsmash.com
 0.0.0.0 ||addotnet.com
@@ -3341,6 +3345,7 @@
 0.0.0.0 ||advertica-cdn.com
 0.0.0.0 ||advertica-cdn2.com
 0.0.0.0 ||advertica.ae
+0.0.0.0 ||advertica.com
 0.0.0.0 ||advertiserurl.com
 0.0.0.0 ||advertiseserve.com
 0.0.0.0 ||advertiseworld.com
@@ -3458,6 +3463,7 @@
 0.0.0.0 ||affelseaeinera.org
 0.0.0.0 ||affelseaeineral.xyz
 0.0.0.0 ||affichwhists.uno
+0.0.0.0 ||affili.st
 0.0.0.0 ||affiliate-robot.com
 0.0.0.0 ||affiliate-wg.com
 0.0.0.0 ||affiliateboutiquenetwork.com
@@ -5857,6 +5863,7 @@
 0.0.0.0 ||bigbasketshop.com
 0.0.0.0 ||bigbolz.com
 0.0.0.0 ||bigbootymania.com
+0.0.0.0 ||bigbricks.org
 0.0.0.0 ||bigbusinesstoday.xyz
 0.0.0.0 ||bigchoicegroup.com
 0.0.0.0 ||bigeagle.biz
@@ -6379,6 +6386,7 @@
 0.0.0.0 ||bpplkotkpduwob.com
 0.0.0.0 ||bptracking.com
 0.0.0.0 ||bptssoahsfoz.com
+0.0.0.0 ||bpwwsusgb.com
 0.0.0.0 ||bqadfytoqbyhdxs.xyz
 0.0.0.0 ||bqklioghtnqs.com
 0.0.0.0 ||bqkwfioyd.xyz
@@ -9396,6 +9404,7 @@
 0.0.0.0 ||dicknearbyaircraft.com
 0.0.0.0 ||diclotrans.com
 0.0.0.0 ||dicouksa.com
+0.0.0.0 ||dicreativeideas.org
 0.0.0.0 ||dictatepantry.com
 0.0.0.0 ||dictaterepublicbog.com
 0.0.0.0 ||dictationtense.com
@@ -12478,6 +12487,7 @@
 0.0.0.0 ||friendshipmale.com
 0.0.0.0 ||frightening-crack.pro
 0.0.0.0 ||frightening-lesson.pro
+0.0.0.0 ||frightysever.org
 0.0.0.0 ||frilly-number.pro
 0.0.0.0 ||fringesdurocs.com
 0.0.0.0 ||fripth.xyz
@@ -13558,8 +13568,10 @@
 0.0.0.0 ||greatappland.com
 0.0.0.0 ||greataseset.org
 0.0.0.0 ||greatbonushere.life
+0.0.0.0 ||greatbonushere.top
 0.0.0.0 ||greatcpm.com
 0.0.0.0 ||greatdexchange.com
+0.0.0.0 ||greatlifebargains2024.com
 0.0.0.0 ||greatlove.pro
 0.0.0.0 ||greatvpnoffers.com
 0.0.0.0 ||grecheer.com
@@ -13804,6 +13816,7 @@
 0.0.0.0 ||gzakxmzydpkwr.com
 0.0.0.0 ||gzcxtuxgqjrhz.com
 0.0.0.0 ||gzifhovadhf.com
+0.0.0.0 ||gzpphnbvqj.com
 0.0.0.0 ||h0w-t0-watch.net
 0.0.0.0 ||h12-media.com
 0.0.0.0 ||h15maincat.com
@@ -14221,6 +14234,7 @@
 0.0.0.0 ||hexovythi.pro
 0.0.0.0 ||hf5rbejvpwds.com
 0.0.0.0 ||hfc195b.com
+0.0.0.0 ||hfeoveukrn.info
 0.0.0.0 ||hffdjxnyxckf.xyz
 0.0.0.0 ||hffxc.com
 0.0.0.0 ||hfggttxptxwdmb.com
@@ -14755,6 +14769,7 @@
 0.0.0.0 ||hvooyieoei.com
 0.0.0.0 ||hvvafunojvdlv.xyz
 0.0.0.0 ||hwchvgpc.xyz
+0.0.0.0 ||hwicliktt.com
 0.0.0.0 ||hwmlmcbwpbkwas.com
 0.0.0.0 ||hwpnocpctu.com
 0.0.0.0 ||hwpyfcxahv.com
@@ -16350,6 +16365,7 @@
 0.0.0.0 ||jyrypezzzd.com
 0.0.0.0 ||jyuirxswk.com
 0.0.0.0 ||jzbvpyvhus.com
+0.0.0.0 ||jzbvwqezlwyaz.top
 0.0.0.0 ||jzeapwlruols.com
 0.0.0.0 ||jzleekzkrwjll.top
 0.0.0.0 ||jzokkejmqrbyj.top
@@ -18420,6 +18436,7 @@
 0.0.0.0 ||medfoodspace.com
 0.0.0.0 ||medfoodtech.com
 0.0.0.0 ||medgoodfood.com
+0.0.0.0 ||media-412.com
 0.0.0.0 ||media-general.com
 0.0.0.0 ||media-sapiens.com
 0.0.0.0 ||media-servers.net
@@ -19590,6 +19607,7 @@
 0.0.0.0 ||necessaryratio.pro
 0.0.0.0 ||necessarysticks.com
 0.0.0.0 ||nechupsu.com
+0.0.0.0 ||neckloveham.live
 0.0.0.0 ||necmah.com
 0.0.0.0 ||nectardoodled.com
 0.0.0.0 ||nedandlooked.org
@@ -19935,6 +19953,7 @@
 0.0.0.0 ||noclef.com
 0.0.0.0 ||nocuousbestir.com
 0.0.0.0 ||nodcaterercrochet.com
+0.0.0.0 ||nodderbeezers.com
 0.0.0.0 ||noddinglavish.com
 0.0.0.0 ||noddlegoop.com
 0.0.0.0 ||nodouslover.com
@@ -23992,6 +24011,7 @@
 0.0.0.0 ||raupothrepe.com
 0.0.0.0 ||raupsica.net
 0.0.0.0 ||raupsoap.com
+0.0.0.0 ||rausfml.com
 0.0.0.0 ||rausougo.net
 0.0.0.0 ||rauvoaty.net
 0.0.0.0 ||rauwoukauku.com
@@ -27675,6 +27695,7 @@
 0.0.0.0 ||syxcwxur.com
 0.0.0.0 ||syyycc.com
 0.0.0.0 ||syyzbelmw.com
+0.0.0.0 ||syzijqaufe.com
 0.0.0.0 ||szbnnqyqn.com
 0.0.0.0 ||szhcyxtszb.com
 0.0.0.0 ||szqxvo.com
@@ -28202,6 +28223,7 @@
 0.0.0.0 ||thewowfeed.com
 0.0.0.0 ||thewscozier.uno
 0.0.0.0 ||theyenglory.guru
+0.0.0.0 ||theythourbonusgain.life
 0.0.0.0 ||theyunm.com
 0.0.0.0 ||thgebtibfyry.com
 0.0.0.0 ||thick-ruin.pro
@@ -28561,6 +28583,7 @@
 0.0.0.0 ||tolerableinflectionkazan.com
 0.0.0.0 ||tollcondolences.com
 0.0.0.0 ||tollyeric.com
+0.0.0.0 ||tolrock.com
 0.0.0.0 ||toluatebrazee.com
 0.0.0.0 ||toluenehoedown.com
 0.0.0.0 ||toluenemoody.guru
@@ -28991,6 +29014,7 @@
 0.0.0.0 ||troolyhonks.com
 0.0.0.0 ||troopslinecut.website
 0.0.0.0 ||troozescript.store
+0.0.0.0 ||tropbikewall.art
 0.0.0.0 ||tropinpodgily.life
 0.0.0.0 ||tropylskins.com
 0.0.0.0 ||trotconceivedtheological.com
@@ -30632,6 +30656,7 @@
 0.0.0.0 ||vuwmxjusucnh.com
 0.0.0.0 ||vuyngptxhjtmdn.com
 0.0.0.0 ||vvfrdcuxrergrjy.com
+0.0.0.0 ||vvgpkowlun.com
 0.0.0.0 ||vvickycira.com
 0.0.0.0 ||vvobtrjtinsd.com
 0.0.0.0 ||vvrbjtjxmlgcd.xyz
@@ -30952,6 +30977,7 @@
 0.0.0.0 ||webclickengine.com
 0.0.0.0 ||webclickmanager.com
 0.0.0.0 ||webcontentassessor.com
+0.0.0.0 ||webdatatrace.com
 0.0.0.0 ||webestablishedsunflower.com
 0.0.0.0 ||webfeetdaidled.com
 0.0.0.0 ||webmedrtb.com
@@ -32213,6 +32239,7 @@
 0.0.0.0 ||yomeno.xyz
 0.0.0.0 ||yonabrar.com
 0.0.0.0 ||yonhelioliskor.com
+0.0.0.0 ||yoniskurt.digital
 0.0.0.0 ||yonkerhallier.com
 0.0.0.0 ||yonniefacture.com
 0.0.0.0 ||yonsandileer.com
@@ -32535,6 +32562,7 @@
 0.0.0.0 ||zimill.com
 0.0.0.0 ||zimpolo.com
 0.0.0.0 ||zincdatawipe.com
+0.0.0.0 ||zinipx.xyz
 0.0.0.0 ||zinrora.pw
 0.0.0.0 ||zipakrar.com
 0.0.0.0 ||zipheeda.xyz
@@ -33025,10 +33053,10 @@
 0.0.0.0 ||affbuzzads.com
 0.0.0.0 ||affec.tv
 0.0.0.0 ||affifix.com
-0.0.0.0 ||affili.st
 0.0.0.0 ||affiliate-b.com
 0.0.0.0 ||affiliateedge.com
 0.0.0.0 ||affiliategroove.com
+0.0.0.0 ||affilist.com
 0.0.0.0 ||afishamedia.net
 0.0.0.0 ||afp.ai
 0.0.0.0 ||afrikad.com
@@ -35682,6 +35710,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||usermetric.io
 0.0.0.0 ||pb.adriver.ru
 0.0.0.0 ||sync.adspend.space
 0.0.0.0 ||sync.opendsp.ru
@@ -49535,6 +49564,7 @@
 0.0.0.0 ||ambientdsp.com
 0.0.0.0 ||analytics.saas-vn.network
 0.0.0.0 ||analytics.vnncdn.net
+0.0.0.0 ||analytics.zapps.me
 0.0.0.0 ||analytics.zapps.vn
 0.0.0.0 ||anthill.vn
 0.0.0.0 ||anymind360-com.cdn.ampproject.org
@@ -49726,6 +49756,7 @@
 0.0.0.0 ||t.sieu-viet.com
 0.0.0.0 ||tebrand.asia
 0.0.0.0 ||tebrand.vn
+0.0.0.0 ||tech.zapps.me
 0.0.0.0 ||testcentre.vn
 0.0.0.0 ||tiktok-ads.hara.vn
 0.0.0.0 ||tjme.io
@@ -50056,6 +50087,7 @@
 0.0.0.0 ||log.kaka.me
 0.0.0.0 ||log.kienthuc.net.vn
 0.0.0.0 ||log.kinhtedouong.vn
+0.0.0.0 ||log.lichviet.org
 0.0.0.0 ||log.mekongasean.vn
 0.0.0.0 ||log.ngaynay.vn
 0.0.0.0 ||log.nhandan.vn
@@ -50102,6 +50134,7 @@
 0.0.0.0 ||mautic-learn.teky.edu.vn
 0.0.0.0 ||mautic.200lab.io
 0.0.0.0 ||mautic.teky.edu.vn
+0.0.0.0 ||measure.vndirect.com.vn
 0.0.0.0 ||media.dabong247.com
 0.0.0.0 ||menu.metu.vn
 0.0.0.0 ||microad.vn
@@ -50151,6 +50184,7 @@
 0.0.0.0 ||s1.zzz.vn
 0.0.0.0 ||s6.textlink.vn
 0.0.0.0 ||sda.tamdiem247.com
+0.0.0.0 ||sentry.mediacdn.vn
 0.0.0.0 ||server.zmedia.vn
 0.0.0.0 ||serving-ad.tv24.vn
 0.0.0.0 ||sharks.vn
@@ -50188,7 +50222,6 @@
 0.0.0.0 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
 0.0.0.0 ||ta.toprework.vn
 0.0.0.0 ||tagging-qadkfoj6ha-as.a.run.app
-0.0.0.0 ||tech.zapps.me
 0.0.0.0 ||thongke.arttimes.vn
 0.0.0.0 ||thongke.baotintuc.vn
 0.0.0.0 ||thongke.bookingcare.vn
@@ -50284,6 +50317,7 @@
 0.0.0.0 ||1cjzfyb.com
 0.0.0.0 ||1cpkcnm.com
 0.0.0.0 ||1dcbzuv.com
+0.0.0.0 ||1fzjy.xyz
 0.0.0.0 ||1iuybpo.com
 0.0.0.0 ||1k2l3m4n5o.com
 0.0.0.0 ||1kfnsra.com
@@ -50293,6 +50327,7 @@
 0.0.0.0 ||1sk27.fun
 0.0.0.0 ||1vudktp.com
 0.0.0.0 ||1weorpu.com
+0.0.0.0 ||2023sb.net
 0.0.0.0 ||20szp.com
 0.0.0.0 ||222aa333bb.com
 0.0.0.0 ||24w0p.com
@@ -50318,6 +50353,7 @@
 0.0.0.0 ||666aa777bb.com
 0.0.0.0 ||6969aa.cn
 0.0.0.0 ||6gcstb.xyz
+0.0.0.0 ||777bb111ww.com
 0.0.0.0 ||7bspu.site
 0.0.0.0 ||7dusx.xyz
 0.0.0.0 ||7ry30.xyz
@@ -50382,6 +50418,7 @@
 0.0.0.0 ||apvnzvg.xyz
 0.0.0.0 ||aqburrae.xyz
 0.0.0.0 ||aqiemc.xyz
+0.0.0.0 ||aqrokdw.cn
 0.0.0.0 ||aqwsms.xyz
 0.0.0.0 ||ar611.xyz
 0.0.0.0 ||arbbj6.com
@@ -50475,6 +50512,7 @@
 0.0.0.0 ||bycxhgrp.xyz
 0.0.0.0 ||bydcxdy.cn
 0.0.0.0 ||bydzfldt.xyz
+0.0.0.0 ||bymahuxv.xyz
 0.0.0.0 ||bzbopfh.cn
 0.0.0.0 ||bzelzfnj.xyz
 0.0.0.0 ||bznizrhd.xyz
@@ -50560,6 +50598,7 @@
 0.0.0.0 ||dvnqhdmze.xyz
 0.0.0.0 ||dwadwere.xyz
 0.0.0.0 ||dwerzv.xyz
+0.0.0.0 ||dwfdsfkw.xyz
 0.0.0.0 ||dwhyjwrw.xyz
 0.0.0.0 ||dwq661.biz
 0.0.0.0 ||dxxwdz.xyz
@@ -50797,6 +50836,7 @@
 0.0.0.0 ||ipryes.top
 0.0.0.0 ||iqs871.com
 0.0.0.0 ||irtefs.xyz
+0.0.0.0 ||isine88.com
 0.0.0.0 ||isna.top
 0.0.0.0 ||isnd.top
 0.0.0.0 ||isoffss.com
@@ -50842,6 +50882,7 @@
 0.0.0.0 ||juljrd.xyz
 0.0.0.0 ||jupeicha.cn
 0.0.0.0 ||jvjmjt.xyz
+0.0.0.0 ||jwfesuk.cn
 0.0.0.0 ||jwjzf.online
 0.0.0.0 ||jwxwnr.xyz
 0.0.0.0 ||jxeyhgw.cn
@@ -50912,6 +50953,7 @@
 0.0.0.0 ||kydzfldt.xyz
 0.0.0.0 ||kyikdee.cn
 0.0.0.0 ||kyjwtxei.xyz
+0.0.0.0 ||kymahuxv.xyz
 0.0.0.0 ||kzelzfnj.xyz
 0.0.0.0 ||kznizrhd.xyz
 0.0.0.0 ||kzprugp.xyz
@@ -50981,6 +51023,7 @@
 0.0.0.0 ||mbiypew.cn
 0.0.0.0 ||mcds7.icu
 0.0.0.0 ||mcds9.icu
+0.0.0.0 ||mdezco.xyz
 0.0.0.0 ||mdsahkln.xyz
 0.0.0.0 ||mefiafd.top
 0.0.0.0 ||meilunsc.com
@@ -51004,6 +51047,7 @@
 0.0.0.0 ||mmn811.top
 0.0.0.0 ||mmtdfxh.xyz
 0.0.0.0 ||mmvjuti.cn
+0.0.0.0 ||mn1180.top
 0.0.0.0 ||mnfhxszj.xyz
 0.0.0.0 ||mnfse.cn
 0.0.0.0 ||mnhncf.cn
@@ -51024,6 +51068,7 @@
 0.0.0.0 ||mryqtym.cn
 0.0.0.0 ||mstkvnya.xyz
 0.0.0.0 ||msvkfwth.xyz
+0.0.0.0 ||msxoux.icu
 0.0.0.0 ||mtnwxhjv.xyz
 0.0.0.0 ||mtwwzqdx.xyz
 0.0.0.0 ||muoizbtl.xyz
@@ -51036,6 +51081,7 @@
 0.0.0.0 ||mwfyab.icu
 0.0.0.0 ||mycxhgrp.xyz
 0.0.0.0 ||mydzfldt.xyz
+0.0.0.0 ||mymahuxv.xyz
 0.0.0.0 ||myyxox.icu
 0.0.0.0 ||mzelzfnj.xyz
 0.0.0.0 ||mznizrhd.xyz
@@ -51083,6 +51129,7 @@
 0.0.0.0 ||nyhgjmlg.xyz
 0.0.0.0 ||nyhgvn.xyz
 0.0.0.0 ||nyvgbt.xyz
+0.0.0.0 ||nzlrfdv.xyz
 0.0.0.0 ||oafhif.icu
 0.0.0.0 ||oapyrzde.xyz
 0.0.0.0 ||ocpydszq.xyz
@@ -51271,6 +51318,7 @@
 0.0.0.0 ||szbxm.cn
 0.0.0.0 ||szmdp.cn
 0.0.0.0 ||szmkr.cn
+0.0.0.0 ||szmmb.cn
 0.0.0.0 ||szmtd.cn
 0.0.0.0 ||szmty.cn
 0.0.0.0 ||szpbg.cn
@@ -51300,6 +51348,7 @@
 0.0.0.0 ||tjappzvz.xyz
 0.0.0.0 ||tkbbjtfp.xyz
 0.0.0.0 ||tklnzv.xyz
+0.0.0.0 ||tlfurd.xyz
 0.0.0.0 ||tltmjevd.xyz
 0.0.0.0 ||tmlwvxae.xyz
 0.0.0.0 ||tmvebl.xyz
@@ -51335,6 +51384,7 @@
 0.0.0.0 ||tybmbbgu.xyz
 0.0.0.0 ||tycxhgrp.xyz
 0.0.0.0 ||tydzfldt.xyz
+0.0.0.0 ||tymahuxv.xyz
 0.0.0.0 ||tyuetxt.com
 0.0.0.0 ||tzelzfnj.xyz
 0.0.0.0 ||tznizrhd.xyz
@@ -51393,6 +51443,7 @@
 0.0.0.0 ||uwfxvvm.cn
 0.0.0.0 ||uycxhgrp.xyz
 0.0.0.0 ||uydzfldt.xyz
+0.0.0.0 ||uymahuxv.xyz
 0.0.0.0 ||uzelzfnj.xyz
 0.0.0.0 ||uznizrhd.xyz
 0.0.0.0 ||uzrxoxd.xyz
@@ -51450,6 +51501,7 @@
 0.0.0.0 ||vyriglq.cn
 0.0.0.0 ||w3wci.site
 0.0.0.0 ||waxin0gjue.cn
+0.0.0.0 ||wclsylk.cn
 0.0.0.0 ||wecklrb.cn
 0.0.0.0 ||werssf.com
 0.0.0.0 ||wewbnso.cn
@@ -51541,6 +51593,7 @@
 0.0.0.0 ||xycxhgrp.xyz
 0.0.0.0 ||xydslz.xyz
 0.0.0.0 ||xydzfldt.xyz
+0.0.0.0 ||xymahuxv.xyz
 0.0.0.0 ||xyryjt.xyz
 0.0.0.0 ||xzelzfnj.xyz
 0.0.0.0 ||xznizrhd.xyz
@@ -51618,12 +51671,13 @@
 0.0.0.0 ||zzbmxl.xyz
 0.0.0.0 ||zzyy17.top
 0.0.0.0 ||zzyy18.top
-0.0.0.0 ||jwfesuk.cn
-0.0.0.0 ||tlfurd.xyz
-0.0.0.0 ||kymahuxv.xyz
-0.0.0.0 ||nzlrfdv.xyz
-0.0.0.0 ||msxoux.icu
-0.0.0.0 ||mdezco.xyz
+0.0.0.0 ||ypcngw.xyz
+0.0.0.0 ||wbkaqly.cn
+0.0.0.0 ||kebohjhh.xyz
+0.0.0.0 ||bvhvnt.xyz
+0.0.0.0 ||zrljzgs.xyz
+0.0.0.0 ||setoniale.com
+0.0.0.0 ||stusnais.com
 0.0.0.0 ||zzyy19.top
 0.0.0.0 ||zzyy20.top
 0.0.0.0 ||01v62.xyz
@@ -55898,6 +55952,7 @@
 0.0.0.0 ||ad.technews-iran.com
 0.0.0.0 ||adengine.telewebion.com
 0.0.0.0 ||analytics.telewebion.com
+0.0.0.0 ||analytics.jeldnews.com
 0.0.0.0 ||sentry.virgool.io
 0.0.0.0 ||websocket.varandaz.com
 0.0.0.0 ||news-view-api.varzesh3.com
