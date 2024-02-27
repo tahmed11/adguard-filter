@@ -1,3 +1,7 @@
+0.0.0.0 ||rwwmbymwbzbea.top
+0.0.0.0 ||adnext.pl
+0.0.0.0 ||nativeone.pl
+0.0.0.0 ||naitive.pl
 0.0.0.0 ||4lke.online
 0.0.0.0 ||agazejagless.com
 0.0.0.0 ||forestallbladdermajestic.com
@@ -15936,6 +15940,7 @@
 0.0.0.0 ||iecjqkiawvifx.com
 0.0.0.0 ||ieicbkjmmqkcmgq.com
 0.0.0.0 ||ieiukkwfqhwuvwy.com
+0.0.0.0 ||ielmzzm.com
 0.0.0.0 ||iemufbuvehrjo.xyz
 0.0.0.0 ||iendoo.com
 0.0.0.0 ||ieoyptnech.com
@@ -31568,6 +31573,7 @@
 0.0.0.0 ||toyosbullpen.com
 0.0.0.0 ||toysrestrictcue.com
 0.0.0.0 ||tozoruaon.com
+0.0.0.0 ||tozqvor.com
 0.0.0.0 ||tozuoi.xyz
 0.0.0.0 ||tp1jcgl644jk.com
 0.0.0.0 ||tpbsxcsa.com
@@ -37428,6 +37434,7 @@
 0.0.0.0 ||campaigns.williamhill.com
 0.0.0.0 ||cdn.ad.page
 0.0.0.0 ||cdn.ads.tapzin.com
+0.0.0.0 ||cdn.b2.ai
 0.0.0.0 ||cdn22904910.ahacdn.me
 0.0.0.0 ||chandrabinduad.com
 0.0.0.0 ||chicoryapp.com
@@ -38990,7 +38997,6 @@
 0.0.0.0 ||cmshow.gtimg.cn
 0.0.0.0 ||projecta-common-1258344701.file.myqcloud.com
 0.0.0.0 ||adrouter-charter-vod.cadenttech.tv
-0.0.0.0 ||tapulsads.ru
 0.0.0.0 ||ads-sdk.nianticlabs.com
 0.0.0.0 ||ad.mediamixer.co.kr
 0.0.0.0 ||adfork.co.kr
@@ -39583,6 +39589,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||log.dance
 0.0.0.0 ||adx.promo
 0.0.0.0 ||trk.decido.io
 0.0.0.0 ||tracker.oval.id
@@ -39718,7 +39725,6 @@
 0.0.0.0 ||pixel.barion.com
 0.0.0.0 ||blueoyster.click
 0.0.0.0 ||track.dobrnovosti.com
-0.0.0.0 ||analytics.elegela.net
 0.0.0.0 ||b91.yahoo.co.jp
 0.0.0.0 ||services.brightline.tv
 0.0.0.0 ||wct-2.com
@@ -39814,7 +39820,6 @@
 0.0.0.0 ||hatmiso.net
 0.0.0.0 ||t.influ2.com
 0.0.0.0 ||trk.adbutter.net
-0.0.0.0 ||oribi.io
 0.0.0.0 ||eoapxl.com
 0.0.0.0 ||improving.duckduckgo.com
 0.0.0.0 ||web-vitals.bfops.io
@@ -40314,7 +40319,6 @@
 0.0.0.0 ||segs.jp
 0.0.0.0 ||n-analytics.io
 0.0.0.0 ||b97.yahoo.co.jp
-0.0.0.0 ||count.webstatistik-bw.de
 0.0.0.0 ||log.ma-jin.jp
 0.0.0.0 ||reingod.com
 0.0.0.0 ||pbjs.sskzlabs.com
@@ -40401,7 +40405,6 @@
 0.0.0.0 ||ra.rockcontent.com
 0.0.0.0 ||tracker.digitalcamp.co.kr
 0.0.0.0 ||tracker.adbinead.com
-0.0.0.0 ||burpee.xyz
 0.0.0.0 ||spnx.jp
 0.0.0.0 ||ac.ecai-report.com
 0.0.0.0 ||breaktime.com.tw
@@ -40436,7 +40439,6 @@
 0.0.0.0 ||tracking.adweb.co.kr
 0.0.0.0 ||tracking02.adweb.co.kr
 0.0.0.0 ||adsmetadata.mobileadexchange.net
-0.0.0.0 ||counter.yandro.ru
 0.0.0.0 ||tracking.gpm-rtv.ru
 0.0.0.0 ||uncn.jp
 0.0.0.0 ||ad-spire.net
@@ -40679,7 +40681,6 @@
 0.0.0.0 ||v3.fstats.xyz
 0.0.0.0 ||dataxpand.com
 0.0.0.0 ||connectif.cloud
-0.0.0.0 ||admetric.io
 0.0.0.0 ||bandborder.com
 0.0.0.0 ||lumitos.com
 0.0.0.0 ||dynameex.com
@@ -40803,7 +40804,6 @@
 0.0.0.0 ||trk.olnl.net
 0.0.0.0 ||ustat.info
 0.0.0.0 ||ustat.pro
-0.0.0.0 ||stat.uitools.space
 0.0.0.0 ||healte.de
 0.0.0.0 ||track.ddmanager.ru
 0.0.0.0 ||metrika-informer.com
@@ -40882,7 +40882,6 @@
 0.0.0.0 ||fandommetrics.com
 0.0.0.0 ||szsmtk.com
 0.0.0.0 ||phywi.org
-0.0.0.0 ||measuread.com
 0.0.0.0 ||hexagon-analytics.com
 0.0.0.0 ||stat.media
 0.0.0.0 ||akstat.io
@@ -41399,7 +41398,6 @@
 0.0.0.0 ||dmtracker.com
 0.0.0.0 ||dmtry.com
 0.0.0.0 ||doclix.com
-0.0.0.0 ||dominocounter.net
 0.0.0.0 ||domodomain.com
 0.0.0.0 ||dotmetrics.net
 0.0.0.0 ||dps-reach.com
@@ -41508,9 +41506,7 @@
 0.0.0.0 ||fast-thinking.co.uk
 0.0.0.0 ||fastanalytic.com
 0.0.0.0 ||fastcounter.de
-0.0.0.0 ||fastonlineusers.com
 0.0.0.0 ||faststart.ru
-0.0.0.0 ||fastwebcounter.com
 0.0.0.0 ||fathomseo.com
 0.0.0.0 ||fcs.ovh
 0.0.0.0 ||feedcat.net
@@ -41530,7 +41526,6 @@
 0.0.0.0 ||flcounter.com
 0.0.0.0 ||t.flix360.com
 0.0.0.0 ||rt.flix360.com
-0.0.0.0 ||flixfacts.co.uk
 0.0.0.0 ||flixsyndication.net
 0.0.0.0 ||fluctuo.com
 0.0.0.0 ||fluencymedia.com
@@ -41564,7 +41559,6 @@
 0.0.0.0 ||freecounterstat.com
 0.0.0.0 ||freehitscounter.org
 0.0.0.0 ||freelogs.com
-0.0.0.0 ||freeonlineusers.com
 0.0.0.0 ||freesitemapgenerator.com
 0.0.0.0 ||freestat.ws
 0.0.0.0 ||freestats.biz
@@ -41613,12 +41607,10 @@
 0.0.0.0 ||gez.io
 0.0.0.0 ||gezaehlt.de
 0.0.0.0 ||gezinti.com
-0.0.0.0 ||gigcount.com
 0.0.0.0 ||gixmo.dk
 0.0.0.0 ||glbtracker.com
 0.0.0.0 ||globase.com
 0.0.0.0 ||globel.co.uk
-0.0.0.0 ||globetrackr.com
 0.0.0.0 ||gmodmp.jp
 0.0.0.0 ||go-mpulse.net
 0.0.0.0 ||godhat.com
@@ -41684,7 +41676,6 @@
 0.0.0.0 ||hitmir.ru
 0.0.0.0 ||hits2u.com
 0.0.0.0 ||hitslink.com
-0.0.0.0 ||hitslog.com
 0.0.0.0 ||hitsniffer.com
 0.0.0.0 ||hitsprocessor.com
 0.0.0.0 ||hitstatus.com
@@ -41706,7 +41697,6 @@
 0.0.0.0 ||hyfntrak.com
 0.0.0.0 ||hyperactivate.com
 0.0.0.0 ||hypestat.com
-0.0.0.0 ||i-stats.com
 0.0.0.0 ||ib-ibi.com
 0.0.0.0 ||ibpxl.com
 0.0.0.0 ||ibpxl.net
@@ -41965,7 +41955,6 @@
 0.0.0.0 ||mktoresp.com
 0.0.0.0 ||mlclick.com
 0.0.0.0 ||mlno6.com
-0.0.0.0 ||mlstat.com
 0.0.0.0 ||mm7.net
 0.0.0.0 ||mmccint.com
 0.0.0.0 ||mmstat.com
@@ -42171,7 +42160,6 @@
 0.0.0.0 ||pikzor.com
 0.0.0.0 ||pimpmypr.de
 0.0.0.0 ||ping-fast.com
-0.0.0.0 ||pingagenow.com
 0.0.0.0 ||pingil.com
 0.0.0.0 ||pingomatic.com
 0.0.0.0 ||pippio.com
@@ -42254,7 +42242,6 @@
 0.0.0.0 ||qzlog.com
 0.0.0.0 ||r7ls.net
 0.0.0.0 ||radarstats.com
-0.0.0.0 ||radarurl.com
 0.0.0.0 ||rampmetrics.com
 0.0.0.0 ||rang.com.ua
 0.0.0.0 ||rank-power.com
@@ -42580,7 +42567,6 @@
 0.0.0.0 ||thefreehitcounter.com
 0.0.0.0 ||thermstats.com
 0.0.0.0 ||thesearchagency.net
-0.0.0.0 ||thespecialsearch.com
 0.0.0.0 ||thestat.net
 0.0.0.0 ||tinycounter.com
 0.0.0.0 ||tinystat.ir
@@ -42981,6 +42967,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||affiliates.audiobooks.com
 0.0.0.0 ||events.caffeine.tv
 0.0.0.0 ||analytics.totalprosports.com
 0.0.0.0 ||analytics-conomi.line.me
@@ -43152,7 +43139,6 @@
 0.0.0.0 ||pixel.aws.pfnetwork.net
 0.0.0.0 ||stats.macg.io
 0.0.0.0 ||creativeassets.asosservices.com
-0.0.0.0 ||tracker.p3a.net
 0.0.0.0 ||tracking.socketlabs.com
 0.0.0.0 ||analytics.elegela.us
 0.0.0.0 ||analytics.code.illusion.jp
@@ -43870,7 +43856,6 @@
 0.0.0.0 ||counter.all.biz
 0.0.0.0 ||counter.entertainmentwise.com
 0.0.0.0 ||counter.joins.com
-0.0.0.0 ||counter.mediastealer.com
 0.0.0.0 ||counter.megagroup.ru
 0.0.0.0 ||counter.mgronline.com
 0.0.0.0 ||counter.nn.ru
@@ -44789,7 +44774,6 @@
 0.0.0.0 ||tms.oracle.com
 0.0.0.0 ||tools.ranker.com
 0.0.0.0 ||top-fwz1.mail.ru
-0.0.0.0 ||top.gigmir.net
 0.0.0.0 ||top.hsdn.org
 0.0.0.0 ||top.nydus.org
 0.0.0.0 ||top.t-sk.ru
@@ -44815,7 +44799,6 @@
 0.0.0.0 ||trac.couponandgo.co.uk
 0.0.0.0 ||trac.couponandgo.com
 0.0.0.0 ||trac.oferting.co.uk
-0.0.0.0 ||trac.oferting.com.mx
 0.0.0.0 ||trac.oferting.es
 0.0.0.0 ||trac.oferting.fr
 0.0.0.0 ||trac.oferting.it
@@ -45210,7 +45193,6 @@
 0.0.0.0 ||sg.log.ulivetv.net
 0.0.0.0 ||tracker.ulivetv.net
 0.0.0.0 ||trackernew.ulivetv.net
-0.0.0.0 ||tracker.dianshige.com
 0.0.0.0 ||gamestats.easybrain.com
 0.0.0.0 ||am.yahoo.co.jp
 0.0.0.0 ||b99.yahoo.co.jp
@@ -47267,7 +47249,6 @@
 0.0.0.0 ||ads.enrt.eu
 0.0.0.0 ||19bk5lo5q2.com
 0.0.0.0 ||gyh1lh20owj.ru
-0.0.0.0 ||25haich4342.ru
 0.0.0.0 ||bserver.gp-guia.net
 0.0.0.0 ||widgets.informars.com
 0.0.0.0 ||ymonetize.com
@@ -47287,7 +47268,6 @@
 0.0.0.0 ||ad.correioweb.com.br
 0.0.0.0 ||ad.terra.com.mx
 0.0.0.0 ||ad.terra.com
-0.0.0.0 ||adnetwork.com.br
 0.0.0.0 ||ads.elpais.com.uy
 0.0.0.0 ||ads.gamavirtual.com
 0.0.0.0 ||ads.gazetaesportiva.net
@@ -47310,7 +47290,6 @@
 0.0.0.0 ||controlsgc.prisacom.com
 0.0.0.0 ||coolmobile.es
 0.0.0.0 ||detectca.easysol.net
-0.0.0.0 ||diximedia.es
 0.0.0.0 ||epartner.es
 0.0.0.0 ||foneclick.com.br
 0.0.0.0 ||hotwords.com.br
@@ -47367,7 +47346,6 @@
 0.0.0.0 ||infostuet.com
 0.0.0.0 ||s.cummerata.link
 0.0.0.0 ||cchbdata.net
-0.0.0.0 ||s.ccsyncuuid.net
 0.0.0.0 ||fnasmpygwa.com
 0.0.0.0 ||o1qry0qq83.com
 0.0.0.0 ||fft.delovoemesto.ru
@@ -47621,7 +47599,6 @@
 0.0.0.0 ||1qi.info
 0.0.0.0 ||q0mn5t187u.ru
 0.0.0.0 ||uwdvcn.com
-0.0.0.0 ||spads.me
 0.0.0.0 ||bogrex.com
 0.0.0.0 ||cozibaneco.com
 0.0.0.0 ||azfitn.com
@@ -48050,7 +48027,6 @@
 0.0.0.0 ||1bestgoods.com
 0.0.0.0 ||1sputnik.ru
 0.0.0.0 ||1traf.ru
-0.0.0.0 ||1txt.ru
 0.0.0.0 ||lapatiya.info
 0.0.0.0 ||24new.ru
 0.0.0.0 ||2under.ru
@@ -48278,7 +48254,6 @@
 0.0.0.0 ||capliman.com
 0.0.0.0 ||cartponi.tk
 0.0.0.0 ||cbbvi.com
-0.0.0.0 ||cdn-my4.ru
 0.0.0.0 ||cdn.amzuu.com
 0.0.0.0 ||cdn.steambets.net
 0.0.0.0 ||cdn7.space
@@ -48653,7 +48628,6 @@
 0.0.0.0 ||maxforta.com
 0.0.0.0 ||maxtrust.ru
 0.0.0.0 ||mazuma.ru
-0.0.0.0 ||mbzl-pro.xyz
 0.0.0.0 ||mctqu.com
 0.0.0.0 ||mdeih.com
 0.0.0.0 ||mdvkn.com
@@ -49017,7 +48991,6 @@
 0.0.0.0 ||surfearner.com
 0.0.0.0 ||svk-native.ru
 0.0.0.0 ||sysfiles.net
-0.0.0.0 ||t.pusk.ru
 0.0.0.0 ||talkfusion.com
 0.0.0.0 ||talysu.info
 0.0.0.0 ||targetan.com
@@ -49188,7 +49161,6 @@
 0.0.0.0 ||voob.ru
 0.0.0.0 ||voronezh136.ru
 0.0.0.0 ||vpath.net
-0.0.0.0 ||vpsite.ru
 0.0.0.0 ||vqfqo.us
 0.0.0.0 ||vsdcdn.com
 0.0.0.0 ||vsesumki.com
@@ -49396,7 +49368,6 @@
 0.0.0.0 ||sc.livetvcdn.net
 0.0.0.0 ||server.zombie-tv.org
 0.0.0.0 ||showbiz.mail.ru
-0.0.0.0 ||star.manystars.ru
 0.0.0.0 ||t.xtubetv.net
 0.0.0.0 ||tan.pridnestrovie.com
 0.0.0.0 ||tizer.rupornophoto.com
@@ -49407,6 +49378,7 @@
 0.0.0.0 ||exchange.informer.ua
 0.0.0.0 ||hdvmyo.com
 0.0.0.0 ||adsy.mail.bg
+0.0.0.0 ||hemenindir.to
 0.0.0.0 ||srvd2204.com
 0.0.0.0 ||cryptosmoke.care
 0.0.0.0 ||intermediaworks.com
@@ -49418,7 +49390,6 @@
 0.0.0.0 ||adsby.io
 0.0.0.0 ||ads724.com
 0.0.0.0 ||policycounsel.org
-0.0.0.0 ||pingpepa.xyz
 0.0.0.0 ||d8c5y8fq3znwi.cloudfront.net
 0.0.0.0 ||medyanative.com
 0.0.0.0 ||61ads.net
@@ -49437,7 +49408,6 @@
 0.0.0.0 ||venediktaciri.com
 0.0.0.0 ||ad.donanimhaber.com
 0.0.0.0 ||ad.eglenced.com
-0.0.0.0 ||ad.reklam.xyz
 0.0.0.0 ||ad.reyazilim.com
 0.0.0.0 ||ad.setrowid.com
 0.0.0.0 ||adbreak.cubecdn.net
@@ -49463,7 +49433,6 @@
 0.0.0.0 ||ads.dogusdigital.com
 0.0.0.0 ||ads.web.tr
 0.0.0.0 ||advancenative.com
-0.0.0.0 ||advertag.in
 0.0.0.0 ||advoly.com
 0.0.0.0 ||adzbaba.com
 0.0.0.0 ||affiliateserver.hangikredi.com
@@ -49472,7 +49441,6 @@
 0.0.0.0 ||app.gelirartisi.com
 0.0.0.0 ||ariyayin.com
 0.0.0.0 ||artemisaffiliates.com
-0.0.0.0 ||asdqweq.com
 0.0.0.0 ||aspartos.com
 0.0.0.0 ||bahisciler.co
 0.0.0.0 ||bcvc.mobi
@@ -49487,7 +49455,6 @@
 0.0.0.0 ||bwtsrv.com
 0.0.0.0 ||cdn.klasseo.com
 0.0.0.0 ||cdn.smartclick.io
-0.0.0.0 ||chaicdn.tk
 0.0.0.0 ||clickmerkez.com
 0.0.0.0 ||d1d8vn0fpluuz7.cloudfront.net
 0.0.0.0 ||dogus-ads-cdn.dygdigital.com
@@ -49531,7 +49498,6 @@
 0.0.0.0 ||permato.com
 0.0.0.0 ||piaads.com
 0.0.0.0 ||pmelon.com
-0.0.0.0 ||promoviral.com
 0.0.0.0 ||r20.club
 0.0.0.0 ||ref.gitadres.com
 0.0.0.0 ||rek.yemlee.com
@@ -49540,7 +49506,6 @@
 0.0.0.0 ||reklamaction.com
 0.0.0.0 ||reklamagaci.com
 0.0.0.0 ||reklamatik.com
-0.0.0.0 ||reklamcdn.com
 0.0.0.0 ||reklamnative.com
 0.0.0.0 ||reklamstore.com
 0.0.0.0 ||reklamstore.cubecdn.net
@@ -49615,7 +49580,6 @@
 0.0.0.0 ||reklam.star.com.tr
 0.0.0.0 ||reklam.yonlendir.com
 0.0.0.0 ||reklam1.akhisar.bel.tr
-0.0.0.0 ||sam.setimedia.com
 0.0.0.0 ||savoy.cubecdn.net
 0.0.0.0 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 0.0.0.0 ||ttauri.livescience.com
@@ -49626,15 +49590,6 @@
 0.0.0.0 ||1f2e7.v.fwmrm.net
 0.0.0.0 ||7b9de.v.fwmrm.net
 0.0.0.0 ||ads.dugwood.com
-0.0.0.0 ||desadu.com
-0.0.0.0 ||xydestygre.com
-0.0.0.0 ||ukslphcgs.com
-0.0.0.0 ||rozivpxtl.com
-0.0.0.0 ||habrox.xyz
-0.0.0.0 ||mystighty.info
-0.0.0.0 ||i4tvy8vk9f74.com
-0.0.0.0 ||mineralisasse.site
-0.0.0.0 ||kz.cateredjapish.com
 0.0.0.0 ||adserver.icimedias.ca
 0.0.0.0 ||ad1.girls-affiliate.com
 0.0.0.0 ||manga.boy.jp
@@ -49671,7 +49626,6 @@
 0.0.0.0 ||hydrangeao.com
 0.0.0.0 ||snapdragonox.com
 0.0.0.0 ||smart-c.jp
-0.0.0.0 ||yeetsalear.com
 0.0.0.0 ||jpshopes.com
 0.0.0.0 ||safemy-ios.com
 0.0.0.0 ||ad.owlair.net
@@ -49687,7 +49641,6 @@
 0.0.0.0 ||afflaze.com
 0.0.0.0 ||adstuber.com
 0.0.0.0 ||ad.orange-park.jp
-0.0.0.0 ||ad-site55.net
 0.0.0.0 ||d-064.com
 0.0.0.0 ||public.adgger.jp
 0.0.0.0 ||pompass.net
@@ -49731,7 +49684,6 @@
 0.0.0.0 ||addlv.smt.docomo.ne.jp
 0.0.0.0 ||trigs-sockets.com
 0.0.0.0 ||af.tosho-trading.co.jp
-0.0.0.0 ||ad-web-ad.com
 0.0.0.0 ||d1yt8zt4633tzi.cloudfront.net
 0.0.0.0 ||affiliate.konibet.com
 0.0.0.0 ||hananokai.tv
@@ -49744,7 +49696,6 @@
 0.0.0.0 ||new-adtest.pages.dev
 0.0.0.0 ||adsozai.com
 0.0.0.0 ||cdj-dap.s3-ap-northeast-1.amazonaws.com
-0.0.0.0 ||ad.activetk.cf
 0.0.0.0 ||ad.xdomain.ne.jp
 0.0.0.0 ||af-next.com
 0.0.0.0 ||pr-agent.jp
@@ -49804,7 +49755,6 @@
 0.0.0.0 ||spreadlink.net
 0.0.0.0 ||woomy.me
 0.0.0.0 ||seedapp-creative.s3.amazonaws.com
-0.0.0.0 ||cro.fi-tsunagu.com
 0.0.0.0 ||admane.jp
 0.0.0.0 ||smaad.net
 0.0.0.0 ||app.monetrack.com
@@ -49953,7 +49903,6 @@
 0.0.0.0 ||nur.gratis
 0.0.0.0 ||ikjnbvf.de
 0.0.0.0 ||emmi-findet.de
-0.0.0.0 ||sra.moresophy.net
 0.0.0.0 ||sv.sheego.de
 0.0.0.0 ||azol.de
 0.0.0.0 ||twiago.com
@@ -50097,7 +50046,6 @@
 0.0.0.0 ||power.adhacker.online
 0.0.0.0 ||a.tyncar.com
 0.0.0.0 ||og.zyzjpx.cn
-0.0.0.0 ||kolur.top
 0.0.0.0 ||x.dmouy.cn
 0.0.0.0 ||haoxxwang.com
 0.0.0.0 ||a32a.com.cn
@@ -50563,6 +50511,7 @@
 0.0.0.0 ||cdn.jst.ai
 0.0.0.0 ||cdn.matomo.cloud
 0.0.0.0 ||cdn.myadmessenger.com
+0.0.0.0 ||cdn.oribi.io
 0.0.0.0 ||cdn.pushalert.co
 0.0.0.0 ||cdn.reaktion.se
 0.0.0.0 ||cdn.routy.app
@@ -52932,6 +52881,8 @@
 0.0.0.0 ||getmacos.org
 0.0.0.0 ||getwindowsactivator.info
 0.0.0.0 ||ggzzmm.shop
+0.0.0.0 ||ghnn11.com
+0.0.0.0 ||ghnn22.com
 0.0.0.0 ||ghnn33.com
 0.0.0.0 ||giaingan799.com
 0.0.0.0 ||giainganonline799.com
@@ -54268,6 +54219,7 @@
 0.0.0.0 ||saokenganhangvn.com
 0.0.0.0 ||sbetviet.com
 0.0.0.0 ||sc0mvn.com
+0.0.0.0 ||scb.nanghanmucthenganhangvisa.com
 0.0.0.0 ||scdienmayxanh.com
 0.0.0.0 ||sd0053.shop
 0.0.0.0 ||sd062.com
@@ -54779,6 +54731,7 @@
 0.0.0.0 ||sp315693vn.com
 0.0.0.0 ||sp8668vn.com
 0.0.0.0 ||spark123.shop
+0.0.0.0 ||spmail88.com
 0.0.0.0 ||spohopena.com
 0.0.0.0 ||spohopenm.com
 0.0.0.0 ||spohopenm.org
@@ -55126,6 +55079,7 @@
 0.0.0.0 ||tindung188.com
 0.0.0.0 ||tindung24h-vietcombank.online
 0.0.0.0 ||tindung24h.com
+0.0.0.0 ||tindungcanhan.online
 0.0.0.0 ||tindungnganhang-vietnam247.online
 0.0.0.0 ||tindungnganhang-vietnam365.online
 0.0.0.0 ||tindungnganhang.biz
@@ -55759,6 +55713,7 @@
 0.0.0.0 ||vingroupinvest.com
 0.0.0.0 ||vingroupinvestment.com
 0.0.0.0 ||vingroupventures.shop
+0.0.0.0 ||vinideal-sale.pro
 0.0.0.0 ||vinpearl1.vingroupsny.com
 0.0.0.0 ||vip-dien-mayxanh.com
 0.0.0.0 ||vip-dienmayxanh.com
@@ -56107,6 +56062,7 @@
 0.0.0.0 ||wviietcombank.com
 0.0.0.0 ||wvvietcombank.com
 0.0.0.0 ||wvwiietcoombank.com
+0.0.0.0 ||www-icloud.com
 0.0.0.0 ||www-icloudid.com
 0.0.0.0 ||www-mfacebook.com.vn
 0.0.0.0 ||xa38.xyz
@@ -56226,6 +56182,7 @@
 0.0.0.0 ||hhffks967.shop
 0.0.0.0 ||hhffnu135.shop
 0.0.0.0 ||hmrwkcx.cn
+0.0.0.0 ||hozatr.xyz
 0.0.0.0 ||jgmywh.icu
 0.0.0.0 ||jqpejp.xyz
 0.0.0.0 ||js131.cn
@@ -56253,7 +56210,11 @@
 0.0.0.0 ||phvfevk.xyz
 0.0.0.0 ||pjzxdl.xyz
 0.0.0.0 ||przbzr.xyz
+0.0.0.0 ||qbhzghb.xyz
 0.0.0.0 ||qlbbowx.xyz
+0.0.0.0 ||qqkkpos.com
+0.0.0.0 ||qrkhwe.xyz
+0.0.0.0 ||qrttfmo.cn
 0.0.0.0 ||qzalsk.xyz
 0.0.0.0 ||rarcff.xyz
 0.0.0.0 ||rfnvqpo.xyz
@@ -56266,6 +56227,7 @@
 0.0.0.0 ||spsfupq.cn
 0.0.0.0 ||srzpsbf.xyz
 0.0.0.0 ||szbhb.cn
+0.0.0.0 ||szmnd.cn
 0.0.0.0 ||szmnf.cn
 0.0.0.0 ||szpnz.cn
 0.0.0.0 ||szptp.cn
@@ -56279,6 +56241,7 @@
 0.0.0.0 ||uu22662.com
 0.0.0.0 ||uxrdg.cn
 0.0.0.0 ||veaiyl.icu
+0.0.0.0 ||vhvwlb.xyz
 0.0.0.0 ||vxfdepn.cn
 0.0.0.0 ||wbvfj.xyz
 0.0.0.0 ||wkywrc.cn
@@ -56289,6 +56252,7 @@
 0.0.0.0 ||xdmnlxtu.xyz
 0.0.0.0 ||xdrvkdni.xyz
 0.0.0.0 ||xdybwjpa.xyz
+0.0.0.0 ||xklofoz.cn
 0.0.0.0 ||xliffnsc.xyz
 0.0.0.0 ||xn--wgvp78a61swpe6zdozj.cn
 0.0.0.0 ||xszw0.icu
@@ -56305,16 +56269,16 @@
 0.0.0.0 ||yvbjctqs.xyz
 0.0.0.0 ||yvnxetmq.xyz
 0.0.0.0 ||yvudqzoa.xyz
+0.0.0.0 ||ctlrarz.xyz
+0.0.0.0 ||ijvla.cn
+0.0.0.0 ||cqisam.xyz
+0.0.0.0 ||ndthdte125.shop
+0.0.0.0 ||ndthdtr586.shop
 0.0.0.0 ||yyddkm526.shop
 0.0.0.0 ||zagyjnn.cn
 0.0.0.0 ||zopuqv.icu
 0.0.0.0 ||ztxjutz.xyz
 0.0.0.0 ||zuvbzl.xyz
-0.0.0.0 ||qrttfmo.cn
-0.0.0.0 ||qbhzghb.xyz
-0.0.0.0 ||hozatr.xyz
-0.0.0.0 ||qrkhwe.xyz
-0.0.0.0 ||vhvwlb.xyz
 0.0.0.0 ||01v62.xyz
 0.0.0.0 ||052db.website
 0.0.0.0 ||053h94.com
