@@ -41949,6 +41949,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||jubbie.de
 0.0.0.0 ||collector.lunalabs.io
 0.0.0.0 ||greenbids.ai
 0.0.0.0 ||track.migattenogokui.com
@@ -49758,6 +49759,7 @@
 0.0.0.0 ||solution911.com
 0.0.0.0 ||templates.buscape.com
 0.0.0.0 ||yestorrents.org
+0.0.0.0 ||luxcdn.com
 0.0.0.0 ||vqhrqt.com
 0.0.0.0 ||marketer.lv
 0.0.0.0 ||programmatica.com
@@ -52872,7 +52874,6 @@
 0.0.0.0 ||ads.skolvarlden.se
 0.0.0.0 ||ads.ungdomar.se
 0.0.0.0 ||ads.varldenidag.se
-0.0.0.0 ||ads.veterinaren.nu
 0.0.0.0 ||adserver.ddev.site
 0.0.0.0 ||adserver.infotorg.se
 0.0.0.0 ||adserver.so-rummet.se
@@ -52947,7 +52948,6 @@
 0.0.0.0 ||browser.covatic.io
 0.0.0.0 ||browser-http-intake.logs.datadoghq.com
 0.0.0.0 ||browser-http-intake.logs.datadoghq.eu
-0.0.0.0 ||bulletproof-analytics.com
 0.0.0.0 ||buzzador.com
 0.0.0.0 ||c.eacla.com
 0.0.0.0 ||cargodisplayads.com
@@ -53014,7 +53014,6 @@
 0.0.0.0 ||d9v72urx9pbbc.cloudfront.net
 0.0.0.0 ||d33s3ffr7fotas.cloudfront.net
 0.0.0.0 ||dackpartner-web.s3.amazonaws.com
-0.0.0.0 ||dakine.com.se
 0.0.0.0 ||deals.innocode.no
 0.0.0.0 ||delivered-by-madington.com
 0.0.0.0 ||di.insplanet.com
@@ -53031,7 +53030,6 @@
 0.0.0.0 ||etc-cdn-staging.ams3.digitaloceanspaces.com
 0.0.0.0 ||eum.instana.io
 0.0.0.0 ||europe-west1-bonnier-big-data.cloudfunctions.net
-0.0.0.0 ||evtr.nordiskemedier.dk
 0.0.0.0 ||expo.ads.ramsalt.com
 0.0.0.0 ||extern.prisjakt.nu
 0.0.0.0 ||external.reseguiden.se
@@ -53067,6 +53065,7 @@
 0.0.0.0 ||investerarbrevet.se
 0.0.0.0 ||inviso.rampanel.com
 0.0.0.0 ||ion.btcswe.com
+0.0.0.0 ||js.evtr.nordiskemedier.dk
 0.0.0.0 ||js.glitnoraffiliates.com
 0.0.0.0 ||js.hsleadflows.net
 0.0.0.0 ||js.multibrandaffiliates.com
@@ -53076,7 +53075,6 @@
 0.0.0.0 ||keenstockholm.com.se
 0.0.0.0 ||ksdarprt.reseguiden.se
 0.0.0.0 ||kyrkoskatten.se
-0.0.0.0 ||kyrkskatt.se
 0.0.0.0 ||lanapengar.expressen.se
 0.0.0.0 ||lararforbundet.analytics.ozzi.io
 0.0.0.0 ||lasso.link
@@ -53164,7 +53162,6 @@
 0.0.0.0 ||revive.99mac.se
 0.0.0.0 ||revrelations.com
 0.0.0.0 ||richmediastudio.com
-0.0.0.0 ||rockeringformsweden.com
 0.0.0.0 ||rockportskorsverige.com
 0.0.0.0 ||rotator.riedta.com
 0.0.0.0 ||route.carambo.la
@@ -53198,8 +53195,6 @@
 0.0.0.0 ||sgtm.inet.se
 0.0.0.0 ||skattamindre.se
 0.0.0.0 ||sleeknote.com
-0.0.0.0 ||smetrics.aftonbladet.se
-0.0.0.0 ||sneakersisverige.com
 0.0.0.0 ||source.advisible.com
 0.0.0.0 ||spel.expressen.se
 0.0.0.0 ||sprinklecontent.com
@@ -58776,6 +58771,7 @@
 0.0.0.0 ||elisium.cn
 0.0.0.0 ||ellingsen.cn
 0.0.0.0 ||elphhrj.xyz
+0.0.0.0 ||eluocs.xyz
 0.0.0.0 ||endolift.cn
 0.0.0.0 ||enifdlaw.top
 0.0.0.0 ||eqqwgw.xyz
@@ -58791,6 +58787,7 @@
 0.0.0.0 ||fhtfnb.xyz
 0.0.0.0 ||fidelius.cn
 0.0.0.0 ||fmfnrf.xyz
+0.0.0.0 ||fmssoj.icu
 0.0.0.0 ||fpjjjh.xyz
 0.0.0.0 ||fpvdrzx.xyz
 0.0.0.0 ||frtnqps358.shop
@@ -58864,6 +58861,7 @@
 0.0.0.0 ||jubnpx.xyz
 0.0.0.0 ||justapp.top
 0.0.0.0 ||jvkqkzu.cn
+0.0.0.0 ||jyuwkba.top
 0.0.0.0 ||jzjpntr.xyz
 0.0.0.0 ||kbomku.xyz
 0.0.0.0 ||kdeh.cn
@@ -58906,6 +58904,7 @@
 0.0.0.0 ||mnifdlax.top
 0.0.0.0 ||moberg.cn
 0.0.0.0 ||mondigo.cn
+0.0.0.0 ||mpn56e.cn
 0.0.0.0 ||mrtxtrq.xyz
 0.0.0.0 ||mtddqjk.cn
 0.0.0.0 ||mthhhuq.cn
@@ -58956,10 +58955,12 @@
 0.0.0.0 ||pkyjuc.cn
 0.0.0.0 ||pmtrkp.icu
 0.0.0.0 ||pnxtnp.xyz
+0.0.0.0 ||polepole.cn
 0.0.0.0 ||pressit.cn
 0.0.0.0 ||prhfziq.xyz
 0.0.0.0 ||przbzr.xyz
 0.0.0.0 ||pseudonym.cn
+0.0.0.0 ||pwhkfd.xyz
 0.0.0.0 ||pwhtip.icu
 0.0.0.0 ||pxzrlf.xyz
 0.0.0.0 ||qbhzghb.xyz
@@ -59098,6 +59099,7 @@
 0.0.0.0 ||wsdwbfs.cn
 0.0.0.0 ||wtyusie.top
 0.0.0.0 ||wwjtdjj.cn
+0.0.0.0 ||wxfdmri.xyz
 0.0.0.0 ||xcypgd.icu
 0.0.0.0 ||xdfhidrk.xyz
 0.0.0.0 ||xdmnlxtu.xyz
@@ -59149,10 +59151,12 @@
 0.0.0.0 ||znhlxvb.xyz
 0.0.0.0 ||zojyob.icu
 0.0.0.0 ||zopuqv.icu
-0.0.0.0 ||pwhkfd.xyz
-0.0.0.0 ||wxfdmri.xyz
-0.0.0.0 ||eluocs.xyz
-0.0.0.0 ||fmssoj.icu
+0.0.0.0 ||ebwonro.cn
+0.0.0.0 ||inalzlo.top
+0.0.0.0 ||qkscga.xyz
+0.0.0.0 ||xgjidt.xyz
+0.0.0.0 ||jwhdgt.icu
+0.0.0.0 ||npjvgug.xyz
 0.0.0.0 ||zsjpi.cn
 0.0.0.0 ||zttuvj.xyz
 0.0.0.0 ||ztxjutz.xyz
