@@ -11388,6 +11388,7 @@
 0.0.0.0 ||edsvqciwxxqd.com
 0.0.0.0 ||edthechildrenandthe.info
 0.0.0.0 ||edtheparllase.com
+0.0.0.0 ||edtotigainare.info
 0.0.0.0 ||edttfiou.com
 0.0.0.0 ||edu-lib.com
 0.0.0.0 ||edua29146y.com
@@ -15149,6 +15150,7 @@
 0.0.0.0 ||gporkecpyttu.com
 0.0.0.0 ||gppsusbb.com
 0.0.0.0 ||gpsecureads.com
+0.0.0.0 ||gptkjrseu.com
 0.0.0.0 ||gpylmwtjiy.com
 0.0.0.0 ||gpynepb.com
 0.0.0.0 ||gqaecrxbj.com
@@ -15481,7 +15483,6 @@
 0.0.0.0 ||guiletoad.com
 0.0.0.0 ||guiltjadechances.com
 0.0.0.0 ||guilty-bear.com
-0.0.0.0 ||guinsters286nedril.com
 0.0.0.0 ||guitarfelicityraw.com
 0.0.0.0 ||gujakqludcuk.com
 0.0.0.0 ||gujojbavdoh.com
@@ -18977,6 +18978,7 @@
 0.0.0.0 ||kaubapsy.com
 0.0.0.0 ||kaujouphosta.com
 0.0.0.0 ||kauleeci.com
+0.0.0.0 ||kaurieseluxate.com
 0.0.0.0 ||kaushoag.net
 0.0.0.0 ||kauvoaph.xyz
 0.0.0.0 ||kauzishy.com
@@ -19316,6 +19318,7 @@
 0.0.0.0 ||kmyunderthf.info
 0.0.0.0 ||knackseafood.com
 0.0.0.0 ||knaplpdmbrbi.com
+0.0.0.0 ||knappedmurshid.com
 0.0.0.0 ||knaveavo.guru
 0.0.0.0 ||knawelgrx.com
 0.0.0.0 ||kncecafvdeu.info
@@ -24981,6 +24984,7 @@
 0.0.0.0 ||ovplnxsq.com
 0.0.0.0 ||ovqds.com
 0.0.0.0 ||ovsdnhpigmtd.xyz
+0.0.0.0 ||ovsgalzea.com
 0.0.0.0 ||ovsiicni.com
 0.0.0.0 ||ovsrhikuma.com
 0.0.0.0 ||ovuvmdoty.com
@@ -27294,6 +27298,7 @@
 0.0.0.0 ||ptp22.com
 0.0.0.0 ||ptp24.com
 0.0.0.0 ||ptpoeyc.com
+0.0.0.0 ||ptsixwereksbef.info
 0.0.0.0 ||ptstnews.pro
 0.0.0.0 ||pttsite.com
 0.0.0.0 ||ptufihie.net
@@ -39260,6 +39265,7 @@
 0.0.0.0 ||nexeps.com
 0.0.0.0 ||nextclick.pl
 0.0.0.0 ||nextmillennium.io
+0.0.0.0 ||nextmillmedia.com
 0.0.0.0 ||nextoptim.com
 0.0.0.0 ||nitmus.com
 0.0.0.0 ||nitropay.com
@@ -39685,10 +39691,12 @@
 0.0.0.0 ||1187531871.rsc.cdn77.org
 0.0.0.0 ||1274355588.rsc.cdn77.org
 0.0.0.0 ||1437953666.rsc.cdn77.org
+0.0.0.0 ||1453683541.rsc.cdn77.org
 0.0.0.0 ||1472566097.rsc.cdn77.org
 0.0.0.0 ||1529462937.rsc.cdn77.org
 0.0.0.0 ||1675450967.rsc.cdn77.org
 0.0.0.0 ||1736253261.rsc.cdn77.org
+0.0.0.0 ||1858742167.rsc.cdn77.org
 0.0.0.0 ||360playvid.com
 0.0.0.0 ||360playvid.info
 0.0.0.0 ||a-delivery.rmbl.ws
@@ -39811,6 +39819,7 @@
 0.0.0.0 ||plchldr.co
 0.0.0.0 ||popmog.com
 0.0.0.0 ||promos.fling.com
+0.0.0.0 ||proto2ad.durasite.net
 0.0.0.0 ||pubfeed.linkby.com
 0.0.0.0 ||public.porn.fr
 0.0.0.0 ||qsearch-a.akamaihd.net
@@ -39850,6 +39859,7 @@
 0.0.0.0 ||widget.shopstyle.com
 0.0.0.0 ||widgets.business.com
 0.0.0.0 ||widgets.lendingtree.com
+0.0.0.0 ||widgets.monito.com
 0.0.0.0 ||widgets.oddschecker.com
 0.0.0.0 ||widgets.progrids.com
 0.0.0.0 ||widgets.tree.com
@@ -39890,6 +39900,7 @@
 0.0.0.0 ||d142i1hxvwe38g.cloudfront.net
 0.0.0.0 ||d145ghnzqbsasr.cloudfront.net
 0.0.0.0 ||d14821r0t3377v.cloudfront.net
+0.0.0.0 ||d14l1tkufmtp1z.cloudfront.net
 0.0.0.0 ||d14zhsq5aop7ap.cloudfront.net
 0.0.0.0 ||d154nw1c88j0q6.cloudfront.net
 0.0.0.0 ||d15bcy38hlba76.cloudfront.net
@@ -48928,6 +48939,7 @@
 0.0.0.0 ||d3uvwl4wtkgzo1.cloudfront.net
 0.0.0.0 ||d761erxl2qywg.cloudfront.net
 0.0.0.0 ||dc8na2hxrj29i.cloudfront.net
+0.0.0.0 ||dcv4p460uqa46.cloudfront.net
 0.0.0.0 ||dh0c1bz67fuho.cloudfront.net
 0.0.0.0 ||di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 ||dkupaw9ae63a8.cloudfront.net
@@ -58636,6 +58648,7 @@
 0.0.0.0 ||3q1lsj.cn
 0.0.0.0 ||4wu3gf.cn
 0.0.0.0 ||51hir.cyou
+0.0.0.0 ||555bbb333bbb.com
 0.0.0.0 ||5z0d3.cyou
 0.0.0.0 ||666bbb333bbb.com
 0.0.0.0 ||6slb0.cyou
@@ -58654,6 +58667,7 @@
 0.0.0.0 ||999xx999kk.com
 0.0.0.0 ||aaoisp.com
 0.0.0.0 ||actitat.com
+0.0.0.0 ||adzdgr-wadd2-f1d.com
 0.0.0.0 ||agmed.cyou
 0.0.0.0 ||ahtfzhs.xyz
 0.0.0.0 ||ahyyqq.xyz
@@ -58774,6 +58788,7 @@
 0.0.0.0 ||elphhrj.xyz
 0.0.0.0 ||eluocs.xyz
 0.0.0.0 ||emizkno.cn
+0.0.0.0 ||enalzlw.top
 0.0.0.0 ||endolift.cn
 0.0.0.0 ||enifdlaw.top
 0.0.0.0 ||eqqwgw.xyz
@@ -58845,6 +58860,8 @@
 0.0.0.0 ||hyusnisu.top
 0.0.0.0 ||ijvla.cn
 0.0.0.0 ||imevzbn.cn
+0.0.0.0 ||img8e51zy4bg.com
+0.0.0.0 ||img8e94zy4bg.com
 0.0.0.0 ||inalzlo.top
 0.0.0.0 ||inifdlao.top
 0.0.0.0 ||inworket.com
@@ -58911,6 +58928,7 @@
 0.0.0.0 ||lwrohd.xyz
 0.0.0.0 ||ly55442.com
 0.0.0.0 ||lznfuab.xyz
+0.0.0.0 ||m1170.top
 0.0.0.0 ||m6690.top
 0.0.0.0 ||mdhv3.icu
 0.0.0.0 ||mdzwjra.cn
@@ -58925,6 +58943,7 @@
 0.0.0.0 ||mthhhuq.cn
 0.0.0.0 ||mtwmuy.xyz
 0.0.0.0 ||mxeq.cn
+0.0.0.0 ||naihyvz.cn
 0.0.0.0 ||nawpyd.icu
 0.0.0.0 ||nddld.cn
 0.0.0.0 ||ndthdte125.shop
@@ -58942,6 +58961,7 @@
 0.0.0.0 ||npjvgug.xyz
 0.0.0.0 ||nplahh.xyz
 0.0.0.0 ||nsjnmx.icu
+0.0.0.0 ||nuhgpx.xyz
 0.0.0.0 ||nvdtdsd.xyz
 0.0.0.0 ||nvjqtz.xyz
 0.0.0.0 ||nyt5j.cyou
@@ -58950,6 +58970,7 @@
 0.0.0.0 ||ocggec.xyz
 0.0.0.0 ||ofkcww.xyz
 0.0.0.0 ||ogznfgl.cn
+0.0.0.0 ||ojvpigx.xyz
 0.0.0.0 ||ok8867s.com
 0.0.0.0 ||okwkaa.xyz
 0.0.0.0 ||onagsc.xyz
@@ -58984,6 +59005,7 @@
 0.0.0.0 ||pwhkfd.xyz
 0.0.0.0 ||pwhtip.icu
 0.0.0.0 ||pxzrlf.xyz
+0.0.0.0 ||q02orc.cn
 0.0.0.0 ||qbhzghb.xyz
 0.0.0.0 ||qcohkm.xyz
 0.0.0.0 ||qdtzbbh.xyz
@@ -59098,6 +59120,7 @@
 0.0.0.0 ||uqwbcm.xyz
 0.0.0.0 ||urqwzbu.cn
 0.0.0.0 ||usltmus.cn
+0.0.0.0 ||utkauo.xyz
 0.0.0.0 ||utxmb.cn
 0.0.0.0 ||uu22662.com
 0.0.0.0 ||uuvzmba.cn
@@ -59179,6 +59202,7 @@
 0.0.0.0 ||yyttmyy.cn
 0.0.0.0 ||zagyjnn.cn
 0.0.0.0 ||zailgrae.com
+0.0.0.0 ||zekzoh.icu
 0.0.0.0 ||zeqvqb.icu
 0.0.0.0 ||zfzys.top
 0.0.0.0 ||zhaweifeng.com
@@ -59187,11 +59211,12 @@
 0.0.0.0 ||zjrtxt.xyz
 0.0.0.0 ||znhlxvb.xyz
 0.0.0.0 ||zojyob.icu
-0.0.0.0 ||q02orc.cn
-0.0.0.0 ||enalzlw.top
-0.0.0.0 ||nuhgpx.xyz
-0.0.0.0 ||ojvpigx.xyz
-0.0.0.0 ||utkauo.xyz
+0.0.0.0 ||gfylyw.xyz
+0.0.0.0 ||bdjfea.cn
+0.0.0.0 ||wnalzle.top
+0.0.0.0 ||vejhln.xyz
+0.0.0.0 ||obgekjz.icu
+0.0.0.0 ||atzhcjv.xyz
 0.0.0.0 ||zopuqv.icu
 0.0.0.0 ||zsjpi.cn
 0.0.0.0 ||zttuvj.xyz
@@ -60943,7 +60968,6 @@
 0.0.0.0 ||kanagi.xyz
 0.0.0.0 ||kart2ks.icu
 0.0.0.0 ||kasiklz.cc
-0.0.0.0 ||kaurieseluxate.com
 0.0.0.0 ||kbayke.xyz
 0.0.0.0 ||kbbrptv.xyz
 0.0.0.0 ||kbzs88.com
