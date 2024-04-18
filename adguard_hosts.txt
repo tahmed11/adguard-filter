@@ -1,3 +1,29 @@
+0.0.0.0 ||aickeebsi.com
+0.0.0.0 ||hstbbmtyptovqmw.com
+0.0.0.0 ||vmimbrygee.com
+0.0.0.0 ||auajifblipz.com
+0.0.0.0 ||profitsence.com
+0.0.0.0 ||veuuulalu.xyz
+0.0.0.0 ||ndqxdgnungzfx.com
+0.0.0.0 ||guvwolr.com
+0.0.0.0 ||rbltedbpjshxb.com
+0.0.0.0 ||cirsoaksat.net
+0.0.0.0 ||foreignerdarted.com
+0.0.0.0 ||binaryrecentrecentcut.com
+0.0.0.0 ||positioner.info
+0.0.0.0 ||ncukankingwith.info
+0.0.0.0 ||whizzerlollard.top
+0.0.0.0 ||dehortaval.top
+0.0.0.0 ||scyecacked.top
+0.0.0.0 ||vlcjpeailboxbw.com
+0.0.0.0 ||qeraogxzvplqvq.com
+0.0.0.0 ||rvwtwtidj.xyz
+0.0.0.0 ||openmindedaching.com
+0.0.0.0 ||attemptingstray.com
+0.0.0.0 ||ftslrfl.com
+0.0.0.0 ||xzvdfjp.com
+0.0.0.0 ||ignals.com
+0.0.0.0 ||globalwoldsinc.com
 0.0.0.0 ||ciqahsejb.com
 0.0.0.0 ||qomffnmxgwcon.com
 0.0.0.0 ||jxhbpcdzcg.com
@@ -761,6 +787,7 @@
 0.0.0.0 ||d71e6dd31a026d45.com
 0.0.0.0 ||adrunnr.com
 0.0.0.0 ||samsungtvads.com
+0.0.0.0 ||d2jsvulelid3e4.cloudfront.net
 0.0.0.0 ||d3k2wzdv9kuerp.cloudfront.net
 0.0.0.0 ||d263ut03kf37wj.cloudfront.net
 0.0.0.0 ||d29lduyskr59p4.cloudfront.net
@@ -838,7 +865,6 @@
 0.0.0.0 ||smart-placements-sdk.ex.co
 0.0.0.0 ||adtech-prod.nikecloud.com
 0.0.0.0 ||newrevive.detik.com
-0.0.0.0 ||res.adx.opera.com
 0.0.0.0 ||ads.rubiconproject.com
 0.0.0.0 ||eus.rubiconproject.com
 0.0.0.0 ||fastlane.rubiconproject.com
@@ -2441,6 +2467,7 @@
 0.0.0.0 ||adbutler-fermion.com
 0.0.0.0 ||adbutler.com
 0.0.0.0 ||adbuyer.com
+0.0.0.0 ||adc-teasers.com
 0.0.0.0 ||adcannyxml.com
 0.0.0.0 ||adcash.com
 0.0.0.0 ||adcastplus.net
@@ -4108,6 +4135,7 @@
 0.0.0.0 ||apxlv.com
 0.0.0.0 ||apyrenealiyos.digital
 0.0.0.0 ||apytbfdzy.com
+0.0.0.0 ||apzawhajrrci.com
 0.0.0.0 ||aq7ua5ma85rddeinve.com
 0.0.0.0 ||aqbusmueljfy.com
 0.0.0.0 ||aqcutwom.xyz
@@ -6030,6 +6058,7 @@
 0.0.0.0 ||blatwalm.com
 0.0.0.0 ||blaze-media.com
 0.0.0.0 ||blazesomeplacespecification.com
+0.0.0.0 ||blazonstowel.com
 0.0.0.0 ||blbazybajjevv.top
 0.0.0.0 ||blbazybajvzvw.top
 0.0.0.0 ||blbesnuff.digital
@@ -9556,6 +9585,7 @@
 0.0.0.0 ||d8b805b9a9.com
 0.0.0.0 ||d90be87e47.com
 0.0.0.0 ||d95d5c2239.com
+0.0.0.0 ||d9fb2cc166.com
 0.0.0.0 ||d9kvn70l4ogn.com
 0.0.0.0 ||da-ads.com
 0.0.0.0 ||da066d9560.com
@@ -11703,6 +11733,7 @@
 0.0.0.0 ||eegamaub.net
 0.0.0.0 ||eegeeglou.com
 0.0.0.0 ||eeghadse.com
+0.0.0.0 ||eeghooptauy.net
 0.0.0.0 ||eeglauftoo.com
 0.0.0.0 ||eegnacou.com
 0.0.0.0 ||eegookiz.com
@@ -13185,6 +13216,7 @@
 0.0.0.0 ||fbxyuleyktun.com
 0.0.0.0 ||fc0a58af2e.com
 0.0.0.0 ||fc7c8be451.com
+0.0.0.0 ||fc861ba414.com
 0.0.0.0 ||fc9115d2c7.com
 0.0.0.0 ||fcaijpwzvj.com
 0.0.0.0 ||fccinteractive.com
@@ -14308,6 +14340,7 @@
 0.0.0.0 ||fsobjvtkew.com
 0.0.0.0 ||fsotrmshy.com
 0.0.0.0 ||fsrtqexvtshh.com
+0.0.0.0 ||fsseeewzz.lol
 0.0.0.0 ||fsseeewzz.quest
 0.0.0.0 ||fstsrv1.com
 0.0.0.0 ||fstsrv2.com
@@ -21954,6 +21987,7 @@
 0.0.0.0 ||mbtennu.com
 0.0.0.0 ||mbtgcagioorcw.com
 0.0.0.0 ||mbuncha.com
+0.0.0.0 ||mbundabarony.top
 0.0.0.0 ||mbvfawgcsnukb.com
 0.0.0.0 ||mbvlmx.com
 0.0.0.0 ||mbvlmz.com
@@ -23925,6 +23959,7 @@
 0.0.0.0 ||nnmtjmkae.xyz
 0.0.0.0 ||nnncrox.com
 0.0.0.0 ||nnnfqegwes.xyz
+0.0.0.0 ||nnowa.com
 0.0.0.0 ||nnoyigqsvjud.com
 0.0.0.0 ||nnsnniklov.xyz
 0.0.0.0 ||nnthewdnez.com
@@ -24192,6 +24227,7 @@
 0.0.0.0 ||nrnma.com
 0.0.0.0 ||nrqppdgnhaagjq.com
 0.0.0.0 ||nrrdxyauavkdrc.com
+0.0.0.0 ||nrunmoldy.com
 0.0.0.0 ||nrvbadypy.com
 0.0.0.0 ||nryanocytqc.com
 0.0.0.0 ||nryceuula.com
@@ -30050,6 +30086,7 @@
 0.0.0.0 ||rodroord.net
 0.0.0.0 ||rodunwelcome.com
 0.0.0.0 ||roduster.com
+0.0.0.0 ||rodwoodporched.com
 0.0.0.0 ||roebuckwagged.com
 0.0.0.0 ||roelikewimpler.com
 0.0.0.0 ||roemoss.com
@@ -31096,6 +31133,7 @@
 0.0.0.0 ||sentimentalclient.pro
 0.0.0.0 ||sentimenthypocrisy.com
 0.0.0.0 ||sentimentsvarious.com
+0.0.0.0 ||sentinelp.com
 0.0.0.0 ||seo-overview.com
 0.0.0.0 ||separashparyro.info
 0.0.0.0 ||separatecolonist.com
@@ -32418,6 +32456,7 @@
 0.0.0.0 ||sponsormob.com
 0.0.0.0 ||sponsorpay.com
 0.0.0.0 ||spontaneousleave.com
+0.0.0.0 ||spontonelatery.com
 0.0.0.0 ||spooksschedar.com
 0.0.0.0 ||spooksuspicions.com
 0.0.0.0 ||spookybirch.com
@@ -34373,6 +34412,7 @@
 0.0.0.0 ||tjuhdrm.com
 0.0.0.0 ||tjxfkmlhubh.com
 0.0.0.0 ||tkaqlvqjnn.com
+0.0.0.0 ||tkauru.xyz
 0.0.0.0 ||tkbo.com
 0.0.0.0 ||tkhwslqsmjwingf.com
 0.0.0.0 ||tkickhhylnvm.com
@@ -34721,6 +34761,7 @@
 0.0.0.0 ||tracker-tds2.site
 0.0.0.0 ||tracker19875.space
 0.0.0.0 ||tracker2.space
+0.0.0.0 ||trackerrr.com
 0.0.0.0 ||trackeverything.co
 0.0.0.0 ||trackingmembers.com
 0.0.0.0 ||trackingrouter.com
@@ -38720,6 +38761,7 @@
 0.0.0.0 ||ybmebpsmpwueo.com
 0.0.0.0 ||ybriifs.com
 0.0.0.0 ||ybs2ffs7v.com
+0.0.0.0 ||ybtkzjm.com
 0.0.0.0 ||ybuduzpe.com
 0.0.0.0 ||ybujfcuqya.com
 0.0.0.0 ||ybwcvhcnulrgbvy.com
@@ -40985,6 +41027,7 @@
 0.0.0.0 ||ad.tpmn.co.kr
 0.0.0.0 ||ad.video-mech.ru
 0.0.0.0 ||ad.wsod.com
+0.0.0.0 ||ad01.tmgrup.com.tr
 0.0.0.0 ||adinplay-venatus.workers.dev
 0.0.0.0 ||adncdnend.azureedge.net
 0.0.0.0 ||ads-api.production.nebula-drupal.stuff.co.nz
@@ -41003,6 +41046,7 @@
 0.0.0.0 ||adtechvideo.s3.amazonaws.com
 0.0.0.0 ||advast.sibnet.ru
 0.0.0.0 ||adx-exchange.toast.com
+0.0.0.0 ||adx.opera.com
 0.0.0.0 ||aff.bstatic.com
 0.0.0.0 ||affiliate.heureka.cz
 0.0.0.0 ||affiliate.juno.co.uk
@@ -41061,6 +41105,7 @@
 0.0.0.0 ||hb.yahoo.net
 0.0.0.0 ||hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 ||hotwire-widget.dailywire.com
+0.0.0.0 ||iili.io
 0.0.0.0 ||inrdeals.com
 0.0.0.0 ||join.megaphonetv.com
 0.0.0.0 ||js.manga1001.win
@@ -42541,7 +42586,6 @@
 0.0.0.0 ||ad-splash.hktvmall.com
 0.0.0.0 ||advil.waze.com
 0.0.0.0 ||s-adx.op-mobile.opera.com
-0.0.0.0 ||s.adx.opera.com
 0.0.0.0 ||ketchapp.org
 0.0.0.0 ||cdn-ketchapp.akamaized.net
 0.0.0.0 ||sspapi-prd.samsungrs.com
@@ -46626,6 +46670,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||log.jd.com
 0.0.0.0 ||tracker.myth.dev
 0.0.0.0 ||metrics.baitoru.com
 0.0.0.0 ||log.dpa.com
@@ -48985,7 +49030,6 @@
 0.0.0.0 ||tracking-widget.fillr.com
 0.0.0.0 ||api.data-analytics.pokemon.com
 0.0.0.0 ||arcspire.io
-0.0.0.0 ||t.adx.opera.com
 0.0.0.0 ||sensors.snaptube.app
 0.0.0.0 ||analytics.kongregate.io
 0.0.0.0 ||logs.gshopper.com
@@ -54408,6 +54452,7 @@
 0.0.0.0 ||norranstats.azurewebsites.net
 0.0.0.0 ||norstatsurveys.com
 0.0.0.0 ||ntrfr.expekt.se
+0.0.0.0 ||ntrfr.pixel.bet
 0.0.0.0 ||nucleusanalytics.io
 0.0.0.0 ||omni-ad-blocket.herokuapp.com
 0.0.0.0 ||openx.financialpublishers.nl
@@ -56253,6 +56298,7 @@
 0.0.0.0 ||cskh-the-vpbank.com
 0.0.0.0 ||cskh-vib-canhan.com
 0.0.0.0 ||cskh-vib.ho-tro-tin-dung-ca-nhan.com
+0.0.0.0 ||cskh-vib.nang-han-muc-the-visa.com
 0.0.0.0 ||cskhdienmayxanh.com
 0.0.0.0 ||cskhdienmayxanhvn.com
 0.0.0.0 ||cskhmayxanh.com
@@ -56364,6 +56410,7 @@
 0.0.0.0 ||dienmayxanh247.com
 0.0.0.0 ||dienmayxanh24h.com
 0.0.0.0 ||dienmayxanh24h.net
+0.0.0.0 ||dienmayxanh263.com
 0.0.0.0 ||dienmayxanh268.com
 0.0.0.0 ||dienmayxanh269.com
 0.0.0.0 ||dienmayxanhantam.com
@@ -56484,6 +56531,7 @@
 0.0.0.0 ||fcccredit.com
 0.0.0.0 ||fccomvn.com
 0.0.0.0 ||fd2.hmexchangecentre.com
+0.0.0.0 ||fdsd22.com
 0.0.0.0 ||fe-shop.cc
 0.0.0.0 ||fe.lwcvn.com
 0.0.0.0 ||feacbookk.com
@@ -56753,9 +56801,11 @@
 0.0.0.0 ||hdbanks.com
 0.0.0.0 ||hdcreditvnn.com
 0.0.0.0 ||hdfn.online
+0.0.0.0 ||hdsaison-app.cc
 0.0.0.0 ||hdsaison-app.vip
 0.0.0.0 ||hdsaison-com.cc
 0.0.0.0 ||hdsaison-hi.cc
+0.0.0.0 ||hdsaison-vip.cc
 0.0.0.0 ||hdsaison-vn.cc
 0.0.0.0 ||hdsaison-vn.com
 0.0.0.0 ||hdsaisonvn.com
@@ -56942,10 +56992,12 @@
 0.0.0.0 ||keygenwin.com
 0.0.0.0 ||kfdg22.com
 0.0.0.0 ||kfdg55.com
+0.0.0.0 ||kh-cn-uutien-3fv-vib.com
 0.0.0.0 ||khach-hang-ca-nhan-vip5.com
 0.0.0.0 ||khangdz215.tk
 0.0.0.0 ||khcn-han-muc-tin-dung-ca-nhan.com
 0.0.0.0 ||khcn-tindung-vp.com
+0.0.0.0 ||khcn-uu-tien-3fv-vib.com
 0.0.0.0 ||khoanhkhacgiadinhdoantucuoinam.weebly.com
 0.0.0.0 ||khoataikhoan-grn-vinhvien.xyz
 0.0.0.0 ||khoataikhoangarena.xyz
@@ -57213,6 +57265,7 @@
 0.0.0.0 ||mbbankmn.com
 0.0.0.0 ||mbbankn.com
 0.0.0.0 ||mbbffn.online
+0.0.0.0 ||mbfic-plus.com
 0.0.0.0 ||mbtk-bank.com
 0.0.0.0 ||mcfa11.com
 0.0.0.0 ||mcredit.vaynhanh-bankcredits.com
@@ -57899,6 +57952,7 @@
 0.0.0.0 ||quaviet999.com
 0.0.0.0 ||quaymayman.com
 0.0.0.0 ||quayngoc.com
+0.0.0.0 ||quaysomediamart2024.vip
 0.0.0.0 ||quaythuonggamefreefire.com
 0.0.0.0 ||quaythuonggarena.com
 0.0.0.0 ||quaythuongmembership.com
@@ -58495,6 +58549,7 @@
 0.0.0.0 ||simpliftsbefore.info
 0.0.0.0 ||sindtex.shop
 0.0.0.0 ||sinhvienvietnam2022.weebly.com
+0.0.0.0 ||skhf11.com
 0.0.0.0 ||smilitygorb.club
 0.0.0.0 ||smrtbbdv.com
 0.0.0.0 ||smrtbbidv.com
@@ -58530,6 +58585,7 @@
 0.0.0.0 ||standardresourcebank.com
 0.0.0.0 ||starbucksthai.shop
 0.0.0.0 ||stbuyshopoui.com
+0.0.0.0 ||stcard-vib.com
 0.0.0.0 ||steamunlocked.one
 0.0.0.0 ||storebinzdapoet.shop
 0.0.0.0 ||storehaiyen.com
@@ -60606,6 +60662,14 @@
 0.0.0.0 ||vdoqomz.icu
 0.0.0.0 ||jypvzd.xyz
 0.0.0.0 ||ajffubz.xyz
+0.0.0.0 ||grulphaens.com
+0.0.0.0 ||zxfdbr.xyz
+0.0.0.0 ||qusrow.xyz
+0.0.0.0 ||syuwkbb.top
+0.0.0.0 ||tudxhzj.cn
+0.0.0.0 ||oweeiyw.icu
+0.0.0.0 ||vkdgdt.xyz
+0.0.0.0 ||rbfxoex.xyz
 0.0.0.0 ||zhnnaxe.xyz
 0.0.0.0 ||zjrtxt.xyz
 0.0.0.0 ||znhlxvb.xyz
