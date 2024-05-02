@@ -1,3 +1,5 @@
+0.0.0.0 ||ad.yieldmanager.com
+0.0.0.0 ||bollyocean.com
 0.0.0.0 ||leveryone.info
 0.0.0.0 ||ightsapph.info
 0.0.0.0 ||dwvxmfscptajtll.com
@@ -8298,6 +8300,7 @@
 0.0.0.0 ||clevernt.com
 0.0.0.0 ||cleverwebserver.com
 0.0.0.0 ||clevv.com
+0.0.0.0 ||clewmcpaex.com
 0.0.0.0 ||clfwrobtgqferh.xyz
 0.0.0.0 ||clfxjrlui.com
 0.0.0.0 ||clhrlmks.com
@@ -12886,6 +12889,7 @@
 0.0.0.0 ||exdimkvfbku.com
 0.0.0.0 ||exdynsrv.com
 0.0.0.0 ||executecomicswhale.com
+0.0.0.0 ||executionago.com
 0.0.0.0 ||executiontoothache.com
 0.0.0.0 ||executivetumult.com
 0.0.0.0 ||exefprtna.com
@@ -22606,6 +22610,7 @@
 0.0.0.0 ||minglefrostgrasp.com
 0.0.0.0 ||mingonnigh.com
 0.0.0.0 ||miniaturechain.pro
+0.0.0.0 ||miniaturecomfortable.com
 0.0.0.0 ||miniatureoffer.pro
 0.0.0.0 ||miniglobalcitizens.com
 0.0.0.0 ||minimizetommyunleash.com
@@ -24395,6 +24400,7 @@
 0.0.0.0 ||nqgdljechyyska.com
 0.0.0.0 ||nqhataamn.xyz
 0.0.0.0 ||nqisabwtfbm.com
+0.0.0.0 ||nqkdocgce.com
 0.0.0.0 ||nqmfmnmqysei.com
 0.0.0.0 ||nqn7la7.de
 0.0.0.0 ||nqoxrsrf.com
@@ -25318,6 +25324,7 @@
 0.0.0.0 ||oogroopt.com
 0.0.0.0 ||oohaussa.com
 0.0.0.0 ||ooivkrkudanjrpk.com
+0.0.0.0 ||ooivmtvmxpqwf.com
 0.0.0.0 ||oojitsoo.net
 0.0.0.0 ||ookresit.net
 0.0.0.0 ||ookroush.com
@@ -27073,6 +27080,7 @@
 0.0.0.0 ||pkudawbkcl.com
 0.0.0.0 ||pkxseoxojrg.com
 0.0.0.0 ||pkyhdpdzidm.com
+0.0.0.0 ||placardcapitalistcalculate.com
 0.0.0.0 ||placingcompany.com
 0.0.0.0 ||placingfinally.com
 0.0.0.0 ||placingsolemnlyinexpedient.com
@@ -28122,6 +28130,7 @@
 0.0.0.0 ||psaiglursurvey.space
 0.0.0.0 ||psairees.net
 0.0.0.0 ||psairtoo.com
+0.0.0.0 ||psaiwaxaib.net
 0.0.0.0 ||psaizeemit.com
 0.0.0.0 ||psaksegh.xyz
 0.0.0.0 ||psalmexceptional.com
@@ -28599,6 +28608,7 @@
 0.0.0.0 ||pvtypsgueyqey.com
 0.0.0.0 ||pvxvazbehd.com
 0.0.0.0 ||pwbmdalngizhz.com
+0.0.0.0 ||pwdhstaih.com
 0.0.0.0 ||pwdxawuedjjj.com
 0.0.0.0 ||pweabzcatoh.com
 0.0.0.0 ||pwmctl.com
@@ -28702,6 +28712,7 @@
 0.0.0.0 ||qe0ckm024b.com
 0.0.0.0 ||qebuoxn.com
 0.0.0.0 ||qedeczzdt.com
+0.0.0.0 ||qehjsjdubamsrt.com
 0.0.0.0 ||qehwgbwjmjvq.xyz
 0.0.0.0 ||qeildfuznofnlq.com
 0.0.0.0 ||qekbmjyzwemvb.top
@@ -30595,6 +30606,7 @@
 0.0.0.0 ||rtyufo.com
 0.0.0.0 ||rtyznd.com
 0.0.0.0 ||rtzblzfgzqw.com
+0.0.0.0 ||rtzbpsy.com
 0.0.0.0 ||ru6sapasgs8tror.com
 0.0.0.0 ||ruamupr.com
 0.0.0.0 ||rubatowooer.digital
@@ -32233,6 +32245,7 @@
 0.0.0.0 ||smittenkick.top
 0.0.0.0 ||smjulynews.com
 0.0.0.0 ||smjxarmaflpmxj.com
+0.0.0.0 ||smkezc.com
 0.0.0.0 ||smnkaoqyys.com
 0.0.0.0 ||smnwwohzccfwcu.com
 0.0.0.0 ||smoggydamage.com
@@ -32990,6 +33003,7 @@
 0.0.0.0 ||steamdespicable.com
 0.0.0.0 ||steamjaws.com
 0.0.0.0 ||stedsous.xyz
+0.0.0.0 ||steefaulrouy.xyz
 0.0.0.0 ||steel-bedroom.pro
 0.0.0.0 ||steeplederivedinattentive.com
 0.0.0.0 ||steeplesaturday.com
@@ -34001,6 +34015,7 @@
 0.0.0.0 ||tdditqosnpeo.com
 0.0.0.0 ||tdfkidmyynbqu.com
 0.0.0.0 ||tdgtkqtluuhjcfw.com
+0.0.0.0 ||tdmrfw.com
 0.0.0.0 ||tdqhlowkhxeohe.com
 0.0.0.0 ||tdrtqjbifwl.com
 0.0.0.0 ||tdspa.top
@@ -34261,6 +34276,7 @@
 0.0.0.0 ||theathematica.info
 0.0.0.0 ||theatresintotales.com
 0.0.0.0 ||thebestgame2020.com
+0.0.0.0 ||thecalokas.com
 0.0.0.0 ||thecarconnections.com
 0.0.0.0 ||thechargenews.com
 0.0.0.0 ||thechleads.pro
@@ -35717,6 +35733,7 @@
 0.0.0.0 ||udtropary.top
 0.0.0.0 ||uduhytyllobm.com
 0.0.0.0 ||udxdkdirwabx.com
+0.0.0.0 ||udzpel.com
 0.0.0.0 ||uecppuciocadi.com
 0.0.0.0 ||uedvxswwfub.com
 0.0.0.0 ||uejntsxdffp.com
@@ -38222,6 +38239,7 @@
 0.0.0.0 ||wmeqobozarqyj.top
 0.0.0.0 ||wmgtr.com
 0.0.0.0 ||wmhwptmsvx.com
+0.0.0.0 ||wmiahgohlf.com
 0.0.0.0 ||wmkyrbx.com
 0.0.0.0 ||wmlbjana.com
 0.0.0.0 ||wmlfyerssqlipx.com
@@ -38778,6 +38796,7 @@
 0.0.0.0 ||xjoyvqpuwzut.com
 0.0.0.0 ||xjrwxfdphc.com
 0.0.0.0 ||xjsx.lol
+0.0.0.0 ||xjupijxdt.xyz
 0.0.0.0 ||xjwcnvnqdm.com
 0.0.0.0 ||xkbgqducppuan.xyz
 0.0.0.0 ||xkbydybnle.com
@@ -39542,6 +39561,7 @@
 0.0.0.0 ||zeepteestaub.com
 0.0.0.0 ||zeeshech.net
 0.0.0.0 ||zeeshith.net
+0.0.0.0 ||zeewhaih.com
 0.0.0.0 ||zefusgk.com
 0.0.0.0 ||zegnoaft.com
 0.0.0.0 ||zegrumse.net
@@ -41298,6 +41318,7 @@
 0.0.0.0 ||d84bc26d.site
 0.0.0.0 ||e076.xyz
 0.0.0.0 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
+0.0.0.0 ||ec44.site
 0.0.0.0 ||f6176563.site
 0.0.0.0 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 0.0.0.0 ||ad.lgappstv.com
@@ -41332,6 +41353,7 @@
 0.0.0.0 ||1085549509.rsc.cdn77.org
 0.0.0.0 ||10945-2.s.cdn15.com
 0.0.0.0 ||10945-5.s.cdn15.com
+0.0.0.0 ||1175980934.rsc.cdn77.org
 0.0.0.0 ||1187531871.rsc.cdn77.org
 0.0.0.0 ||1201741305.rsc.cdn77.org
 0.0.0.0 ||1278977604.rsc.cdn77.org
@@ -41340,6 +41362,7 @@
 0.0.0.0 ||1441085683.rsc.cdn77.org
 0.0.0.0 ||1492697327.rsc.cdn77.org
 0.0.0.0 ||1529462937.rsc.cdn77.org
+0.0.0.0 ||1543481067.rsc.cdn77.org
 0.0.0.0 ||1564285319.rsc.cdn77.org
 0.0.0.0 ||1675450967.rsc.cdn77.org
 0.0.0.0 ||1723614251.rsc.cdn77.org
@@ -42984,6 +43007,7 @@
 0.0.0.0 ||deapi.afreecatv.com
 0.0.0.0 ||startup.mobile.yandex.net
 0.0.0.0 ||startup-mobile.ap.yandex-net.ru
+0.0.0.0 ||appsrv.display.io
 0.0.0.0 ||ad.line-scdn.net
 0.0.0.0 ||splash-ad.classting.com
 0.0.0.0 ||ad-files.classting.com
@@ -47041,6 +47065,10 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||femetrics.grammarly.io
+0.0.0.0 ||realtimeanalytics.yext.com
+0.0.0.0 ||stats.indianpornempire.com
+0.0.0.0 ||lp.spac.me
 0.0.0.0 ||analytics.verfacto.com
 0.0.0.0 ||flask.us.nextdoor.com
 0.0.0.0 ||ev.indianexpress.com
@@ -48465,8 +48493,6 @@
 0.0.0.0 ||msmetrics.ws.sonos.com
 0.0.0.0 ||mstat.acestream.net
 0.0.0.0 ||mtp.spaces.im
-0.0.0.0 ||mtp.spaces.ru
-0.0.0.0 ||mtp.spcs.me
 0.0.0.0 ||mva1.maeva.com
 0.0.0.0 ||ncx2.voyage-prive.it
 0.0.0.0 ||newlog.overwolf.com
@@ -51383,6 +51409,7 @@
 0.0.0.0 ||xad.dnoticias.pt
 0.0.0.0 ||adclient-uol.lp.uol.com.br
 0.0.0.0 ||adv.r7.com
+0.0.0.0 ||oilierelixir.com
 0.0.0.0 ||adzonestatic.com
 0.0.0.0 ||adzep.com.br
 0.0.0.0 ||nobeta.com.br
@@ -54894,7 +54921,6 @@
 0.0.0.0 ||revive.99mac.se
 0.0.0.0 ||revrelations.com
 0.0.0.0 ||richmediastudio.com
-0.0.0.0 ||rockportskorsverige.com
 0.0.0.0 ||rotator.riedta.com
 0.0.0.0 ||route.carambo.la
 0.0.0.0 ||royapp.com
@@ -54926,7 +54952,6 @@
 0.0.0.0 ||servedby.lintigroup.se
 0.0.0.0 ||se-ads-microservice.ads.allermedia.io
 0.0.0.0 ||sgtm.inet.se
-0.0.0.0 ||skattamindre.se
 0.0.0.0 ||sleeknote.com
 0.0.0.0 ||source.advisible.com
 0.0.0.0 ||spel.expressen.se
@@ -55051,7 +55076,6 @@
 0.0.0.0 ||tracking.ht.se
 0.0.0.0 ||tracking.illvet.se
 0.0.0.0 ||tracking.inboxads.com
-0.0.0.0 ||tracking.jnytt.se
 0.0.0.0 ||tracking.jp.se
 0.0.0.0 ||tracking.kalmarposten.se
 0.0.0.0 ||tracking.klt.nu
@@ -55135,14 +55159,12 @@
 0.0.0.0 ||www.guesssverige.com.se
 0.0.0.0 ||www.kundvisaren.se
 0.0.0.0 ||www.mymediaindex.com
-0.0.0.0 ||www.runningshoessverige.com
 0.0.0.0 ||www.stadiumstage.com
 0.0.0.0 ||www.statcounter.com
 0.0.0.0 ||www.vejaskor.com.se
 0.0.0.0 ||www.vejasskor.com
 0.0.0.0 ||www.datadoghq-browser-agent.com
 0.0.0.0 ||www.gymshark-sweden.com.se
-0.0.0.0 ||www.gym-sharksweden.com
 0.0.0.0 ||adplay.it
 0.0.0.0 ||brznetwork.com
 0.0.0.0 ||delosnetwork.it
@@ -60567,6 +60589,7 @@
 0.0.0.0 ||cfugrnc.icu
 0.0.0.0 ||chayassa.com
 0.0.0.0 ||cherylssb.com
+0.0.0.0 ||chinaslauras.com
 0.0.0.0 ||cijianggun.com
 0.0.0.0 ||cliffnsc.xyz
 0.0.0.0 ||clmkwi.xyz
@@ -60587,6 +60610,7 @@
 0.0.0.0 ||cvnxetmq.xyz
 0.0.0.0 ||cvudqzoa.xyz
 0.0.0.0 ||cweriof.top
+0.0.0.0 ||cwiuhtp.icu
 0.0.0.0 ||cwssfg632.shop
 0.0.0.0 ||cxlvlbx.xyz
 0.0.0.0 ||cyuwkbf.top
@@ -60667,6 +60691,7 @@
 0.0.0.0 ||ferriesendless.com
 0.0.0.0 ||fhtfnb.xyz
 0.0.0.0 ||fidelius.cn
+0.0.0.0 ||fkhxlz.xyz
 0.0.0.0 ||fmfnrf.xyz
 0.0.0.0 ||fmssoj.icu
 0.0.0.0 ||fmvzzh.xyz
@@ -60688,6 +60713,7 @@
 0.0.0.0 ||gcumgu.xyz
 0.0.0.0 ||gfjn5.xyz
 0.0.0.0 ||gfylyw.xyz
+0.0.0.0 ||ghabnq.xyz
 0.0.0.0 ||ghgasdb365.shop
 0.0.0.0 ||ghgasdt963.shop
 0.0.0.0 ||gicjtss.cn
@@ -60740,6 +60766,7 @@
 0.0.0.0 ||hweriou.top
 0.0.0.0 ||hyusnisu.top
 0.0.0.0 ||hyuwkbu.top
+0.0.0.0 ||icqeou.xyz
 0.0.0.0 ||idffhq.cn
 0.0.0.0 ||ievvo.xyz
 0.0.0.0 ||ihwlek.com
@@ -60774,6 +60801,7 @@
 0.0.0.0 ||jgmywh.icu
 0.0.0.0 ||jhfcll.cn
 0.0.0.0 ||jioed.cyou
+0.0.0.0 ||jivvjl.xyz
 0.0.0.0 ||jmesxbe.icu
 0.0.0.0 ||jnalzla.top
 0.0.0.0 ||jnifdlaa.top
@@ -60806,6 +60834,7 @@
 0.0.0.0 ||knifdlad.top
 0.0.0.0 ||knpkxgfp.xyz
 0.0.0.0 ||koqjok.xyz
+0.0.0.0 ||kovvild.com
 0.0.0.0 ||kpmose.xyz
 0.0.0.0 ||kssolo.com
 0.0.0.0 ||ktoioo.xyz
@@ -61042,6 +61071,7 @@
 0.0.0.0 ||styusib.top
 0.0.0.0 ||superjj.online
 0.0.0.0 ||svncowt.cn
+0.0.0.0 ||sweriob.top
 0.0.0.0 ||swsegi.xyz
 0.0.0.0 ||syuwkbb.top
 0.0.0.0 ||szbhb.cn
@@ -61142,6 +61172,7 @@
 0.0.0.0 ||vioyugo.cn
 0.0.0.0 ||vipgogo123.site
 0.0.0.0 ||vkdgdt.xyz
+0.0.0.0 ||vkguvyg.cn
 0.0.0.0 ||vmnlkr.icu
 0.0.0.0 ||vpzohx.xyz
 0.0.0.0 ||vqbzpv.xyz
@@ -61240,12 +61271,6 @@
 0.0.0.0 ||zhaweifeng.com
 0.0.0.0 ||zhihucloud.xyz
 0.0.0.0 ||zhnnaxe.xyz
-0.0.0.0 ||icqeou.xyz
-0.0.0.0 ||cwiuhtp.icu
-0.0.0.0 ||vkguvyg.cn
-0.0.0.0 ||chinaslauras.com
-0.0.0.0 ||jivvjl.xyz
-0.0.0.0 ||sweriob.top
 0.0.0.0 ||zjrtxt.xyz
 0.0.0.0 ||znhlxvb.xyz
 0.0.0.0 ||zojyob.icu
