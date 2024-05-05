@@ -1334,6 +1334,7 @@
 0.0.0.0 ||12bf8fb111.com
 0.0.0.0 ||12ezo5v60.com
 0.0.0.0 ||130gelh8q.de
+0.0.0.0 ||13199960a1.com
 0.0.0.0 ||137kfj65k.de
 0.0.0.0 ||13b3403320.com
 0.0.0.0 ||13b696a4c1.com
@@ -1707,6 +1708,7 @@
 0.0.0.0 ||463fca0d34.com
 0.0.0.0 ||466f89f4d1.com
 0.0.0.0 ||4690y10pvpq8.com
+0.0.0.0 ||46f4vjo86.com
 0.0.0.0 ||47aead8f05.com
 0.0.0.0 ||47c8d48301.com
 0.0.0.0 ||4901967b4b.com
@@ -2290,6 +2292,7 @@
 0.0.0.0 ||abrhydona.com
 0.0.0.0 ||abridebouch.com
 0.0.0.0 ||abridgeoverwhelmfireball.com
+0.0.0.0 ||abridgesynchronizepleat.com
 0.0.0.0 ||abruptcompliments.com
 0.0.0.0 ||abruptlyretortedbat.com
 0.0.0.0 ||abruptnesscarrier.com
@@ -2947,6 +2950,7 @@
 0.0.0.0 ||adtorio.com
 0.0.0.0 ||adtotal.pl
 0.0.0.0 ||adtpix.com
+0.0.0.0 ||adtpkiowp.com
 0.0.0.0 ||adtrace.online
 0.0.0.0 ||adtrace.org
 0.0.0.0 ||adtrgt.com
@@ -4678,6 +4682,7 @@
 0.0.0.0 ||atinsolutions.com
 0.0.0.0 ||ationpecialukizeiaon.info
 0.0.0.0 ||atiretrously.com
+0.0.0.0 ||ativesathyas.info
 0.0.0.0 ||atjigglypuffor.com
 0.0.0.0 ||atlhjtmjrj.com
 0.0.0.0 ||atmalinks.com
@@ -5022,6 +5027,8 @@
 0.0.0.0 ||axkwmsivme.com
 0.0.0.0 ||axledjuking.com
 0.0.0.0 ||axlohcsruwak.com
+0.0.0.0 ||axlpackugrra.com
+0.0.0.0 ||axonix.com
 0.0.0.0 ||axpjzhbh.com
 0.0.0.0 ||axscvdcans.xyz
 0.0.0.0 ||axsnuwqg.com
@@ -5127,6 +5134,7 @@
 0.0.0.0 ||b44794baad.com
 0.0.0.0 ||b4dda3f4a1.com
 0.0.0.0 ||b50faca981.com
+0.0.0.0 ||b57dqedu4.com
 0.0.0.0 ||b57eb5adb4.com
 0.0.0.0 ||b58ncoa1c07f.com
 0.0.0.0 ||b5903af9fd.com
@@ -5342,6 +5350,7 @@
 0.0.0.0 ||baresi.xyz
 0.0.0.0 ||barfsmiaowpit.com
 0.0.0.0 ||bargainingbrotherhood.com
+0.0.0.0 ||bargainintake.com
 0.0.0.0 ||bargeagency.com
 0.0.0.0 ||bargedale.com
 0.0.0.0 ||bargedoctarch.com
@@ -5359,6 +5368,7 @@
 0.0.0.0 ||barotodazes.com
 0.0.0.0 ||barrelhonestlypublicity.com
 0.0.0.0 ||barren-date.pro
+0.0.0.0 ||barrenusers.com
 0.0.0.0 ||barrerasaggon.life
 0.0.0.0 ||barringjello.com
 0.0.0.0 ||barscreative1.com
@@ -5685,6 +5695,7 @@
 0.0.0.0 ||belongedenemy.com
 0.0.0.0 ||belongedshark.com
 0.0.0.0 ||belovedfrolic.com
+0.0.0.0 ||belovedset.com
 0.0.0.0 ||beloveupcreep.com
 0.0.0.0 ||beltarklate.live
 0.0.0.0 ||beludicolor.com
@@ -5783,6 +5794,7 @@
 0.0.0.0 ||bestadbid.com
 0.0.0.0 ||bestadload.com
 0.0.0.0 ||bestadmax.com
+0.0.0.0 ||bestadsforyou.com
 0.0.0.0 ||bestadultaction.com
 0.0.0.0 ||bestapplandever.com
 0.0.0.0 ||bestaryua.com
@@ -6140,6 +6152,7 @@
 0.0.0.0 ||bl230126pb.com
 0.0.0.0 ||blabbasket.com
 0.0.0.0 ||blabtextmessagephotocopy.com
+0.0.0.0 ||blackandwhite-temporary.com
 0.0.0.0 ||blackcurrantinadequacydisgusting.com
 0.0.0.0 ||blackenseaside.com
 0.0.0.0 ||blackentrue.com
@@ -6167,6 +6180,7 @@
 0.0.0.0 ||blanddish.pro
 0.0.0.0 ||blandefface.space
 0.0.0.0 ||blaneo.com
+0.0.0.0 ||blank-tune.pro
 0.0.0.0 ||blareclockwisebead.com
 0.0.0.0 ||blastadoptedlink.com
 0.0.0.0 ||blastcahs.com
@@ -7101,6 +7115,7 @@
 0.0.0.0 ||buzzdancing.com
 0.0.0.0 ||buzzingdiscrepancyheadphone.com
 0.0.0.0 ||buzzvids-direct.com
+0.0.0.0 ||bvaklczasp.com
 0.0.0.0 ||bvcsfcx.com
 0.0.0.0 ||bvepgbnjgdubvz.com
 0.0.0.0 ||bvlbcqcg.com
@@ -7764,6 +7779,7 @@
 0.0.0.0 ||cetoniafulwa.website
 0.0.0.0 ||cevocoxuhu.com
 0.0.0.0 ||cexlaifqgw.com
+0.0.0.0 ||cexlwqgvstesfs.com
 0.0.0.0 ||cexucetum.com
 0.0.0.0 ||cf433af11b.com
 0.0.0.0 ||cf76b8779a.com
@@ -10602,6 +10618,7 @@
 0.0.0.0 ||dinnedgidjee.top
 0.0.0.0 ||dinnercreekawkward.com
 0.0.0.0 ||dinomicrummies.com
+0.0.0.0 ||dinseegny.com
 0.0.0.0 ||dionympoalike.website
 0.0.0.0 ||dioxidtoluyls.com
 0.0.0.0 ||diplic.com
@@ -11927,6 +11944,7 @@
 0.0.0.0 ||eeqzrllnzkbkb.top
 0.0.0.0 ||eergaroa.com
 0.0.0.0 ||eergithi.com
+0.0.0.0 ||eergortu.net
 0.0.0.0 ||eerjrekklw.com
 0.0.0.0 ||eeroawug.com
 0.0.0.0 ||eersutoo.net
@@ -12161,6 +12179,7 @@
 0.0.0.0 ||elmkrljayamrb.top
 0.0.0.0 ||elmonopolicycr.info
 0.0.0.0 ||eloinedcanasta.com
+0.0.0.0 ||eloiseattempt.com
 0.0.0.0 ||elongatedmiddle.com
 0.0.0.0 ||elonreptiloid.com
 0.0.0.0 ||elooksjustlikea.info
@@ -13063,6 +13082,7 @@
 0.0.0.0 ||eyeviewads.com
 0.0.0.0 ||eyfivnokubyhmy.xyz
 0.0.0.0 ||eyharae.com
+0.0.0.0 ||eyhcervzexp.com
 0.0.0.0 ||eyjouer.com
 0.0.0.0 ||eylepgswsnyyd.com
 0.0.0.0 ||eymaume.com
@@ -14915,6 +14935,7 @@
 0.0.0.0 ||gdecordingholo.info
 0.0.0.0 ||gdjejefdqthxmy.xyz
 0.0.0.0 ||gdkixpmakvrpm.com
+0.0.0.0 ||gdktgkjfyvd.xyz
 0.0.0.0 ||gdlxtjk.com
 0.0.0.0 ||gdmconvtrck.com
 0.0.0.0 ||gdmdigital.com
@@ -15976,6 +15997,7 @@
 0.0.0.0 ||grudgewallet.com
 0.0.0.0 ||grudreeb.com
 0.0.0.0 ||gruesome-comfortable.pro
+0.0.0.0 ||grufeegny.xyz
 0.0.0.0 ||gruffermail.com
 0.0.0.0 ||grumbletonight.com
 0.0.0.0 ||grumpybreakingsalad.com
@@ -17296,6 +17318,7 @@
 0.0.0.0 ||htwrildnk.xyz
 0.0.0.0 ||htyrmacanbty.com
 0.0.0.0 ||htysiboswaj.com
+0.0.0.0 ||huafcpvegmm.xyz
 0.0.0.0 ||huafivdvnyycfxv.com
 0.0.0.0 ||huanez.xyz
 0.0.0.0 ||hubbabu2bb8anys09.com
@@ -17451,6 +17474,7 @@
 0.0.0.0 ||hydraulzonure.com
 0.0.0.0 ||hydrogendeadflatten.com
 0.0.0.0 ||hyelgehg.xyz
+0.0.0.0 ||hyepilfiym.com
 0.0.0.0 ||hyfvlxm.com
 0.0.0.0 ||hyibpgaa.com
 0.0.0.0 ||hylicfrothi.uno
@@ -18509,6 +18533,7 @@
 0.0.0.0 ||ircwzvpei.com
 0.0.0.0 ||ireced.com
 0.0.0.0 ||iredirect.net
+0.0.0.0 ||iresandal.info
 0.0.0.0 ||irgvfdwicqerqfy.com
 0.0.0.0 ||irisaffectioneducate.com
 0.0.0.0 ||irishorridamount.com
@@ -20695,6 +20720,7 @@
 0.0.0.0 ||leforgotteddisg.info
 0.0.0.0 ||left-world.com
 0.0.0.0 ||leftempower.com
+0.0.0.0 ||leftoverstatistics.com
 0.0.0.0 ||leftshoemakerexpecting.com
 0.0.0.0 ||legal-weight.pro
 0.0.0.0 ||legalavouch.com
@@ -20806,6 +20832,7 @@
 0.0.0.0 ||lffsnhwhxnqn.com
 0.0.0.0 ||lfkxjcrlrrar.com
 0.0.0.0 ||lflcbcb.com
+0.0.0.0 ||lfmfkklhgqsk.com
 0.0.0.0 ||lfngqrtheim.com
 0.0.0.0 ||lfnwqrghxqrqb.com
 0.0.0.0 ||lfodybaft.com
@@ -21156,6 +21183,7 @@
 0.0.0.0 ||llynbooming.top
 0.0.0.0 ||llyyxmav.xyz
 0.0.0.0 ||lmaghokalqji.xyz
+0.0.0.0 ||lmalyjywqlolv.top
 0.0.0.0 ||lmalyjywqlwvk.top
 0.0.0.0 ||lmaynnkjbbjbb.top
 0.0.0.0 ||lmaynnkjbbqrz.top
@@ -21189,6 +21217,7 @@
 0.0.0.0 ||lnkvv.com
 0.0.0.0 ||lnkyqvkyznkvz.top
 0.0.0.0 ||lnlxhsjjqfjs.com
+0.0.0.0 ||lnmreidn.com
 0.0.0.0 ||lnonsoygtt.com
 0.0.0.0 ||lnqdtbcrilhrdye.com
 0.0.0.0 ||lntrigulngdates.com
@@ -21688,6 +21717,7 @@
 0.0.0.0 ||lygvtmeaekuv.com
 0.0.0.0 ||lyingdownt.xyz
 0.0.0.0 ||lyingshayride.com
+0.0.0.0 ||lyjcwiwzkq.com
 0.0.0.0 ||lyjegushe.pro
 0.0.0.0 ||lyjuylutjnu.com
 0.0.0.0 ||lyjznnanareay.top
@@ -21972,6 +22002,7 @@
 0.0.0.0 ||mansernema.com
 0.0.0.0 ||mansfieldeffects.com
 0.0.0.0 ||manslaughterhallucinateenjoyment.com
+0.0.0.0 ||mansudee.net
 0.0.0.0 ||mantapareseat.com
 0.0.0.0 ||manualbleedingand.com
 0.0.0.0 ||manualcasketlousy.com
@@ -22230,6 +22261,7 @@
 0.0.0.0 ||meanieichnite.com
 0.0.0.0 ||meaningfullandfallbleat.com
 0.0.0.0 ||meaningfunnyhotline.com
+0.0.0.0 ||meantimechimneygospel.com
 0.0.0.0 ||meantscarlet.com
 0.0.0.0 ||meaofscnjt.com
 0.0.0.0 ||meases.com
@@ -23013,6 +23045,7 @@
 0.0.0.0 ||moonheappyr.com
 0.0.0.0 ||moonicorn.network
 0.0.0.0 ||moonjahaphodal.com
+0.0.0.0 ||moonoafy.net
 0.0.0.0 ||moonovernegril.com
 0.0.0.0 ||moonrocketaffiliates.com
 0.0.0.0 ||moontuftboy.com
@@ -23166,6 +23199,7 @@
 0.0.0.0 ||mplayeranyd.info
 0.0.0.0 ||mploymehnthejuias.info
 0.0.0.0 ||mpnrs.com
+0.0.0.0 ||mpougdusr.com
 0.0.0.0 ||mppqellliovkuqi.com
 0.0.0.0 ||mppwqimwfkrkpx.com
 0.0.0.0 ||mprhrvnxppdxci.com
@@ -23381,6 +23415,7 @@
 0.0.0.0 ||mwcxljdywq.com
 0.0.0.0 ||mwfdaciicqhyrj.com
 0.0.0.0 ||mwifcugxihhpwm.com
+0.0.0.0 ||mwikpepfiw.com
 0.0.0.0 ||mwirawdrexp.com
 0.0.0.0 ||mwjkteucypb.com
 0.0.0.0 ||mwmqtisxndbjdr.com
@@ -23705,6 +23740,7 @@
 0.0.0.0 ||ncraxcvibg.com
 0.0.0.0 ||ncukgqjfaxjv.com
 0.0.0.0 ||ncvvfhex.com
+0.0.0.0 ||ncwabgl.com
 0.0.0.0 ||nczxuga.com
 0.0.0.0 ||ndandinter.hair
 0.0.0.0 ||ndccouuyotn.com
@@ -23893,6 +23929,7 @@
 0.0.0.0 ||news-buzz.cc
 0.0.0.0 ||news-capufu.com
 0.0.0.0 ||news-fadubi.com
+0.0.0.0 ||news-galuzo.cc
 0.0.0.0 ||news-getogo.com
 0.0.0.0 ||news-headlines.co
 0.0.0.0 ||news-host.net
@@ -24949,6 +24986,7 @@
 0.0.0.0 ||offshuppetchan.com
 0.0.0.0 ||offsigilyphor.com
 0.0.0.0 ||offxkeapbvwe.com
+0.0.0.0 ||ofglicoron.net
 0.0.0.0 ||ofgogoatan.com
 0.0.0.0 ||ofhappinyer.com
 0.0.0.0 ||ofhypnoer.com
@@ -25997,6 +26035,7 @@
 0.0.0.0 ||oylbnuvbw.com
 0.0.0.0 ||oyopersed.info
 0.0.0.0 ||oyoperseduca.com
+0.0.0.0 ||oypjpbthhxhyuvq.com
 0.0.0.0 ||oypucuqsuwabnxy.com
 0.0.0.0 ||oysterexhalereview.com
 0.0.0.0 ||oysterfoxfoe.com
@@ -26090,6 +26129,7 @@
 0.0.0.0 ||paicepte.xyz
 0.0.0.0 ||paichaus.com
 0.0.0.0 ||paid.outbrain.com
+0.0.0.0 ||paigarohauja.com
 0.0.0.0 ||paigna.com
 0.0.0.0 ||paikoasa.tv
 0.0.0.0 ||paikoaza.net
@@ -27934,6 +27974,7 @@
 0.0.0.0 ||proceduresjeer.com
 0.0.0.0 ||proceedingmusic.com
 0.0.0.0 ||procesosfultry.info
+0.0.0.0 ||processedagrarian.com
 0.0.0.0 ||processingcomprehension.com
 0.0.0.0 ||processionhardly.com
 0.0.0.0 ||processpardon.com
@@ -30519,6 +30560,7 @@
 0.0.0.0 ||rpjbtni186w9.shop
 0.0.0.0 ||rpllrsbmhahj.com
 0.0.0.0 ||rpmwhoop.com
+0.0.0.0 ||rppumxa.com
 0.0.0.0 ||rprapjc.com
 0.0.0.0 ||rprinc6etodn9kunjiv.com
 0.0.0.0 ||rpsoybm.com
@@ -31595,6 +31637,7 @@
 0.0.0.0 ||shairdrabitic.top
 0.0.0.0 ||shaishet.xyz
 0.0.0.0 ||shaisole.com
+0.0.0.0 ||shaitchergu.net
 0.0.0.0 ||shakamech.com
 0.0.0.0 ||shakesanitaryaffairs.com
 0.0.0.0 ||shakre.com
@@ -31925,6 +31968,7 @@
 0.0.0.0 ||silveraddition.pro
 0.0.0.0 ||silviusfurled.com
 0.0.0.0 ||simarsbisect.top
+0.0.0.0 ||similarlength.pro
 0.0.0.0 ||similarlyrelicrecovery.com
 0.0.0.0 ||similarmarriage.com
 0.0.0.0 ||simiousfinfish.uno
@@ -35040,6 +35084,7 @@
 0.0.0.0 ||tpyxplkcap.top
 0.0.0.0 ||tpzzdrxnp.com
 0.0.0.0 ||tqgrrfssodfo.com
+0.0.0.0 ||tqkbdxfzmbjp.com
 0.0.0.0 ||tqkfrdcwht.xyz
 0.0.0.0 ||tqlkg.com
 0.0.0.0 ||tqlvkfgnrsd.com
@@ -36217,6 +36262,7 @@
 0.0.0.0 ||upbrininghandy.com
 0.0.0.0 ||upbuoyearfuls.com
 0.0.0.0 ||upchokedehort.top
+0.0.0.0 ||upcomingmonkeydolphin.com
 0.0.0.0 ||upcurlsreid.website
 0.0.0.0 ||updaight.com
 0.0.0.0 ||update-it-now.com
@@ -36670,6 +36716,7 @@
 0.0.0.0 ||vaugroar.com
 0.0.0.0 ||vaultmultiple.com
 0.0.0.0 ||vaultwrite.com
+0.0.0.0 ||vaumourechu.net
 0.0.0.0 ||vauptaih.com
 0.0.0.0 ||vauthaud.net
 0.0.0.0 ||vavcashpop.com
@@ -36952,6 +36999,7 @@
 0.0.0.0 ||viewlnk.com
 0.0.0.0 ||viewpointscissorsfolks.com
 0.0.0.0 ||viewscout.com
+0.0.0.0 ||viewsoz.com
 0.0.0.0 ||viewyentreat.guru
 0.0.0.0 ||vighooss.net
 0.0.0.0 ||vignerez.net
@@ -36970,6 +37018,7 @@
 0.0.0.0 ||viidan.com
 0.0.0.0 ||viiddai.com
 0.0.0.0 ||viidirectory.com
+0.0.0.0 ||viidsyej.com
 0.0.0.0 ||viienetik.com
 0.0.0.0 ||viifixi.com
 0.0.0.0 ||viifogyp.com
@@ -38186,6 +38235,7 @@
 0.0.0.0 ||wistfulcomet.com
 0.0.0.0 ||witalfieldt.com
 0.0.0.0 ||witchcraftbarterexploded.com
+0.0.0.0 ||withblaockbr.org
 0.0.0.0 ||withcarsickhatred.com
 0.0.0.0 ||withcrepteast.com
 0.0.0.0 ||withdedukication.com
@@ -38634,6 +38684,7 @@
 0.0.0.0 ||wwwwzeraqvlqk.top
 0.0.0.0 ||wwwwzeraqvmkw.top
 0.0.0.0 ||wwwwzeraqvmqj.top
+0.0.0.0 ||wwxdmhfwagmwo.com
 0.0.0.0 ||wwxnbsvwultw.com
 0.0.0.0 ||wxaqazawxhjiz.com
 0.0.0.0 ||wxcqdnf.com
@@ -38651,6 +38702,7 @@
 0.0.0.0 ||wyglyvaso.com
 0.0.0.0 ||wyhifdpatl.com
 0.0.0.0 ||wyjkqvtgwmjqb.xyz
+0.0.0.0 ||wylizttrjbbbif.com
 0.0.0.0 ||wylmzwkywjrzr.top
 0.0.0.0 ||wymcgmxefvqvej.com
 0.0.0.0 ||wymtqcllysgej.com
@@ -40376,6 +40428,7 @@
 0.0.0.0 ||affiliate-b.com
 0.0.0.0 ||affiliateedge.com
 0.0.0.0 ||affiliategroove.com
+0.0.0.0 ||affilimatejs.com
 0.0.0.0 ||affilist.com
 0.0.0.0 ||afishamedia.net
 0.0.0.0 ||afp.ai
@@ -40476,6 +40529,7 @@
 0.0.0.0 ||bestdeals.ws
 0.0.0.0 ||bestforexpartners.com
 0.0.0.0 ||besthitsnow.com
+0.0.0.0 ||bestodds.com
 0.0.0.0 ||bestofferdirect.com
 0.0.0.0 ||bestonlinecoupons.com
 0.0.0.0 ||bet3000partners.com
@@ -41168,7 +41222,6 @@
 0.0.0.0 ||starlayer.com
 0.0.0.0 ||starti.pl
 0.0.0.0 ||statsperformdev.com
-0.0.0.0 ||stay22.com
 0.0.0.0 ||stocker.bonnint.net
 0.0.0.0 ||stratos.blue
 0.0.0.0 ||streamdefence.com
@@ -41323,6 +41376,7 @@
 0.0.0.0 ||googleadsserving.cn
 0.0.0.0 ||googlevads-cn.com
 0.0.0.0 ||02777e.site
+0.0.0.0 ||05751c.site
 0.0.0.0 ||295c.site
 0.0.0.0 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 0.0.0.0 ||3a2e.site
@@ -41374,11 +41428,13 @@
 0.0.0.0 ||utiq.soester-anzeiger.de
 0.0.0.0 ||utiq.tz.de
 0.0.0.0 ||utiq.wa.de
+0.0.0.0 ||1048358656.rsc.cdn77.org
 0.0.0.0 ||1059265748.rsc.cdn77.org
 0.0.0.0 ||1080872514.rsc.cdn77.org
 0.0.0.0 ||1085549509.rsc.cdn77.org
 0.0.0.0 ||10945-2.s.cdn15.com
 0.0.0.0 ||10945-5.s.cdn15.com
+0.0.0.0 ||1147112108.rsc.cdn77.org
 0.0.0.0 ||1175980934.rsc.cdn77.org
 0.0.0.0 ||1187531871.rsc.cdn77.org
 0.0.0.0 ||1201741305.rsc.cdn77.org
@@ -41386,6 +41442,7 @@
 0.0.0.0 ||1288151678.rsc.cdn77.org
 0.0.0.0 ||1437953666.rsc.cdn77.org
 0.0.0.0 ||1441085683.rsc.cdn77.org
+0.0.0.0 ||1473763790.rsc.cdn77.org
 0.0.0.0 ||1492697327.rsc.cdn77.org
 0.0.0.0 ||1529462937.rsc.cdn77.org
 0.0.0.0 ||1543481067.rsc.cdn77.org
@@ -41393,6 +41450,7 @@
 0.0.0.0 ||1675450967.rsc.cdn77.org
 0.0.0.0 ||1723614251.rsc.cdn77.org
 0.0.0.0 ||1736253261.rsc.cdn77.org
+0.0.0.0 ||1759123620.rsc.cdn77.org
 0.0.0.0 ||1954342903.rsc.cdn77.org
 0.0.0.0 ||1969301294.rsc.cdn77.org
 0.0.0.0 ||360playvid.com
@@ -43479,7 +43537,6 @@
 0.0.0.0 ||as.adfonic.net
 0.0.0.0 ||astrsk.net
 0.0.0.0 ||atti.com
-0.0.0.0 ||axonix.com
 0.0.0.0 ||banners.etermax.com
 0.0.0.0 ||bannersnack.com
 0.0.0.0 ||bannerwall.herewetest.com
@@ -51447,7 +51504,6 @@
 0.0.0.0 ||xad.dnoticias.pt
 0.0.0.0 ||adclient-uol.lp.uol.com.br
 0.0.0.0 ||adv.r7.com
-0.0.0.0 ||ncwabgl.com
 0.0.0.0 ||lyappreciat.info
 0.0.0.0 ||adzonestatic.com
 0.0.0.0 ||adzep.com.br
@@ -56525,6 +56581,7 @@
 0.0.0.0 ||amqa11.com
 0.0.0.0 ||anbinh-finance.club
 0.0.0.0 ||anceovarec.cfd
+0.0.0.0 ||andall.servicesql.info
 0.0.0.0 ||andelect.cfd
 0.0.0.0 ||android-system-virus-detect.web.app
 0.0.0.0 ||andslideasco.cfd
@@ -56656,6 +56713,7 @@
 0.0.0.0 ||byasdebrisfie.cfd
 0.0.0.0 ||campxanh.info
 0.0.0.0 ||canhanshinhan.com
+0.0.0.0 ||canhantpb.com
 0.0.0.0 ||canvayvon.net
 0.0.0.0 ||caonhanh.xyz
 0.0.0.0 ||caoviet.net
@@ -56772,6 +56830,7 @@
 0.0.0.0 ||crestfidubank.com
 0.0.0.0 ||cryptominexchange.com
 0.0.0.0 ||cryptooexchange.xyz
+0.0.0.0 ||csbtd.com
 0.0.0.0 ||cskh-ca-nhan-vpbank.com
 0.0.0.0 ||cskh-dienmay-xanh.com
 0.0.0.0 ||cskh-dienmayxanhvn.com
@@ -56828,6 +56887,7 @@
 0.0.0.0 ||dathangdon.com
 0.0.0.0 ||dautruongdanhvong.com
 0.0.0.0 ||dautukiemtien.net
+0.0.0.0 ||db2017417b23.zapto.org
 0.0.0.0 ||dcommerc.cfd
 0.0.0.0 ||deepprostore.com
 0.0.0.0 ||defi.hsfdefi.com
@@ -56839,6 +56899,7 @@
 0.0.0.0 ||dhl-vietnam.vn
 0.0.0.0 ||dhlexpress-vietnam.com.vn
 0.0.0.0 ||dhlvietnam-express.vn
+0.0.0.0 ||dich-vu-dien-mayxanh.com
 0.0.0.0 ||dich-vu-kvip-vpbank.com
 0.0.0.0 ||dich-vu-online-vpbank.com
 0.0.0.0 ||dich-vu-the-ai-vpbank.com
@@ -56863,6 +56924,7 @@
 0.0.0.0 ||dichvucong.govnx.com
 0.0.0.0 ||dichvucong.hgov.cc
 0.0.0.0 ||dichvucong.hgov.net
+0.0.0.0 ||dichvucong.hhghv.com
 0.0.0.0 ||dichvucong.hhlpa.com
 0.0.0.0 ||dichvucong.kgov.net
 0.0.0.0 ||dichvucong.lgov.net
@@ -56895,6 +56957,7 @@
 0.0.0.0 ||dienmayxanh263.com
 0.0.0.0 ||dienmayxanh268.com
 0.0.0.0 ||dienmayxanh269.com
+0.0.0.0 ||dienmayxanh542.com
 0.0.0.0 ||dienmayxanhantam.com
 0.0.0.0 ||dienmayxanhbeauty.com
 0.0.0.0 ||dienmayxanhbeautyplus.com
@@ -56999,6 +57062,7 @@
 0.0.0.0 ||facebook92288.blogspot.com
 0.0.0.0 ||facebookk.life
 0.0.0.0 ||facebookvni.com
+0.0.0.0 ||facialwaxmaxfaxlax3.com
 0.0.0.0 ||faecbooks.com
 0.0.0.0 ||fairu-blog.com
 0.0.0.0 ||fairu-blog.xyz
@@ -57061,6 +57125,7 @@
 0.0.0.0 ||filavietnamve.com
 0.0.0.0 ||file-store2.xyz
 0.0.0.0 ||file-store4.xyz
+0.0.0.0 ||finacehoisomb.com
 0.0.0.0 ||finashope.com
 0.0.0.0 ||findiphone.mobi
 0.0.0.0 ||findmy-status.com
@@ -57070,6 +57135,7 @@
 0.0.0.0 ||flashmovingsmoney-online.weebly.com
 0.0.0.0 ||fmagnitude.cfd
 0.0.0.0 ||fmiphone-apple.com
+0.0.0.0 ||focusdate.com
 0.0.0.0 ||foreovietnam.me
 0.0.0.0 ||fortt-rade.com
 0.0.0.0 ||fpttrolynhansu.one
@@ -57326,6 +57392,7 @@
 0.0.0.0 ||hoinhiepanhbg.blogspot.com
 0.0.0.0 ||hoiquanlq.vn
 0.0.0.0 ||homecredit1.com
+0.0.0.0 ||homecreditvn.net
 0.0.0.0 ||homevi1.tintuc-vi-vn.xyz
 0.0.0.0 ||homevi2.tintuc-vi-vn.xyz
 0.0.0.0 ||homevi3.tintuc-vi-vn.xyz
@@ -57412,6 +57479,7 @@
 0.0.0.0 ||ihgatms.cfd
 0.0.0.0 ||iisacombank.com
 0.0.0.0 ||ilsacombank.com
+0.0.0.0 ||imageshells.com
 0.0.0.0 ||important-notices.com
 0.0.0.0 ||indush.cfd
 0.0.0.0 ||inet-ebank.com
@@ -57437,6 +57505,7 @@
 0.0.0.0 ||insuvietnam.com
 0.0.0.0 ||insvrvietnam.com
 0.0.0.0 ||internetbank.site
+0.0.0.0 ||investshopeemall.net
 0.0.0.0 ||ionthatco.cfd
 0.0.0.0 ||ionvictoriesin.cfd
 0.0.0.0 ||iplaytogethershop.com
@@ -57494,6 +57563,7 @@
 0.0.0.0 ||khoataikhoanhack-garena.xyz
 0.0.0.0 ||khoaviphamtaikhoan.com
 0.0.0.0 ||khohangdocvip.net
+0.0.0.0 ||khoi-khach-hang-ca-nhan-vni-diamon.com
 0.0.0.0 ||khonapgame.com
 0.0.0.0 ||khophanmem24h.com
 0.0.0.0 ||khovang.click
@@ -57619,6 +57689,7 @@
 0.0.0.0 ||lazadax17.com
 0.0.0.0 ||lazadaz.xyz
 0.0.0.0 ||lazadaz17.com
+0.0.0.0 ||lazd8.com
 0.0.0.0 ||lazmail.com.vn
 0.0.0.0 ||lditsdebriisar.cfd
 0.0.0.0 ||ldp.page
@@ -57730,12 +57801,15 @@
 0.0.0.0 ||m.maxdong101.com
 0.0.0.0 ||m.nbm65.com
 0.0.0.0 ||m.one018.com
+0.0.0.0 ||m.thuecn.top
 0.0.0.0 ||m.tot166.com
+0.0.0.0 ||m.vncongthue.top
 0.0.0.0 ||m.vnsc-finhay.com
 0.0.0.0 ||m.yocvn.com
 0.0.0.0 ||macysbyi.com
 0.0.0.0 ||magazineshopeeonline.com
 0.0.0.0 ||magicslimnhatban.com
+0.0.0.0 ||mail.labtpb.online
 0.0.0.0 ||maivang.vip
 0.0.0.0 ||maivang.xyz
 0.0.0.0 ||mallshopvn.vip
@@ -57757,6 +57831,7 @@
 0.0.0.0 ||mbbankmn.com
 0.0.0.0 ||mbbankn.com
 0.0.0.0 ||mbbffn.online
+0.0.0.0 ||mbdkb.com
 0.0.0.0 ||mbfic-plus.com
 0.0.0.0 ||mbtk-bank.com
 0.0.0.0 ||mcfa11.com
@@ -57804,6 +57879,7 @@
 0.0.0.0 ||mfacebook.vn
 0.0.0.0 ||mhshopee.com
 0.0.0.0 ||micronsofte-online.com
+0.0.0.0 ||mildwave.com
 0.0.0.0 ||miner-linkperfectmoney.com
 0.0.0.0 ||minhchinhmega.com
 0.0.0.0 ||minhngocc789.com
@@ -58349,6 +58425,7 @@
 0.0.0.0 ||phieuruttien-247.com
 0.0.0.0 ||phieuruttien-thetindungmpos24h.com
 0.0.0.0 ||phimhaykiemtien24h.com
+0.0.0.0 ||phimtronbo.pro
 0.0.0.0 ||phlazada.vip
 0.0.0.0 ||phomuabannhadat.com
 0.0.0.0 ||phone.didongvietstore.com
@@ -58594,6 +58671,7 @@
 0.0.0.0 ||shek66.com
 0.0.0.0 ||shilla.skrfgrl.cn
 0.0.0.0 ||shinhan.chamsoccanhankhachhangthe-tructuyen.online
+0.0.0.0 ||shinhan.chamsocthekhachhang-thang4.online
 0.0.0.0 ||shinhan.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 ||shinhan0.com
 0.0.0.0 ||shinhanapp.org
@@ -59075,6 +59153,7 @@
 0.0.0.0 ||sos-icloud.com
 0.0.0.0 ||sotuyenvcb.vietcombanker.com
 0.0.0.0 ||sp315693vn.com
+0.0.0.0 ||sp56788.com
 0.0.0.0 ||sp6788.com
 0.0.0.0 ||sp77888.com
 0.0.0.0 ||sp8668vn.com
@@ -59249,6 +59328,7 @@
 0.0.0.0 ||tdkd02.com
 0.0.0.0 ||tdkd03.com
 0.0.0.0 ||tdkd07.com
+0.0.0.0 ||tdkd08.com
 0.0.0.0 ||tdtc.shop
 0.0.0.0 ||techcombank.ngan-hang.net
 0.0.0.0 ||techcombank.site
@@ -59647,6 +59727,7 @@
 0.0.0.0 ||uudainganhang.com
 0.0.0.0 ||uudainganhangso.site
 0.0.0.0 ||uyban.club
+0.0.0.0 ||uyhgqunqkxnx.pw
 0.0.0.0 ||v-vay.com
 0.0.0.0 ||v.vl404.cn
 0.0.0.0 ||v2s4ku8b.com
@@ -59874,9 +59955,11 @@
 0.0.0.0 ||vib.chamsockhachang-tructuyen.online
 0.0.0.0 ||vib.chamsockhachhang-tructuyen-the-visa.com
 0.0.0.0 ||vib.chamsocthekhachang-tructuyen.com.vn
+0.0.0.0 ||vib.hanmucvn.com
 0.0.0.0 ||vib.khach-hang-the-tructuyen.com
 0.0.0.0 ||vib.khach-hang-the-tructuyen.online
 0.0.0.0 ||vib.mobi
+0.0.0.0 ||vib.tanghanmuc-vn.com
 0.0.0.0 ||vib.truc-tuyen-cham-socthekhachhang.com
 0.0.0.0 ||vib.tructuyen-chamsockhachang-the.com
 0.0.0.0 ||vib.tuvan-chamsockhachhang.com
@@ -60218,6 +60301,7 @@
 0.0.0.0 ||vnbitcoin.cc
 0.0.0.0 ||vnduthianhgroup.com
 0.0.0.0 ||vnebank.xyz
+0.0.0.0 ||vnexprress.com
 0.0.0.0 ||vnhopqua.com
 0.0.0.0 ||vnietinbank.com
 0.0.0.0 ||vnpanda.shop
@@ -60227,6 +60311,7 @@
 0.0.0.0 ||vnpaycredit-ruttientindung247.com
 0.0.0.0 ||vnpaycreditruttientindung-247.com
 0.0.0.0 ||vnpt99.com
+0.0.0.0 ||vnsendo.shop
 0.0.0.0 ||vnsendo.vip
 0.0.0.0 ||vnshop.today
 0.0.0.0 ||vnshop00.com
@@ -60341,6 +60426,8 @@
 0.0.0.0 ||vpb-hanmuc.online
 0.0.0.0 ||vpb-nanghanmuc.com
 0.0.0.0 ||vpb-nanghanmuc.online
+0.0.0.0 ||vpb.tang-han-muc-the-visa-vn.com
+0.0.0.0 ||vpb.tanghanmucvisa-vn.com
 0.0.0.0 ||vpbank-vaytien.com
 0.0.0.0 ||vpbank.appvest.vn
 0.0.0.0 ||vpbankvn.com
@@ -60447,6 +60534,7 @@
 0.0.0.0 ||wviietcombank.com
 0.0.0.0 ||wvvietcombank.com
 0.0.0.0 ||wvwiietcoombank.com
+0.0.0.0 ||wwgfyvvdtmeq.pw
 0.0.0.0 ||www-fb.com
 0.0.0.0 ||www-icloud.com
 0.0.0.0 ||www-icloudid.com
@@ -60576,6 +60664,7 @@
 0.0.0.0 ||arqvm.cn
 0.0.0.0 ||atzhcjv.xyz
 0.0.0.0 ||awuvcq.xyz
+0.0.0.0 ||azkrya.xyz
 0.0.0.0 ||azyuuk.xyz
 0.0.0.0 ||b37r5.cyou
 0.0.0.0 ||batijian.com
@@ -60725,6 +60814,7 @@
 0.0.0.0 ||ewjhic.cn
 0.0.0.0 ||ewxufqs.cn
 0.0.0.0 ||execuri.com
+0.0.0.0 ||eyuwkbw.top
 0.0.0.0 ||f7fe0.cyou
 0.0.0.0 ||fadhvz.xyz
 0.0.0.0 ||fbfrbt.xyz
@@ -60793,6 +60883,7 @@
 0.0.0.0 ||hitchun.com
 0.0.0.0 ||hjshal.com
 0.0.0.0 ||hkbumv.icu
+0.0.0.0 ||hlegsdh.icu
 0.0.0.0 ||hmrwkcx.cn
 0.0.0.0 ||hnalzlu.top
 0.0.0.0 ||hnartcqab847.live
@@ -60928,6 +61019,7 @@
 0.0.0.0 ||mdhv3.icu
 0.0.0.0 ||mdzwjra.cn
 0.0.0.0 ||meqanhm.icu
+0.0.0.0 ||mercor.cn
 0.0.0.0 ||miningzhizhong.top
 0.0.0.0 ||misjgy.xyz
 0.0.0.0 ||mldzwmt.xyz
@@ -61053,6 +61145,7 @@
 0.0.0.0 ||qvnbjjd.xyz
 0.0.0.0 ||qvonje.cn
 0.0.0.0 ||qw9cu.cyou
+0.0.0.0 ||qwerioy.top
 0.0.0.0 ||qyuwkby.top
 0.0.0.0 ||qzalsk.xyz
 0.0.0.0 ||qziuwzn.cn
@@ -61077,6 +61170,7 @@
 0.0.0.0 ||rktddv.xyz
 0.0.0.0 ||rlw86.cyou
 0.0.0.0 ||rlxhbff.cn
+0.0.0.0 ||rmbvzh.xyz
 0.0.0.0 ||rndcdb.xyz
 0.0.0.0 ||rnkzhsi.cn
 0.0.0.0 ||rnpkxgfp.xyz
@@ -61085,6 +61179,7 @@
 0.0.0.0 ||romiyee.icu
 0.0.0.0 ||rouqiuqq.cn
 0.0.0.0 ||rpnufv.xyz
+0.0.0.0 ||rupmlh.cn
 0.0.0.0 ||ruqwgb.icu
 0.0.0.0 ||rxfygd.cn
 0.0.0.0 ||rydyvv.xyz
@@ -61337,11 +61432,10 @@
 0.0.0.0 ||zsjpi.cn
 0.0.0.0 ||zttuvj.xyz
 0.0.0.0 ||ztxjutz.xyz
-0.0.0.0 ||rupmlh.cn
-0.0.0.0 ||hlegsdh.icu
-0.0.0.0 ||azkrya.xyz
-0.0.0.0 ||rmbvzh.xyz
-0.0.0.0 ||eyuwkbw.top
+0.0.0.0 ||zxqiwe.cn
+0.0.0.0 ||zwdtvx.xyz
+0.0.0.0 ||zeuqmpe.icu
+0.0.0.0 ||mlicci.xyz
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwxxcb.icu
 0.0.0.0 ||zxfdbr.xyz
