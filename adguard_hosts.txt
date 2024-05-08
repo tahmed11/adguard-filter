@@ -1,3 +1,23 @@
+0.0.0.0 ||fnlojkpbe.com
+0.0.0.0 ||rxvej.com
+0.0.0.0 ||gdecording.info
+0.0.0.0 ||rswhowishedto.info
+0.0.0.0 ||moetconfisk.top
+0.0.0.0 ||swapsprediet.top
+0.0.0.0 ||vocablyheir.top
+0.0.0.0 ||mfbarfvjk.com
+0.0.0.0 ||hcbjuiira.com
+0.0.0.0 ||nosuhplhkvvza.com
+0.0.0.0 ||ffqvjpkwe.com
+0.0.0.0 ||huapydce.xyz
+0.0.0.0 ||aseluosldtabi.com
+0.0.0.0 ||poshyouthfulton.com
+0.0.0.0 ||getadjacent.com
+0.0.0.0 ||pjagilteei.com
+0.0.0.0 ||tjtmjjigtdoah.com
+0.0.0.0 ||odssyvfqrlwwj.com
+0.0.0.0 ||houboajaithu.net
+0.0.0.0 ||nderpurganismpr.info
 0.0.0.0 ||hborq.com
 0.0.0.0 ||oszlnxwqlc.com
 0.0.0.0 ||fkodq.com
@@ -895,6 +915,7 @@
 0.0.0.0 ||d71e6dd31a026d45.com
 0.0.0.0 ||adrunnr.com
 0.0.0.0 ||samsungtvads.com
+0.0.0.0 ||dre81lzpy0s7q.cloudfront.net
 0.0.0.0 ||d1nug4fmv8zva9.cloudfront.net
 0.0.0.0 ||d2g6dhcga4weul.cloudfront.net
 0.0.0.0 ||d2ier523in7agz.cloudfront.net
@@ -2135,6 +2156,7 @@
 0.0.0.0 ||a64x.com
 0.0.0.0 ||a69i.com
 0.0.0.0 ||a6dc99d1a8.com
+0.0.0.0 ||a700fb9c8d.com
 0.0.0.0 ||a718917a44.com
 0.0.0.0 ||a899228ebf.com
 0.0.0.0 ||a8rm1m4msbbh.com
@@ -7245,6 +7267,7 @@
 0.0.0.0 ||c71genemobile.com
 0.0.0.0 ||c7d263f5d8.com
 0.0.0.0 ||c7ee346412.com
+0.0.0.0 ||c7vw6cxy7.com
 0.0.0.0 ||c83cf15c4f.com
 0.0.0.0 ||c86e7c49a2.com
 0.0.0.0 ||c8d2c12c98.com
@@ -7853,6 +7876,7 @@
 0.0.0.0 ||chaiphuy.com
 0.0.0.0 ||chaiptefee.com
 0.0.0.0 ||chaiptut.xyz
+0.0.0.0 ||chaipungie.xyz
 0.0.0.0 ||chairgaubsy.com
 0.0.0.0 ||chairmansmile.com
 0.0.0.0 ||chairwaydenew.site
@@ -8233,6 +8257,7 @@
 0.0.0.0 ||ciwhacheho.pro
 0.0.0.0 ||cixaxuyu.xyz
 0.0.0.0 ||cizare.xyz
+0.0.0.0 ||cizzwykcug.com
 0.0.0.0 ||cjcbzqrwwi.com
 0.0.0.0 ||cjewz.com
 0.0.0.0 ||cjf25jklrwqt.com
@@ -16310,6 +16335,7 @@
 0.0.0.0 ||hajoopteg.com
 0.0.0.0 ||haksaigho.com
 0.0.0.0 ||halachadivvers.com
+0.0.0.0 ||half-concert.pro
 0.0.0.0 ||halflyfiscal.com
 0.0.0.0 ||halfpriceozarks.com
 0.0.0.0 ||halftimeaircraftsidewalk.com
@@ -16752,6 +16778,7 @@
 0.0.0.0 ||heukwasanasosett.info
 0.0.0.0 ||heusysianedu.com
 0.0.0.0 ||hevc.site
+0.0.0.0 ||hevdnzqu.com
 0.0.0.0 ||hewalleges.guru
 0.0.0.0 ||hewawkward.com
 0.0.0.0 ||hewdisobedienceliveliness.com
@@ -20758,6 +20785,7 @@
 0.0.0.0 ||leedoash.com
 0.0.0.0 ||leefosto.com
 0.0.0.0 ||leegaroo.xyz
+0.0.0.0 ||leeptoadeesh.net
 0.0.0.0 ||leesecobourg.com
 0.0.0.0 ||leesymvlvck.xyz
 0.0.0.0 ||leetaipt.net
@@ -20994,6 +21022,7 @@
 0.0.0.0 ||lihhxayjmr.com
 0.0.0.0 ||lihuwvokhonsni.com
 0.0.0.0 ||liivhntsu.com
+0.0.0.0 ||lijybcfgnjh.com
 0.0.0.0 ||likeads.com
 0.0.0.0 ||likecontrol.com
 0.0.0.0 ||likedpatpresent.com
@@ -22265,6 +22294,7 @@
 0.0.0.0 ||mbvfawgcsnukb.com
 0.0.0.0 ||mbvlmx.com
 0.0.0.0 ||mbvlmz.com
+0.0.0.0 ||mbvndisplay.site
 0.0.0.0 ||mbvsm.com
 0.0.0.0 ||mbxudcghfy.com
 0.0.0.0 ||mc7clurd09pla4nrtat7ion.com
@@ -25943,6 +25973,7 @@
 0.0.0.0 ||overdates.com
 0.0.0.0 ||overdonealthough.com
 0.0.0.0 ||overduerebukeloyal.com
+0.0.0.0 ||overduerole.com
 0.0.0.0 ||overestimateoption.com
 0.0.0.0 ||overestimateyearly.com
 0.0.0.0 ||overgalladean.com
@@ -31721,6 +31752,7 @@
 0.0.0.0 ||shaledpaidle.com
 0.0.0.0 ||shallarchbishop.com
 0.0.0.0 ||shallotuncord.com
+0.0.0.0 ||shallowtwist.pro
 0.0.0.0 ||shalomitll.top
 0.0.0.0 ||shalse.com
 0.0.0.0 ||shameless-sentence.pro
@@ -31742,6 +31774,7 @@
 0.0.0.0 ||shareitpp.com
 0.0.0.0 ||shareresults.com
 0.0.0.0 ||sharesceral.uno
+0.0.0.0 ||shareusads.com
 0.0.0.0 ||shareweeknews.com
 0.0.0.0 ||sharieta.com
 0.0.0.0 ||sharion.xyz
@@ -32904,7 +32937,6 @@
 0.0.0.0 ||spotbeepgreenhouse.com
 0.0.0.0 ||spotdimesulky.com
 0.0.0.0 ||spotlessabridge.com
-0.0.0.0 ||spotlightstores.com
 0.0.0.0 ||spotofspawn.com
 0.0.0.0 ||spotrails.com
 0.0.0.0 ||spotscenered.info
@@ -38416,6 +38448,7 @@
 0.0.0.0 ||wlimrvsnusyawk.com
 0.0.0.0 ||wlmitgzbht.com
 0.0.0.0 ||wlvkzwqjlyzvr.top
+0.0.0.0 ||wlwbjjphtza.com
 0.0.0.0 ||wlyfiii.com
 0.0.0.0 ||wlzzwzekkrrzw.top
 0.0.0.0 ||wma.io
@@ -40555,6 +40588,7 @@
 0.0.0.0 ||ahvclick.com
 0.0.0.0 ||aim4media.com
 0.0.0.0 ||ainsyndication.com
+0.0.0.0 ||airfind.com
 0.0.0.0 ||akavita.com
 0.0.0.0 ||aklamator.com
 0.0.0.0 ||alienhub.xyz
@@ -41292,7 +41326,6 @@
 0.0.0.0 ||smartad.ee
 0.0.0.0 ||smartadtags.com
 0.0.0.0 ||smartadv.ru
-0.0.0.0 ||smartframe.io
 0.0.0.0 ||smartico.one
 0.0.0.0 ||smarttargetting.net
 0.0.0.0 ||smartyads.com
@@ -41497,6 +41530,7 @@
 0.0.0.0 ||3a2e.site
 0.0.0.0 ||48a16802.site
 0.0.0.0 ||4a0e.xyz
+0.0.0.0 ||4aae8f.site
 0.0.0.0 ||4e55.xyz
 0.0.0.0 ||4e68.xyz
 0.0.0.0 ||58e0.site
@@ -41558,12 +41592,14 @@
 0.0.0.0 ||1201741305.rsc.cdn77.org
 0.0.0.0 ||1278977604.rsc.cdn77.org
 0.0.0.0 ||1288151678.rsc.cdn77.org
+0.0.0.0 ||1299757727.rsc.cdn77.org
 0.0.0.0 ||1312907885.rsc.cdn77.org
 0.0.0.0 ||1437953666.rsc.cdn77.org
 0.0.0.0 ||1441085683.rsc.cdn77.org
 0.0.0.0 ||1473763790.rsc.cdn77.org
 0.0.0.0 ||1492697327.rsc.cdn77.org
 0.0.0.0 ||1529462937.rsc.cdn77.org
+0.0.0.0 ||1541233801.rsc.cdn77.org
 0.0.0.0 ||1543481067.rsc.cdn77.org
 0.0.0.0 ||1548164934.rsc.cdn77.org
 0.0.0.0 ||1564285319.rsc.cdn77.org
@@ -43215,6 +43251,7 @@
 0.0.0.0 ||deapi.afreecatv.com
 0.0.0.0 ||startup.mobile.yandex.net
 0.0.0.0 ||startup-mobile.ap.yandex-net.ru
+0.0.0.0 ||mediation.unity3d.com
 0.0.0.0 ||cdn-ad.wtzw.com
 0.0.0.0 ||appsrv.display.io
 0.0.0.0 ||ad.line-scdn.net
@@ -43231,7 +43268,6 @@
 0.0.0.0 ||ads.rmbl.ws
 0.0.0.0 ||adsassets-ipv6.waze.com
 0.0.0.0 ||iads.unity3d.com
-0.0.0.0 ||o-iab.mediation.unity3d.com
 0.0.0.0 ||togothermany.com
 0.0.0.0 ||gdl.zmqdez.ru
 0.0.0.0 ||rtblab.net
@@ -47273,6 +47309,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||stats.myserverhome.de
 0.0.0.0 ||amethyst.6pm.com
 0.0.0.0 ||lma.npaw.com
 0.0.0.0 ||collect.alphastream.io
@@ -50114,6 +50151,7 @@
 0.0.0.0 ||analytics.facebook.com
 0.0.0.0 ||analytics.favcy.com
 0.0.0.0 ||analytics.firespring.com
+0.0.0.0 ||analytics.genial.ly
 0.0.0.0 ||analytics.groupe-seb.com
 0.0.0.0 ||analytics.gvim.mobi
 0.0.0.0 ||analytics.jazel.net
@@ -50698,6 +50736,7 @@
 0.0.0.0 ||telemetry.goodlifefitness.com
 0.0.0.0 ||telemetry.phenixrts.com
 0.0.0.0 ||telemetry.reembed.com
+0.0.0.0 ||telemetry.smartframe.io
 0.0.0.0 ||telemetry.tableausoftware.com
 0.0.0.0 ||telemetry.vtex.com
 0.0.0.0 ||test.takedwn.ws
@@ -50747,6 +50786,7 @@
 0.0.0.0 ||tracker.novage.com.ua
 0.0.0.0 ||tracker.openwebtorrent.com
 0.0.0.0 ||tracker.services.vaix.ai
+0.0.0.0 ||tracker.smartframe.io
 0.0.0.0 ||tracker.ssl0d.com
 0.0.0.0 ||tracker.timesgroup.com
 0.0.0.0 ||tracker.twenga.
@@ -51722,6 +51762,9 @@
 0.0.0.0 ||templates.buscape.com
 0.0.0.0 ||yestorrents.org
 0.0.0.0 ||oecistbenton.com
+0.0.0.0 ||tzbirdcod.com
+0.0.0.0 ||audiotouch.info
+0.0.0.0 ||videotouch88.info
 0.0.0.0 ||ippunet.site
 0.0.0.0 ||ssrv7.com
 0.0.0.0 ||zszhfffyd.ru
@@ -53798,6 +53841,7 @@
 0.0.0.0 ||exchange.informer.ua
 0.0.0.0 ||hdvmyo.com
 0.0.0.0 ||adsy.mail.bg
+0.0.0.0 ||yonderdim.com
 0.0.0.0 ||gr.hdream.cfd
 0.0.0.0 ||kriptoparahaber.care
 0.0.0.0 ||alty.fun
@@ -59302,6 +59346,7 @@
 0.0.0.0 ||suachuadienmayxanh.com.vn
 0.0.0.0 ||suativinguyenkim.com
 0.0.0.0 ||subducgiare.shop
+0.0.0.0 ||suitablepartner.life
 0.0.0.0 ||sukiem-muahe-pubgmobilevn.com
 0.0.0.0 ||sukien-2021lmht.ga
 0.0.0.0 ||sukien-ff-garena.com
@@ -60723,13 +60768,6 @@
 0.0.0.0 ||zvc.cc
 0.0.0.0 ||zvietcombank.com
 0.0.0.0 ||zvietnakello.weebly.com
-0.0.0.0 ||hty9m.cn
-0.0.0.0 ||hgfutf.xyz
-0.0.0.0 ||yxgqgq.xyz
-0.0.0.0 ||sxoejoc.icu
-0.0.0.0 ||verstug.cn
-0.0.0.0 ||muntfd62.shop
-0.0.0.0 ||uweriot.top
 0.0.0.0 ||0322cfmtl.cc
 0.0.0.0 ||0940088.com
 0.0.0.0 ||0j775d.cn
@@ -61011,6 +61049,7 @@
 0.0.0.0 ||hendehy.com
 0.0.0.0 ||hexcvb.xyz
 0.0.0.0 ||hfbfbvmjdmxc.com
+0.0.0.0 ||hgfutf.xyz
 0.0.0.0 ||hgthpj.xyz
 0.0.0.0 ||hhffks967.shop
 0.0.0.0 ||hhffnu135.shop
@@ -61025,11 +61064,14 @@
 0.0.0.0 ||hnifdlau.top
 0.0.0.0 ||hozatr.xyz
 0.0.0.0 ||hptyp.icu
+0.0.0.0 ||hpy9w.cn
+0.0.0.0 ||hqhspv.xyz
 0.0.0.0 ||hrjctx.xyz
 0.0.0.0 ||hrnkdr.xyz
 0.0.0.0 ||hspdiom.cn
 0.0.0.0 ||hsutav.icu
 0.0.0.0 ||hsvchnsvncvvd.com
+0.0.0.0 ||hty9m.cn
 0.0.0.0 ||htyusiu.top
 0.0.0.0 ||hubgets.cn
 0.0.0.0 ||huuocxu.icu
@@ -61101,6 +61143,7 @@
 0.0.0.0 ||kgqcse.xyz
 0.0.0.0 ||khcsvdc.icu
 0.0.0.0 ||khzyojb.cn
+0.0.0.0 ||kjubky.xyz
 0.0.0.0 ||kkjhgfds.top
 0.0.0.0 ||kksjsa.top
 0.0.0.0 ||knalzld.top
@@ -61144,6 +61187,7 @@
 0.0.0.0 ||lulxzl.xyz
 0.0.0.0 ||luofk.xyz
 0.0.0.0 ||lvdedf.xyz
+0.0.0.0 ||lveodaz.icu
 0.0.0.0 ||lvphbj.xyz
 0.0.0.0 ||lwrohd.xyz
 0.0.0.0 ||ly55442.com
@@ -61171,6 +61215,7 @@
 0.0.0.0 ||mtddqjk.cn
 0.0.0.0 ||mthhhuq.cn
 0.0.0.0 ||mtwmuy.xyz
+0.0.0.0 ||muntfd62.shop
 0.0.0.0 ||mxeq.cn
 0.0.0.0 ||naihyvz.cn
 0.0.0.0 ||nawpyd.icu
@@ -61220,6 +61265,7 @@
 0.0.0.0 ||otmebdr.cn
 0.0.0.0 ||ovjlccs.xyz
 0.0.0.0 ||oweeiyw.icu
+0.0.0.0 ||oweriok.top
 0.0.0.0 ||oxkyaq.xyz
 0.0.0.0 ||oxvlxwz.xyz
 0.0.0.0 ||oyuwkbk.top
@@ -61256,6 +61302,7 @@
 0.0.0.0 ||pwhkfd.xyz
 0.0.0.0 ||pwhtip.icu
 0.0.0.0 ||pxzrlf.xyz
+0.0.0.0 ||pzfqzv.xyz
 0.0.0.0 ||q02orc.cn
 0.0.0.0 ||qbhzghb.xyz
 0.0.0.0 ||qcepqj.icu
@@ -61358,6 +61405,7 @@
 0.0.0.0 ||svncowt.cn
 0.0.0.0 ||sweriob.top
 0.0.0.0 ||swsegi.xyz
+0.0.0.0 ||sxoejoc.icu
 0.0.0.0 ||syuwkbb.top
 0.0.0.0 ||szbhb.cn
 0.0.0.0 ||szfmr.cn
@@ -61441,6 +61489,7 @@
 0.0.0.0 ||uunfybw.cn
 0.0.0.0 ||uuvzmba.cn
 0.0.0.0 ||uvklgw.xyz
+0.0.0.0 ||uweriot.top
 0.0.0.0 ||uxlvk.cn
 0.0.0.0 ||uxrdg.cn
 0.0.0.0 ||uxzvjoj.cn
@@ -61455,6 +61504,7 @@
 0.0.0.0 ||vdvcjlp.cn
 0.0.0.0 ||veaiyl.icu
 0.0.0.0 ||vejhln.xyz
+0.0.0.0 ||verstug.cn
 0.0.0.0 ||vfchm.cyou
 0.0.0.0 ||vflorp.xyz
 0.0.0.0 ||vgzytn.xyz
@@ -61553,6 +61603,7 @@
 0.0.0.0 ||yvudqzoa.xyz
 0.0.0.0 ||yvwuesh.icu
 0.0.0.0 ||ywhws.cn
+0.0.0.0 ||yxgqgq.xyz
 0.0.0.0 ||yyddkm526.shop
 0.0.0.0 ||yyttmyy.cn
 0.0.0.0 ||zagyjnn.cn
@@ -61572,11 +61623,13 @@
 0.0.0.0 ||zsjpi.cn
 0.0.0.0 ||zttuvj.xyz
 0.0.0.0 ||ztxjutz.xyz
-0.0.0.0 ||hpy9w.cn
-0.0.0.0 ||kjubky.xyz
-0.0.0.0 ||hqhspv.xyz
-0.0.0.0 ||lveodaz.icu
-0.0.0.0 ||oweriok.top
+0.0.0.0 ||eoucxzw.icu
+0.0.0.0 ||fzasx.cn
+0.0.0.0 ||pajtll.xyz
+0.0.0.0 ||wismog.xyz
+0.0.0.0 ||bydebd.xyz
+0.0.0.0 ||lweriol.top
+0.0.0.0 ||nrbqgf.cn
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
 0.0.0.0 ||zwxxcb.icu
