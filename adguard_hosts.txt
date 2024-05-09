@@ -9184,6 +9184,7 @@
 0.0.0.0 ||corvetwoorari.com
 0.0.0.0 ||corvinapaella.life
 0.0.0.0 ||corymbszinzar.com
+0.0.0.0 ||cosiequiapo.com
 0.0.0.0 ||cosmatitacker.top
 0.0.0.0 ||cosmeticlevy.com
 0.0.0.0 ||cosmeticsgenerosity.com
@@ -15500,6 +15501,7 @@
 0.0.0.0 ||gloufteglouw.com
 0.0.0.0 ||gloumsee.net
 0.0.0.0 ||gloumsie.net
+0.0.0.0 ||glounugeepse.xyz
 0.0.0.0 ||glouseer.net
 0.0.0.0 ||gloussowu.xyz
 0.0.0.0 ||gloustoa.net
@@ -28521,6 +28523,7 @@
 0.0.0.0 ||puerq.com
 0.0.0.0 ||puerty.com
 0.0.0.0 ||puffexies.com
+0.0.0.0 ||puffingtiffs.com
 0.0.0.0 ||pugdisguise.com
 0.0.0.0 ||pugehjjxdr.xyz
 0.0.0.0 ||pughoomo.xyz
@@ -41525,6 +41528,7 @@
 0.0.0.0 ||googlevads-cn.com
 0.0.0.0 ||02777e.site
 0.0.0.0 ||05751c.site
+0.0.0.0 ||07e197.site
 0.0.0.0 ||295c.site
 0.0.0.0 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 0.0.0.0 ||3a2e.site
@@ -51669,6 +51673,7 @@
 0.0.0.0 ||xad.dnoticias.pt
 0.0.0.0 ||adclient-uol.lp.uol.com.br
 0.0.0.0 ||adv.r7.com
+0.0.0.0 ||assets.etus.digital
 0.0.0.0 ||lyappreciat.info
 0.0.0.0 ||adzonestatic.com
 0.0.0.0 ||adzep.com.br
@@ -56357,8 +56362,10 @@
 0.0.0.0 ||log.baodatviet.vn
 0.0.0.0 ||log.baodauthau.vn
 0.0.0.0 ||log.baogialai.com.vn
+0.0.0.0 ||log.baolaocai.vn
 0.0.0.0 ||log.baonghean.vn
 0.0.0.0 ||log.baophapluat.vn
+0.0.0.0 ||log.baovanhoa.vn
 0.0.0.0 ||log.beecost.com
 0.0.0.0 ||log.beecost.vn
 0.0.0.0 ||log.bizlive.vn
@@ -61630,6 +61637,13 @@
 0.0.0.0 ||bydebd.xyz
 0.0.0.0 ||lweriol.top
 0.0.0.0 ||nrbqgf.cn
+0.0.0.0 ||qmgria.cn
+0.0.0.0 ||robudpw.cn
+0.0.0.0 ||qmbdta.cn
+0.0.0.0 ||pklujb.xyz
+0.0.0.0 ||nkbpft.xyz
+0.0.0.0 ||xmkmryu.icu
+0.0.0.0 ||iuqasw.xyz
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
 0.0.0.0 ||zwxxcb.icu
