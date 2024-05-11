@@ -1,3 +1,4 @@
+0.0.0.0 ||buyvisblog.com
 0.0.0.0 ||fnlojkpbe.com
 0.0.0.0 ||rxvej.com
 0.0.0.0 ||gdecording.info
@@ -23,8 +24,6 @@
 0.0.0.0 ||fkodq.com
 0.0.0.0 ||advertsource.co.uk
 0.0.0.0 ||iedprivatedqu.com
-0.0.0.0 ||stownrusis.com
-0.0.0.0 ||ebaticalfel.com
 0.0.0.0 ||me7x.site
 0.0.0.0 ||wrqtcoxjw.com
 0.0.0.0 ||atlxpstsf.com
@@ -1723,6 +1722,7 @@
 0.0.0.0 ||42jdbcb.de
 0.0.0.0 ||435a63dad5.com
 0.0.0.0 ||43bb528775.com
+0.0.0.0 ||43sjmq3hg.com
 0.0.0.0 ||43t53c9e.de
 0.0.0.0 ||44288fa514.com
 0.0.0.0 ||445c1f5df9.com
@@ -8087,6 +8087,7 @@
 0.0.0.0 ||chirppronounceaccompany.com
 0.0.0.0 ||chissaibsgirls.com
 0.0.0.0 ||chitbillety.website
+0.0.0.0 ||chitchooms.net
 0.0.0.0 ||chitika.net
 0.0.0.0 ||chitsnooked.com
 0.0.0.0 ||chl7rysobc3ol6xla.com
@@ -8388,6 +8389,7 @@
 0.0.0.0 ||clerkrevokesmiling.com
 0.0.0.0 ||clerrrep.com
 0.0.0.0 ||cleverjump.org
+0.0.0.0 ||clevernesscolloquial.com
 0.0.0.0 ||clevernesswood.com
 0.0.0.0 ||clevernt.com
 0.0.0.0 ||cleverwebserver.com
@@ -29828,6 +29830,7 @@
 0.0.0.0 ||reignprofessionally.com
 0.0.0.0 ||reindaks.com
 0.0.0.0 ||reinstandpointdumbest.com
+0.0.0.0 ||reissue2871.xyz
 0.0.0.0 ||reitbokgona.com
 0.0.0.0 ||reivereme.com
 0.0.0.0 ||rejco2.store
@@ -31634,6 +31637,7 @@
 0.0.0.0 ||serveforthwithtill.com
 0.0.0.0 ||servehub.info
 0.0.0.0 ||servenobid.com
+0.0.0.0 ||server4ads.com
 0.0.0.0 ||serverbid.com
 0.0.0.0 ||servereplacementcycle.com
 0.0.0.0 ||serverfritterdisability.com
@@ -36688,6 +36692,7 @@
 0.0.0.0 ||uwadpksbkzp.com
 0.0.0.0 ||uwavoptig.com
 0.0.0.0 ||uwayemfogibbgh.xyz
+0.0.0.0 ||uweqsrwoey.com
 0.0.0.0 ||uwfcqtdb.xyz
 0.0.0.0 ||uwgmguwpzkeudh.com
 0.0.0.0 ||uwjhzeb.com
@@ -41564,6 +41569,7 @@
 0.0.0.0 ||7fc8.site
 0.0.0.0 ||8acc5c.site
 0.0.0.0 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
+0.0.0.0 ||a67d12.xyz
 0.0.0.0 ||b211.xyz
 0.0.0.0 ||b59c.xyz
 0.0.0.0 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -54840,7 +54846,6 @@
 0.0.0.0 ||ringier-advertising.ch
 0.0.0.0 ||securecnd.com
 0.0.0.0 ||seitenaufruf.com
-0.0.0.0 ||server4ads.com
 0.0.0.0 ||servote.de
 0.0.0.0 ||sexgoesmobile.com
 0.0.0.0 ||solads.media
@@ -55742,7 +55747,6 @@
 0.0.0.0 ||bcajjtbzmdrl.com
 0.0.0.0 ||bubblekraken.com
 0.0.0.0 ||cea9d3d4f74fb831.com
-0.0.0.0 ||chitchooms.net
 0.0.0.0 ||chqspuonctkgz.com
 0.0.0.0 ||craydark.pw
 0.0.0.0 ||d0p21g2fep.com
@@ -61680,6 +61684,16 @@
 0.0.0.0 ||hgidskiu.top
 0.0.0.0 ||zwzdjb.xyz
 0.0.0.0 ||elvirassb.com
+0.0.0.0 ||mmgap.cn
+0.0.0.0 ||yssryr.cn
+0.0.0.0 ||88lm15.com
+0.0.0.0 ||iaosua.com
+0.0.0.0 ||djxzk.top
+0.0.0.0 ||osmzym.xyz
+0.0.0.0 ||jyqkijp.icu
+0.0.0.0 ||qweqd.cn
+0.0.0.0 ||lixonj.xyz
+0.0.0.0 ||feptbh.xyz
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
 0.0.0.0 ||zwxxcb.icu
