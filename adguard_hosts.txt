@@ -41585,6 +41585,7 @@
 0.0.0.0 ||7fc8.site
 0.0.0.0 ||8acc5c.site
 0.0.0.0 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
+0.0.0.0 ||a49ebd.xyz
 0.0.0.0 ||a67d12.xyz
 0.0.0.0 ||b211.xyz
 0.0.0.0 ||b59c.xyz
@@ -43925,6 +43926,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||logger.torimochi-ad.net
 0.0.0.0 ||mainting-minues.xyz
 0.0.0.0 ||europe-west1-sonorous-dragon-276210.cloudfunctions.net
 0.0.0.0 ||antillephone.com
@@ -54270,7 +54272,6 @@
 0.0.0.0 ||blogparts.gcolle.net
 0.0.0.0 ||eisys-bcs.jp
 0.0.0.0 ||congrab.com
-0.0.0.0 ||torimochi-ad.net
 0.0.0.0 ||affiliates.expaus.in
 0.0.0.0 ||dep.tc
 0.0.0.0 ||r-ad.linkshare.jp
@@ -56200,8 +56201,10 @@
 0.0.0.0 ||ads.baotainguyenmoitruong.vn
 0.0.0.0 ||ads.bkitsoftware.com
 0.0.0.0 ||ads.businessstyle.vn
+0.0.0.0 ||ads.cadovn.biz
 0.0.0.0 ||ads.careerbuilder.vn
 0.0.0.0 ||ads.carmudi.vn
+0.0.0.0 ||ads.cdvn.vip
 0.0.0.0 ||ads.chanhtuoi.com
 0.0.0.0 ||ads.cungcau.vn
 0.0.0.0 ||ads.fpt.vn
@@ -56959,6 +56962,7 @@
 0.0.0.0 ||chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 ||chamsocthekhachang-truc-tuyen.com
 0.0.0.0 ||chamsocthekhachhang-thang4.com.vn
+0.0.0.0 ||chamsocthekhachhang-thang4.online
 0.0.0.0 ||chanle79.me
 0.0.0.0 ||chanlemmo.com
 0.0.0.0 ||chanlemomo.cc
@@ -57124,6 +57128,7 @@
 0.0.0.0 ||dhlexpress-vietnam.com.vn
 0.0.0.0 ||dhlvietnam-express.vn
 0.0.0.0 ||dich-vu-dien-mayxanh.com
+0.0.0.0 ||dich-vu-kh-vip-vpbank.com
 0.0.0.0 ||dich-vu-kvip-vpbank.com
 0.0.0.0 ||dich-vu-online-vpbank.com
 0.0.0.0 ||dich-vu-the-ai-vpbank.com
@@ -57549,9 +57554,11 @@
 0.0.0.0 ||haitacshopgame.com
 0.0.0.0 ||halovay.com
 0.0.0.0 ||hamoney.xyz
+0.0.0.0 ||han-muc-khcn-uu-tien-vna1.com
 0.0.0.0 ||handico.vaytienmat-nhanh24h.com
 0.0.0.0 ||hangairsoft.com
 0.0.0.0 ||hanghaiqt.com
+0.0.0.0 ||hanmucvn.com
 0.0.0.0 ||hbpnnz.cyou
 0.0.0.0 ||hdbankcareer.com
 0.0.0.0 ||hdbankfinancc.digital
@@ -57779,6 +57786,7 @@
 0.0.0.0 ||khachhangvib-canhan.com
 0.0.0.0 ||khangdz215.tk
 0.0.0.0 ||khcn-han-muc-tin-dung-ca-nhan.com
+0.0.0.0 ||khcn-my-diamon-han-muc-uu-tien.com
 0.0.0.0 ||khcn-tindung-vp.com
 0.0.0.0 ||khcn-uu-tien-3fv-vib.com
 0.0.0.0 ||khoanhkhacgiadinhdoantucuoinam.weebly.com
@@ -57834,6 +57842,7 @@
 0.0.0.0 ||kstorybank.top
 0.0.0.0 ||ktien.vn
 0.0.0.0 ||kuyhaa-me.pw
+0.0.0.0 ||l-fb.co
 0.0.0.0 ||la533.com
 0.0.0.0 ||la7168.com
 0.0.0.0 ||la9435.com
@@ -58308,6 +58317,7 @@
 0.0.0.0 ||nanghanmucthe-thetindung.com
 0.0.0.0 ||nanghanmucthetindung247.com
 0.0.0.0 ||nanghanmucthevib.com
+0.0.0.0 ||nanghanmucvisa-vn.com
 0.0.0.0 ||nap-the.vn
 0.0.0.0 ||napallgame.com
 0.0.0.0 ||napasvidientu247.com
@@ -58895,7 +58905,6 @@
 0.0.0.0 ||shek66.com
 0.0.0.0 ||shilla.skrfgrl.cn
 0.0.0.0 ||shinhan.chamsoccanhankhachhangthe-tructuyen.online
-0.0.0.0 ||shinhan.chamsocthekhachhang-thang4.online
 0.0.0.0 ||shinhan.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 ||shinhan0.com
 0.0.0.0 ||shinhanapp.org
@@ -59529,8 +59538,10 @@
 0.0.0.0 ||taixiumomo.net
 0.0.0.0 ||takk6.com
 0.0.0.0 ||tammenaa.com
+0.0.0.0 ||tang-han-muc-the-visa-vn.com
 0.0.0.0 ||tangcuongbanlinh.com
 0.0.0.0 ||tangcuongsinhluc.site
+0.0.0.0 ||tanghanmuc-vn.com
 0.0.0.0 ||tanglike.biz
 0.0.0.0 ||tanglikefree.online
 0.0.0.0 ||tangnickmienphi.com
@@ -59762,6 +59773,7 @@
 0.0.0.0 ||tingiovang777.com
 0.0.0.0 ||tingiovangvn.com
 0.0.0.0 ||tinhay24h.pro
+0.0.0.0 ||tinhothomnay.com
 0.0.0.0 ||tinhotnew.com
 0.0.0.0 ||tinlequa365.com
 0.0.0.0 ||tinlocvang123.com
@@ -60172,6 +60184,7 @@
 0.0.0.0 ||viashopee.com
 0.0.0.0 ||viaviet03.mobie.in
 0.0.0.0 ||vib-bank.com
+0.0.0.0 ||vib-mydiamon-khcn-uutien-vnc1.com
 0.0.0.0 ||vib-tindung-khcn.com
 0.0.0.0 ||vib-tindung.click
 0.0.0.0 ||vib-tindung.online
@@ -60180,11 +60193,9 @@
 0.0.0.0 ||vib.chamsockhachang-tructuyen.online
 0.0.0.0 ||vib.chamsockhachhang-tructuyen-the-visa.com
 0.0.0.0 ||vib.chamsocthekhachang-tructuyen.com.vn
-0.0.0.0 ||vib.hanmucvn.com
 0.0.0.0 ||vib.khach-hang-the-tructuyen.com
 0.0.0.0 ||vib.khach-hang-the-tructuyen.online
 0.0.0.0 ||vib.mobi
-0.0.0.0 ||vib.tanghanmuc-vn.com
 0.0.0.0 ||vib.truc-tuyen-cham-socthekhachhang.com
 0.0.0.0 ||vib.tructuyen-chamsockhachang-the.com
 0.0.0.0 ||vib.tuvan-chamsockhachhang.com
@@ -60221,6 +60232,7 @@
 0.0.0.0 ||vieclamonlinetainha.com.vn
 0.0.0.0 ||vieclamshopee.com
 0.0.0.0 ||vieetcombank.com
+0.0.0.0 ||vieetcombiank.com
 0.0.0.0 ||vieitcombank.com
 0.0.0.0 ||vieittcombank.com
 0.0.0.0 ||viet-credit.com
@@ -60411,6 +60423,7 @@
 0.0.0.0 ||vipshopee.com
 0.0.0.0 ||viptikivn.club
 0.0.0.0 ||virtuallaughing.com
+0.0.0.0 ||visa-mb.com
 0.0.0.0 ||visa-vpbank-uu-tien.com
 0.0.0.0 ||vitienonline88.com
 0.0.0.0 ||vitindungpgbank.com
@@ -60651,7 +60664,6 @@
 0.0.0.0 ||vpb-hanmuc.online
 0.0.0.0 ||vpb-nanghanmuc.com
 0.0.0.0 ||vpb-nanghanmuc.online
-0.0.0.0 ||vpb.tang-han-muc-the-visa-vn.com
 0.0.0.0 ||vpb.tanghanmucvisa-vn.com
 0.0.0.0 ||vpbank-vaytien.com
 0.0.0.0 ||vpbank.appvest.vn
@@ -60758,6 +60770,7 @@
 0.0.0.0 ||wvietcombank.com
 0.0.0.0 ||wviietcombank.com
 0.0.0.0 ||wvvietcombank.com
+0.0.0.0 ||wvwfacebook.com
 0.0.0.0 ||wvwiietcoombank.com
 0.0.0.0 ||wwgfyvvdtmeq.pw
 0.0.0.0 ||www-fb.com
@@ -61722,6 +61735,16 @@
 0.0.0.0 ||jgidskia.top
 0.0.0.0 ||fhvzrr.xyz
 0.0.0.0 ||mnpzrgz.xyz
+0.0.0.0 ||pwuxnr.cn
+0.0.0.0 ||lizijing12.top
+0.0.0.0 ||vpwizuj.icu
+0.0.0.0 ||nltsvf.xyz
+0.0.0.0 ||dfprljx.xyz
+0.0.0.0 ||rttnvz.xyz
+0.0.0.0 ||mohvxrvd.xyz
+0.0.0.0 ||kgidskid.top
+0.0.0.0 ||upyzqf.cn
+0.0.0.0 ||mdiygc.xyz
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
 0.0.0.0 ||zwxxcb.icu
