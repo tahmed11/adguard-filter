@@ -1,3 +1,4 @@
+0.0.0.0 ||pushatomic.com
 0.0.0.0 ||gussiessmutchy.com
 0.0.0.0 ||cfusionsys.com
 0.0.0.0 ||zmonei.com
@@ -1866,6 +1867,7 @@
 0.0.0.0 ||5vpbnbkiey24.com
 0.0.0.0 ||5wuefo9haif3.com
 0.0.0.0 ||5xd3jfwl9e8v.com
+0.0.0.0 ||6-partner.com
 0.0.0.0 ||6001628d3d.com
 0.0.0.0 ||600z.com
 0.0.0.0 ||6061de8597.com
@@ -10462,6 +10464,7 @@
 0.0.0.0 ||dessly.ru
 0.0.0.0 ||destinationoralairliner.com
 0.0.0.0 ||destinedsponsornominate.com
+0.0.0.0 ||destinysfavored.xyz
 0.0.0.0 ||destroyedspear.com
 0.0.0.0 ||destructionhybrids.com
 0.0.0.0 ||desugeng.xyz
@@ -15059,6 +15062,7 @@
 0.0.0.0 ||gecl.xyz
 0.0.0.0 ||geechaid.xyz
 0.0.0.0 ||geedoovu.net
+0.0.0.0 ||geegleshoaph.com
 0.0.0.0 ||geeksundigne.com
 0.0.0.0 ||geerairu.net
 0.0.0.0 ||geethaihoa.com
@@ -16920,6 +16924,7 @@
 0.0.0.0 ||higheurest.com
 0.0.0.0 ||highjackclients.com
 0.0.0.0 ||highjournalistbargain.com
+0.0.0.0 ||highlevelbite.com
 0.0.0.0 ||highlypersevereenrapture.com
 0.0.0.0 ||highlyrecomemu.info
 0.0.0.0 ||highmaidfhr.com
@@ -24820,6 +24825,7 @@
 0.0.0.0 ||oacfxrqghamyaq.com
 0.0.0.0 ||oachailo.net
 0.0.0.0 ||oackoubs.com
+0.0.0.0 ||oackoulimtoo.com
 0.0.0.0 ||oadrojoa.net
 0.0.0.0 ||oadsaurs.net
 0.0.0.0 ||oadsouzi.net
@@ -26177,6 +26183,7 @@
 0.0.0.0 ||oypucuqsuwabnxy.com
 0.0.0.0 ||oysterexhalereview.com
 0.0.0.0 ||oysterfoxfoe.com
+0.0.0.0 ||oyuvcqmqjyrqd.com
 0.0.0.0 ||oywzrri.com
 0.0.0.0 ||oyxctgotabvk.com
 0.0.0.0 ||oyyihttyklfwcgy.xyz
@@ -28153,6 +28160,7 @@
 0.0.0.0 ||professionalsly.com
 0.0.0.0 ||professionalswebcheck.com
 0.0.0.0 ||professmeeting.com
+0.0.0.0 ||professorrevealingoctopus.com
 0.0.0.0 ||professtrespass.com
 0.0.0.0 ||proffering.xyz
 0.0.0.0 ||proffering.xyz
@@ -41642,6 +41650,7 @@
 0.0.0.0 ||ca9246.xyz
 0.0.0.0 ||caa2c4.xyz
 0.0.0.0 ||d84bc26d.site
+0.0.0.0 ||d980ed.xyz
 0.0.0.0 ||e076.xyz
 0.0.0.0 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 0.0.0.0 ||ec44.site
@@ -47409,6 +47418,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||temp.twicomi.com
 0.0.0.0 ||tracking.carsales.com.au
 0.0.0.0 ||beacon.nc-net.or.jp
 0.0.0.0 ||lhe-beacon.team-rec.jp
@@ -51105,9 +51115,11 @@
 0.0.0.0 ||businessclick.ch
 0.0.0.0 ||content-garden.com
 0.0.0.0 ||contiamo.com
+0.0.0.0 ||counter-zaehler.de
 0.0.0.0 ||dcmn.io
 0.0.0.0 ||dl8.me
 0.0.0.0 ||etrust.eu
+0.0.0.0 ||fast-counter.net
 0.0.0.0 ||giga-abs.de
 0.0.0.0 ||haymarketstat.de
 0.0.0.0 ||hstrck.com
@@ -51502,6 +51514,7 @@
 0.0.0.0 ||trecker.aklamio.com
 0.0.0.0 ||vtrtl.de
 0.0.0.0 ||webcounter.goweb.de
+0.0.0.0 ||wranalytics.wildrocket.io
 0.0.0.0 ||x.bloggurat.net
 0.0.0.0 ||zs.dhl.de
 0.0.0.0 ||affiliation.planethoster.info
@@ -53948,6 +53961,7 @@
 0.0.0.0 ||exchange.informer.ua
 0.0.0.0 ||hdvmyo.com
 0.0.0.0 ||adsy.mail.bg
+0.0.0.0 ||ad-service.shop
 0.0.0.0 ||yonderdim.com
 0.0.0.0 ||gr.hdream.cfd
 0.0.0.0 ||kriptoparahaber.care
@@ -54718,6 +54732,7 @@
 0.0.0.0 ||bd742.com
 0.0.0.0 ||cdu-offline.de
 0.0.0.0 ||dierussensindschuld.de
+0.0.0.0 ||fantecio.com
 0.0.0.0 ||gayads.biz
 0.0.0.0 ||gema-online.de
 0.0.0.0 ||holyjesus.de
@@ -54725,6 +54740,7 @@
 0.0.0.0 ||swissadserver.ch
 0.0.0.0 ||wirverkaufennichts.de
 0.0.0.0 ||wixnm.com
+0.0.0.0 ||zazufi.com
 0.0.0.0 ||4rm.de
 0.0.0.0 ||a.partner-versicherung.de
 0.0.0.0 ||a3h.de
@@ -54965,7 +54981,6 @@
 0.0.0.0 ||youspacko.com
 0.0.0.0 ||z0a.de
 0.0.0.0 ||za-ads.de
-0.0.0.0 ||zazufi.com
 0.0.0.0 ||zieltracker.de
 0.0.0.0 ||zuppelzockt.com
 0.0.0.0 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
@@ -55526,6 +55541,7 @@
 0.0.0.0 ||www.blogtoplist.se
 0.0.0.0 ||www.championsverige.com.se
 0.0.0.0 ||www.fakturino.se
+0.0.0.0 ||www.filasverigese.com
 0.0.0.0 ||www.guesssverige.com.se
 0.0.0.0 ||www.kundvisaren.se
 0.0.0.0 ||www.mymediaindex.com
@@ -55955,13 +55971,18 @@
 0.0.0.0 ||anthill.vn
 0.0.0.0 ||anymind360-com.cdn.ampproject.org
 0.0.0.0 ||api.nas.nct.vn
+0.0.0.0 ||api.subiz.com.vn
+0.0.0.0 ||api.subiz.net
+0.0.0.0 ||api.subiz.xyz
 0.0.0.0 ||api.widget.zalo.me
 0.0.0.0 ||apilog.mytvnet.vn
 0.0.0.0 ||apilogduration.mytvnet.vn
 0.0.0.0 ||apinas.nct.vn
+0.0.0.0 ||apiv4.subiz.com
 0.0.0.0 ||app.harafunnel.com
 0.0.0.0 ||app.haraloyalty.com
 0.0.0.0 ||app.harasocial.com
+0.0.0.0 ||app.subiz.com.vn
 0.0.0.0 ||apps.haraads.com
 0.0.0.0 ||assets.harafunnel.com
 0.0.0.0 ||atdnetwork.com
@@ -56094,6 +56115,7 @@
 0.0.0.0 ||promotionbar.sapoapps.vn
 0.0.0.0 ||promotionpopup.sapoapps.vn
 0.0.0.0 ||pub.akadigital.vn
+0.0.0.0 ||public-gcs.subiz-cdn.com
 0.0.0.0 ||pushdi.com
 0.0.0.0 ||pushdy.com
 0.0.0.0 ||pushdy.vn
@@ -56125,6 +56147,7 @@
 0.0.0.0 ||stat.play.zing.vn
 0.0.0.0 ||static-addtoany-com.cdn.ampproject.org
 0.0.0.0 ||static.accesstrade.vn
+0.0.0.0 ||static.subiz.com
 0.0.0.0 ||statistic-blog-v2.sapoapps.vn
 0.0.0.0 ||stats.dev.zaloapp.com
 0.0.0.0 ||stats.hara.vn
@@ -56133,11 +56156,6 @@
 0.0.0.0 ||stats.stg.zaloapp.com
 0.0.0.0 ||stats.zaloapp.com
 0.0.0.0 ||stc-support-app-brand.zdn.vn
-0.0.0.0 ||subiz-cdn.com
-0.0.0.0 ||subiz.com
-0.0.0.0 ||subiz.com.vn
-0.0.0.0 ||subiz.net
-0.0.0.0 ||subiz.xyz
 0.0.0.0 ||surfcountor.com
 0.0.0.0 ||syndication.adlinknetwork.vn
 0.0.0.0 ||t.sieu-viet.com
@@ -56172,6 +56190,7 @@
 0.0.0.0 ||v9banners-com.cdn.ampproject.org
 0.0.0.0 ||vads.net.vn
 0.0.0.0 ||vads.vn
+0.0.0.0 ||vcdn.subiz-cdn.com
 0.0.0.0 ||viam.com.vn
 0.0.0.0 ||vietnamnetad.vn
 0.0.0.0 ||vipads.cc
@@ -56182,6 +56201,10 @@
 0.0.0.0 ||watanet.work
 0.0.0.0 ||wg.zaloapp.com
 0.0.0.0 ||widget.chat.zalo.me
+0.0.0.0 ||widget.subiz.com
+0.0.0.0 ||widget.subiz.net
+0.0.0.0 ||widget.subiz.xyz
+0.0.0.0 ||widgetv4.subiz.com
 0.0.0.0 ||wiinvent.com.vn
 0.0.0.0 ||wiinvent.tv
 0.0.0.0 ||yeah1publishing.com
@@ -56767,6 +56790,7 @@
 0.0.0.0 ||9g5lm9.cyou
 0.0.0.0 ||9smomo.com
 0.0.0.0 ||Free-4paid.com
+0.0.0.0 ||a.viethu.com
 0.0.0.0 ||a666.vn
 0.0.0.0 ||aaeeonmart.com
 0.0.0.0 ||abb-vnbank.cc
@@ -61812,6 +61836,15 @@
 0.0.0.0 ||vfxrpl.xyz
 0.0.0.0 ||hgcgnfe.icu
 0.0.0.0 ||07dy.cc
+0.0.0.0 ||nuxwlc.cn
+0.0.0.0 ||ta20k.xyz
+0.0.0.0 ||awunkse72.shop
+0.0.0.0 ||cergbtb36.shop
+0.0.0.0 ||gaochen12.top
+0.0.0.0 ||azsqkrc.icu
+0.0.0.0 ||wgidskie.top
+0.0.0.0 ||bqnxff.xyz
+0.0.0.0 ||wacisi.xyz
 0.0.0.0 ||bpxbzps.xyz
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
