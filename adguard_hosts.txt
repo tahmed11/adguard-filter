@@ -1,3 +1,4 @@
+0.0.0.0 ||lwjje.com
 0.0.0.0 ||mhcfsjbqw.com
 0.0.0.0 ||gwggiroo.com
 0.0.0.0 ||nstoodthestatu.info
@@ -112,7 +113,6 @@
 0.0.0.0 ||nuptoomaugou.net
 0.0.0.0 ||bsbrcdna.com
 0.0.0.0 ||crazy-baboon.com
-0.0.0.0 ||idyllicjazz.com
 0.0.0.0 ||orclrul.com
 0.0.0.0 ||vmkdfdjsnujy.xyz
 0.0.0.0 ||sirdushi.xyz
@@ -1178,6 +1178,7 @@
 0.0.0.0 ||traffic.styria.hr
 0.0.0.0 ||widget.admiral.hr
 0.0.0.0 ||widgets.jutarnji.hr
+0.0.0.0 ||widget.marktjagd.de
 0.0.0.0 ||eph-adsjutarnji.cdn.sysbee.net
 0.0.0.0 ||subs.vingd.com
 0.0.0.0 ||banner.mob.hr
@@ -6099,6 +6100,7 @@
 0.0.0.0 ||bilingualwalking.com
 0.0.0.0 ||bilkedsquit.com
 0.0.0.0 ||bilkersdtente.uno
+0.0.0.0 ||bilkersteds.com
 0.0.0.0 ||billiardsnotealertness.com
 0.0.0.0 ||billiardssequelsticky.com
 0.0.0.0 ||billionpops.com
@@ -7522,6 +7524,7 @@
 0.0.0.0 ||carfulsranquel.com
 0.0.0.0 ||cargodescent.com
 0.0.0.0 ||cargotropical.com
+0.0.0.0 ||caribedkurukh.com
 0.0.0.0 ||caricaturechampionshipeye.com
 0.0.0.0 ||caringdeath.pro
 0.0.0.0 ||caringdefi.com
@@ -7548,6 +7551,7 @@
 0.0.0.0 ||carsickpractice.com
 0.0.0.0 ||cartedneogene.com
 0.0.0.0 ||cartining-specute.com
+0.0.0.0 ||cartmansneest.com
 0.0.0.0 ||cartrigechances.com
 0.0.0.0 ||caruagedlr.com
 0.0.0.0 ||carvedcoming.top
@@ -8035,6 +8039,7 @@
 0.0.0.0 ||cheddaramusias.life
 0.0.0.0 ||cheebetoops.com
 0.0.0.0 ||cheecmou.com
+0.0.0.0 ||cheeghek.xyz
 0.0.0.0 ||cheekobsu.com
 0.0.0.0 ||cheekysleepyreproof.com
 0.0.0.0 ||cheelroo.net
@@ -9402,6 +9407,7 @@
 0.0.0.0 ||crackbroadcasting.com
 0.0.0.0 ||crackquarrelsomeslower.com
 0.0.0.0 ||cracktraumatic.com
+0.0.0.0 ||crackyunfence.com
 0.0.0.0 ||cradspbsdarltng.com
 0.0.0.0 ||craftsmancaptivity.com
 0.0.0.0 ||craftsmangraygrim.com
@@ -9885,6 +9891,7 @@
 0.0.0.0 ||daggerwantedliterally.com
 0.0.0.0 ||daiboit.com
 0.0.0.0 ||daichoho.com
+0.0.0.0 ||daichukoah.net
 0.0.0.0 ||daicoaky.net
 0.0.0.0 ||daikeethoo.com
 0.0.0.0 ||daikersscrim.website
@@ -12618,6 +12625,7 @@
 0.0.0.0 ||epailseptox.com
 0.0.0.0 ||epcpbbqi.xyz
 0.0.0.0 ||epctwfwy.com
+0.0.0.0 ||eperlanhelluo.com
 0.0.0.0 ||epewvpvddaxtv.com
 0.0.0.0 ||ephebedori.life
 0.0.0.0 ||ephedrasebait.digital
@@ -15313,6 +15321,7 @@
 0.0.0.0 ||gilcxqgcbebbo.xyz
 0.0.0.0 ||giliakmisdaub.com
 0.0.0.0 ||gilledwebeye.life
+0.0.0.0 ||gillnetstold.com
 0.0.0.0 ||gillpwiul.com
 0.0.0.0 ||gillsapp.com
 0.0.0.0 ||gillsisabellaunarmed.com
@@ -19800,6 +19809,7 @@
 0.0.0.0 ||kalganautographeater.com
 0.0.0.0 ||kalganpuppycensor.com
 0.0.0.0 ||kalifthorons.top
+0.0.0.0 ||kalmukrattail.com
 0.0.0.0 ||kalpaksaffect.top
 0.0.0.0 ||kalseech.xyz
 0.0.0.0 ||kamachilinins.com
@@ -20698,6 +20708,7 @@
 0.0.0.0 ||laulme.info
 0.0.0.0 ||launchbit.com
 0.0.0.0 ||laundrydesert.com
+0.0.0.0 ||laupelezoow.xyz
 0.0.0.0 ||laureevie.com
 0.0.0.0 ||lauriestatuestroll.com
 0.0.0.0 ||laushoar.xyz
@@ -29468,6 +29479,7 @@
 0.0.0.0 ||rapidlybeaver.com
 0.0.0.0 ||rapidlypierredictum.com
 0.0.0.0 ||rapidshookdecide.com
+0.0.0.0 ||rapingdistil.com
 0.0.0.0 ||rapolok.com
 0.0.0.0 ||raptapee.com
 0.0.0.0 ||raptingy.net
@@ -32592,6 +32604,7 @@
 0.0.0.0 ||sniejankmqq.com
 0.0.0.0 ||sniffleawag.top
 0.0.0.0 ||snipersex.com
+0.0.0.0 ||snipishdements.com
 0.0.0.0 ||snippystowstool.com
 0.0.0.0 ||snippyteevee.com
 0.0.0.0 ||snitchgutsdainty.com
@@ -35506,6 +35519,7 @@
 0.0.0.0 ||treasured-dad.pro
 0.0.0.0 ||treasureralludednook.com
 0.0.0.0 ||treasureravenvulgar.com
+0.0.0.0 ||treathuffily.com
 0.0.0.0 ||treatmentaeroplane.com
 0.0.0.0 ||treatrechurn.uno
 0.0.0.0 ||treatyaccuserevil.com
@@ -38057,6 +38071,7 @@
 0.0.0.0 ||wecjdqpinrpaugf.com
 0.0.0.0 ||wecouldle.com
 0.0.0.0 ||wedflossbecause.com
+0.0.0.0 ||wedgedgeoduck.com
 0.0.0.0 ||wedgierbirsit.com
 0.0.0.0 ||wednesdaygranddadlecture.com
 0.0.0.0 ||wednesdaynaked.com
@@ -41666,6 +41681,7 @@
 0.0.0.0 ||4e68.xyz
 0.0.0.0 ||58e0.site
 0.0.0.0 ||657475b7-0095-478d-90d4-96ce440604f9.online
+0.0.0.0 ||68646f.xyz
 0.0.0.0 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 0.0.0.0 ||7fc8.site
 0.0.0.0 ||8acc5c.site
@@ -44016,6 +44032,8 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||sentinelbi.com
+0.0.0.0 ||count.sibbo.net
 0.0.0.0 ||umami.is
 0.0.0.0 ||logger.torimochi-ad.net
 0.0.0.0 ||mainting-minues.xyz
@@ -47453,6 +47471,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||affex.org
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||analytics.denimdream.com
 0.0.0.0 ||ny77jj.washingtonpost.com
 0.0.0.0 ||spoor-api.ft.com
 0.0.0.0 ||temp.twicomi.com
@@ -50706,6 +50725,7 @@
 0.0.0.0 ||pagesense-collect.zoho.com
 0.0.0.0 ||pagesocket.glam.com
 0.0.0.0 ||pap.qualityunit.com
+0.0.0.0 ||parallax.askmediagroup.com
 0.0.0.0 ||pegasus.unifygroup.com
 0.0.0.0 ||perso.aws.arc.pub
 0.0.0.0 ||pets.channeladvisor.com
@@ -50754,6 +50774,7 @@
 0.0.0.0 ||px.spiceworks.com
 0.0.0.0 ||pylon.micstatic.com
 0.0.0.0 ||qubitanalytics.appspot.com
+0.0.0.0 ||rampjs-cdn.system1.com
 0.0.0.0 ||reach-id.orbit.tm-awx.com
 0.0.0.0 ||realm.hearst3pcc.com
 0.0.0.0 ||recs.shareaholic.com
@@ -50894,6 +50915,7 @@
 0.0.0.0 ||telemetry.vtex.com
 0.0.0.0 ||test.takedwn.ws
 0.0.0.0 ||timejs.game.163.com
+0.0.0.0 ||tk.pathmonk.com
 0.0.0.0 ||tm.vendemore.com
 0.0.0.0 ||tms.fmm.io
 0.0.0.0 ||tr-op.datatrics.com
@@ -51799,7 +51821,6 @@
 0.0.0.0 ||contador.biobiochile.cl
 0.0.0.0 ||contadores.miarroba.com
 0.0.0.0 ||contadores.miarroba.es
-0.0.0.0 ||count.sibbo.net
 0.0.0.0 ||ctx.citiservi.es
 0.0.0.0 ||datanoticias.prisasd.com
 0.0.0.0 ||g-stats.openhost.es
@@ -54522,7 +54543,6 @@
 0.0.0.0 ||quartermedia-ad-service.net
 0.0.0.0 ||ad.dl.mainpost.de
 0.0.0.0 ||plx.eispop.com
-0.0.0.0 ||widget.marktjagd.de
 0.0.0.0 ||cwi.re
 0.0.0.0 ||a.zdg.de
 0.0.0.0 ||afl-static-cdn.newbiz-prod.stroeerws.de
@@ -61316,7 +61336,6 @@
 0.0.0.0 ||jypvzd.xyz
 0.0.0.0 ||jyuwkba.top
 0.0.0.0 ||jzjpntr.xyz
-0.0.0.0 ||kalmukrattail.com
 0.0.0.0 ||kaosts.com
 0.0.0.0 ||kbomku.xyz
 0.0.0.0 ||kdeh.cn
@@ -61892,6 +61911,23 @@
 0.0.0.0 ||mgidskix.top
 0.0.0.0 ||sfkldbkldgdgh.com
 0.0.0.0 ||ssestherssa.com
+0.0.0.0 ||nclljn.xyz
+0.0.0.0 ||imawwq.xyz
+0.0.0.0 ||qgidskiy.top
+0.0.0.0 ||txmeeqz.icu
+0.0.0.0 ||ilvqyya.cn
+0.0.0.0 ||88tm6.cc
+0.0.0.0 ||jgntjtyf.icu
+0.0.0.0 ||qpzegye.cn
+0.0.0.0 ||uyohyy.xyz
+0.0.0.0 ||999db.cn
+0.0.0.0 ||tgidskii.top
+0.0.0.0 ||mqcoycx.icu
+0.0.0.0 ||ljdofz.xyz
+0.0.0.0 ||zozwnv.xyz
+0.0.0.0 ||txhfgwgkwt7.asia
+0.0.0.0 ||xytcboyz.icu
+0.0.0.0 ||cqpph.cn
 0.0.0.0 ||hphvd.cn
 0.0.0.0 ||bpxbzps.xyz
 0.0.0.0 ||zuvbzl.xyz
