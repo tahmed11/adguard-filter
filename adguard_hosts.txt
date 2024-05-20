@@ -12012,6 +12012,7 @@
 0.0.0.0 ||edwate.com
 0.0.0.0 ||edwfdhkgnx.com
 0.0.0.0 ||edxfquupejhbrey.com
+0.0.0.0 ||edzwmobmj.com
 0.0.0.0 ||ee625e4b1d.com
 0.0.0.0 ||ee6a35c1eeee.com
 0.0.0.0 ||eeab79bf10.com
@@ -41694,6 +41695,7 @@
 0.0.0.0 ||4e55.xyz
 0.0.0.0 ||4e68.xyz
 0.0.0.0 ||58e0.site
+0.0.0.0 ||634369.xyz
 0.0.0.0 ||657475b7-0095-478d-90d4-96ce440604f9.online
 0.0.0.0 ||68646f.xyz
 0.0.0.0 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site
@@ -55108,6 +55110,7 @@
 0.0.0.0 ||amd.sellingsimplified.net
 0.0.0.0 ||analytics.allas.se
 0.0.0.0 ||analytics.apotekhjartat.se
+0.0.0.0 ||analytics.arvika.se
 0.0.0.0 ||analytics.ciseway.se
 0.0.0.0 ||analytics.elle.se
 0.0.0.0 ||analytics.femina.se
@@ -56375,6 +56378,7 @@
 0.0.0.0 ||ads.phunusuckhoe.vn
 0.0.0.0 ||ads.phunuvagiadinh.vn
 0.0.0.0 ||ads.salemall.vn
+0.0.0.0 ||ads.seovietnam.pro
 0.0.0.0 ||ads.sexyland.vn
 0.0.0.0 ||ads.songmoi.vn
 0.0.0.0 ||ads.suckhoegiadinh.com.vn
@@ -61955,6 +61959,10 @@
 0.0.0.0 ||999fb.cn
 0.0.0.0 ||ltfpbp.xyz
 0.0.0.0 ||foscvbu.icu
+0.0.0.0 ||ajkggo.xyz
+0.0.0.0 ||kzpizjp.cn
+0.0.0.0 ||ogidskik.top
+0.0.0.0 ||yhimpnr.icu
 0.0.0.0 ||zuvbzl.xyz
 0.0.0.0 ||zwdtvx.xyz
 0.0.0.0 ||zwxxcb.icu
