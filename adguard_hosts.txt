@@ -1,3 +1,7 @@
+0.0.0.0 ||opeanresultancete.info
+0.0.0.0 ||getrunkhomuto.info
+0.0.0.0 ||tesousefulhead.info
+0.0.0.0 ||startfinishthis.com
 0.0.0.0 ||outheelrelict.com
 0.0.0.0 ||2475april2024.com
 0.0.0.0 ||synchroscript.deliveryengine.adswizz.com
@@ -1165,6 +1169,7 @@
 0.0.0.0 ||revrtb.com
 0.0.0.0 ||newbluetrue.xyz
 0.0.0.0 ||onemediawork.com
+0.0.0.0 ||d127s3e8wcl3q6.cloudfront.net
 0.0.0.0 ||d31uxzurj3z4fa.cloudfront.net
 0.0.0.0 ||dre81lzpy0s7q.cloudfront.net
 0.0.0.0 ||d1nug4fmv8zva9.cloudfront.net
@@ -3926,6 +3931,7 @@
 0.0.0.0 ||allnesskepped.com
 0.0.0.0 ||allocatelacking.com
 0.0.0.0 ||allodiafeveret.life
+0.0.0.0 ||allodsubussu.com
 0.0.0.0 ||alloha.tv
 0.0.0.0 ||allotnegate.com
 0.0.0.0 ||allotupwardmalicious.com
@@ -5991,6 +5997,7 @@
 0.0.0.0 ||belovedset.com
 0.0.0.0 ||beloveupcreep.com
 0.0.0.0 ||beltarklate.live
+0.0.0.0 ||beltwaythrust.com
 0.0.0.0 ||beludicolor.com
 0.0.0.0 ||belwrite.com
 0.0.0.0 ||bemachopor.com
@@ -15414,7 +15421,6 @@
 0.0.0.0 ||getpdaiddaily.com
 0.0.0.0 ||getpopunder.com
 0.0.0.0 ||getrunbestlovemy.info
-0.0.0.0 ||getrunkhomuto.info
 0.0.0.0 ||getscriptjs.com
 0.0.0.0 ||getsharedstore.com
 0.0.0.0 ||getshowads.com
@@ -19193,6 +19199,7 @@
 0.0.0.0 ||jajrlsaiboswdab.xyz
 0.0.0.0 ||jakescribble.com
 0.0.0.0 ||jakeycorkage.digital
+0.0.0.0 ||jalapamaro.com
 0.0.0.0 ||jaletemetia.com
 0.0.0.0 ||jalewaads.com
 0.0.0.0 ||jalwhftxnl.com
@@ -23688,6 +23695,7 @@
 0.0.0.0 ||muirpekvl.com
 0.0.0.0 ||mujilora.com
 0.0.0.0 ||mukhtarproving.com
+0.0.0.0 ||mulaukso.com
 0.0.0.0 ||mulberryay.com
 0.0.0.0 ||mulberrydoubloons.com
 0.0.0.0 ||mulberryresistoverwork.com
@@ -26248,6 +26256,7 @@
 0.0.0.0 ||outyanmegaom.com
 0.0.0.0 ||ouveelsa.xyz
 0.0.0.0 ||ouvrestance.com
+0.0.0.0 ||ouwhejoacie.xyz
 0.0.0.0 ||ouxvgihpkjfkhs.xyz
 0.0.0.0 ||ouyoqudevfal.com
 0.0.0.0 ||ouzavamt.com
@@ -36196,6 +36205,7 @@
 0.0.0.0 ||uabpuwz.com
 0.0.0.0 ||uads.cc
 0.0.0.0 ||uads.digital
+0.0.0.0 ||uads.guru
 0.0.0.0 ||uads.info
 0.0.0.0 ||uads.pw
 0.0.0.0 ||uads.space
@@ -36372,6 +36382,7 @@
 0.0.0.0 ||ulmoyc.com
 0.0.0.0 ||ulmpyqgfqkffe.com
 0.0.0.0 ||ulmujev.com
+0.0.0.0 ||ulnaswotter.top
 0.0.0.0 ||ulngjwvbhyyfkum.com
 0.0.0.0 ||ulnhlnsw.com
 0.0.0.0 ||ulnidkdlaxclpo.com
@@ -36790,6 +36801,7 @@
 0.0.0.0 ||upsidecopiedcraft.com
 0.0.0.0 ||upsidesheminee.com
 0.0.0.0 ||upskittyan.com
+0.0.0.0 ||upspewsafener.com
 0.0.0.0 ||upspinarakor.com
 0.0.0.0 ||upstagecarvers.cfd
 0.0.0.0 ||upstandhurls.website
@@ -41886,6 +41898,7 @@
 0.0.0.0 ||b59c.xyz
 0.0.0.0 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
 0.0.0.0 ||b9f25b.site
+0.0.0.0 ||bc98ad.xyz
 0.0.0.0 ||bcbe.site
 0.0.0.0 ||ca3d.site
 0.0.0.0 ||ca9246.xyz
@@ -42057,6 +42070,7 @@
 0.0.0.0 ||hb.yahoo.net
 0.0.0.0 ||hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 ||hotwire-widget.dailywire.com
+0.0.0.0 ||inbound-step.heavenmedia.com
 0.0.0.0 ||inrdeals.com
 0.0.0.0 ||join.megaphonetv.com
 0.0.0.0 ||js.manga1001.win
@@ -44226,6 +44240,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||orangeclickmedia.com
 0.0.0.0 ||pageviews.tray.com.br
 0.0.0.0 ||convertbox.com
 0.0.0.0 ||sync.outbrain.com
@@ -47557,7 +47572,6 @@
 0.0.0.0 ||luminati.io
 0.0.0.0 ||visilabs.com
 0.0.0.0 ||visilabs.net
-0.0.0.0 ||functionalclam.com
 0.0.0.0 ||location.cyou
 0.0.0.0 ||mymap.icu
 0.0.0.0 ||mymap.quest
@@ -47690,6 +47704,10 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||analytics.global.sky.com
+0.0.0.0 ||analytics.cosmonova.net
+0.0.0.0 ||pr-bh.ybp.yahoo.com
+0.0.0.0 ||log.tossinvest.com
 0.0.0.0 ||c950.chronicle.com
 0.0.0.0 ||forecast.nouvelobs.com
 0.0.0.0 ||analytics.vg
@@ -50951,6 +50969,7 @@
 0.0.0.0 ||page-events-ustats.udemy.com
 0.0.0.0 ||pagesense-collect.zoho.com
 0.0.0.0 ||pagesocket.glam.com
+0.0.0.0 ||panorama.wixapps.net
 0.0.0.0 ||pap.qualityunit.com
 0.0.0.0 ||parallax.askmediagroup.com
 0.0.0.0 ||pegasus.unifygroup.com
@@ -52171,6 +52190,7 @@
 0.0.0.0 ||templates.buscape.com
 0.0.0.0 ||yestorrents.org
 0.0.0.0 ||oecistbenton.com
+0.0.0.0 ||lzbgeg.com
 0.0.0.0 ||bestssrv.com
 0.0.0.0 ||v.strosin.biz
 0.0.0.0 ||tzbirdcod.com
@@ -61553,6 +61573,11 @@
 0.0.0.0 ||zvc.cc
 0.0.0.0 ||zvietcombank.com
 0.0.0.0 ||zvietnakello.weebly.com
+0.0.0.0 ||wqzmed.cn
+0.0.0.0 ||jxqdl.cn
+0.0.0.0 ||ieapak.xyz
+0.0.0.0 ||piksrie.icu
+0.0.0.0 ||rbrmhz.xyz
 0.0.0.0 ||0322cfmtl.cc
 0.0.0.0 ||07dy.cc
 0.0.0.0 ||0940088.com
@@ -62560,7 +62585,11 @@
 0.0.0.0 ||ygh5.cn
 0.0.0.0 ||wscewc.xyz
 0.0.0.0 ||jsyliea.top
+0.0.0.0 ||usmgoxe.cn
+0.0.0.0 ||369bgrec.top
+0.0.0.0 ||l7u3kf.cn
 0.0.0.0 ||zhengzhou12.top
+0.0.0.0 ||fklgndklbngg.com
 0.0.0.0 ||zhihucloud.xyz
 0.0.0.0 ||zhnnaxe.xyz
 0.0.0.0 ||zjrtxt.xyz
@@ -67730,7 +67759,6 @@
 0.0.0.0 ||analysis.focalprice.com
 0.0.0.0 ||analytics.247sports.com
 0.0.0.0 ||analytics.femalefirst.co.uk
-0.0.0.0 ||analytics.global.sky.com
 0.0.0.0 ||analytics.go.com
 0.0.0.0 ||analytics.jabong.com
 0.0.0.0 ||analytics.newsinc.com
