@@ -1,3 +1,7 @@
+0.0.0.0 ||rndskittytor.com
+0.0.0.0 ||waisheph.com
+0.0.0.0 ||batch.com
+0.0.0.0 ||flx2.pnl.agency
 0.0.0.0 ||amon1.net
 0.0.0.0 ||gaptooju.net
 0.0.0.0 ||ptoakooph.net
@@ -2298,6 +2302,7 @@
 0.0.0.0 ||86cb1dcb13ba5a1a.com
 0.0.0.0 ||87bcb027cf.com
 0.0.0.0 ||87c5ce40f8.com
+0.0.0.0 ||884de19f2b.com
 0.0.0.0 ||888promos.com
 0.0.0.0 ||889433.com
 0.0.0.0 ||88d7b6aa44fb8eb.com
@@ -9578,6 +9583,7 @@
 0.0.0.0 ||coysjayesh.com
 0.0.0.0 ||coysotown.com
 0.0.0.0 ||coyward.com
+0.0.0.0 ||cozeswracks.com
 0.0.0.0 ||cpa-optimizer.online
 0.0.0.0 ||cpa3iqcp.de
 0.0.0.0 ||cpabeyond.com
@@ -11066,6 +11072,7 @@
 0.0.0.0 ||disciplineinspirecapricorn.com
 0.0.0.0 ||discloseprogramwednesday.com
 0.0.0.0 ||discodjxkqya.com
+0.0.0.0 ||discomantles.com
 0.0.0.0 ||discomforttruant.com
 0.0.0.0 ||disconnectedponder.com
 0.0.0.0 ||disconnectthirstyron.com
@@ -15586,6 +15593,7 @@
 0.0.0.0 ||ginchoirblessed.com
 0.0.0.0 ||ginfohpg.com
 0.0.0.0 ||gingercompute.com
+0.0.0.0 ||ginglmiresaw.com
 0.0.0.0 ||ginkscarnal.top
 0.0.0.0 ||ginningsteri.com
 0.0.0.0 ||ginnyclairvoyantapp.com
@@ -15930,7 +15938,6 @@
 0.0.0.0 ||goaboomy.com
 0.0.0.0 ||goaciptu.net
 0.0.0.0 ||goads.pro
-0.0.0.0 ||goadserver.com
 0.0.0.0 ||goadx.com
 0.0.0.0 ||goaffmy.com
 0.0.0.0 ||goagloow.xyz
@@ -18605,6 +18612,7 @@
 0.0.0.0 ||inkfeedmausoleum.com
 0.0.0.0 ||inkingleran.com
 0.0.0.0 ||inklestutted.com
+0.0.0.0 ||inklikesearce.com
 0.0.0.0 ||inklinkor.com
 0.0.0.0 ||inkornesto.com
 0.0.0.0 ||inkstorylikeness.com
@@ -21204,6 +21212,7 @@
 0.0.0.0 ||lepiotaspectry.com
 0.0.0.0 ||leptidunhaunt.com
 0.0.0.0 ||leqjnmmyqtb.com
+0.0.0.0 ||leroonge.xyz
 0.0.0.0 ||lerrdoriak.com
 0.0.0.0 ||leskdywzbfk.com
 0.0.0.0 ||lesoocma.net
@@ -25315,6 +25324,7 @@
 0.0.0.0 ||octoatesamhain.com
 0.0.0.0 ||octobergypsydeny.com
 0.0.0.0 ||octobermindless.com
+0.0.0.0 ||octopidroners.com
 0.0.0.0 ||octopod.cc
 0.0.0.0 ||octopusiron.com
 0.0.0.0 ||octopuspop.com
@@ -30795,7 +30805,6 @@
 0.0.0.0 ||rndhaunteran.com
 0.0.0.0 ||rndmusharnar.com
 0.0.0.0 ||rndnoibattor.com
-0.0.0.0 ||rndskittytor.com
 0.0.0.0 ||rnfwyvgoxu.com
 0.0.0.0 ||rnldustal.com
 0.0.0.0 ||rnmd.net
@@ -34231,6 +34240,7 @@
 0.0.0.0 ||swindlehumorfossil.com
 0.0.0.0 ||swindlelaceratetorch.com
 0.0.0.0 ||swinegraveyardlegendary.com
+0.0.0.0 ||swinehalurgy.com
 0.0.0.0 ||swinesuburbanclue.com
 0.0.0.0 ||swingebudded.com
 0.0.0.0 ||swingelinseys.com
@@ -38035,7 +38045,6 @@
 0.0.0.0 ||waihoz.xyz
 0.0.0.0 ||wailedfrosty.com
 0.0.0.0 ||waioowcadhw.xyz
-0.0.0.0 ||waisheph.com
 0.0.0.0 ||waistcoataskeddone.com
 0.0.0.0 ||waistdeafgeorgiana.com
 0.0.0.0 ||waisttrustworthy.com
@@ -40286,6 +40295,7 @@
 0.0.0.0 ||zincdatawipe.com
 0.0.0.0 ||zincypalmy.top
 0.0.0.0 ||zinipx.xyz
+0.0.0.0 ||zinovu.com
 0.0.0.0 ||zinrora.pw
 0.0.0.0 ||zipakrar.com
 0.0.0.0 ||zipheeda.xyz
@@ -41336,6 +41346,7 @@
 0.0.0.0 ||geozo.com
 0.0.0.0 ||germaniavid.com
 0.0.0.0 ||girls.xyz
+0.0.0.0 ||goadserver.com
 0.0.0.0 ||gourmetads.com
 0.0.0.0 ||gplinks.in
 0.0.0.0 ||graciamediaweb.com
@@ -41938,6 +41949,7 @@
 0.0.0.0 ||58e0.site
 0.0.0.0 ||5ceea3.xyz
 0.0.0.0 ||5fd6bc.xyz
+0.0.0.0 ||605efe.xyz
 0.0.0.0 ||634369.xyz
 0.0.0.0 ||657475b7-0095-478d-90d4-96ce440604f9.online
 0.0.0.0 ||68646f.xyz
@@ -41970,6 +41982,7 @@
 0.0.0.0 ||f2f8.xyz
 0.0.0.0 ||f6176563.site
 0.0.0.0 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
+0.0.0.0 ||fbfec2.xyz
 0.0.0.0 ||ad.lgappstv.com
 0.0.0.0 ||ad.nettvservices.com
 0.0.0.0 ||ads.samsung.com
@@ -44299,6 +44312,8 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||plausible.scimago.es
+0.0.0.0 ||analytics.qushad.com
 0.0.0.0 ||orangeclickmedia.com
 0.0.0.0 ||pageviews.tray.com.br
 0.0.0.0 ||convertbox.com
@@ -50162,7 +50177,6 @@
 0.0.0.0 ||audid-api.taobao.com
 0.0.0.0 ||analytics.ff.avast.com
 0.0.0.0 ||node.aibeacon.jp
-0.0.0.0 ||wsmetrics.batch.com
 0.0.0.0 ||log.isnssdk.com
 0.0.0.0 ||log-tb.isnssdk.com
 0.0.0.0 ||mon.isnssdk.com
@@ -51722,7 +51736,6 @@
 0.0.0.0 ||ad5track.com
 0.0.0.0 ||bob-recs.com
 0.0.0.0 ||btg360.com.br
-0.0.0.0 ||clearsale.com.br
 0.0.0.0 ||enviou.com.br
 0.0.0.0 ||fulllab.com.br
 0.0.0.0 ||hariken.co
@@ -51987,6 +52000,7 @@
 0.0.0.0 ||stat.24liveplus.com
 0.0.0.0 ||statistics.rbi-nl.com
 0.0.0.0 ||tags.hilabel.nl
+0.0.0.0 ||tr.mediafin.be
 0.0.0.0 ||trkr.shoppingminds.net
 0.0.0.0 ||dnt-userreport.com
 0.0.0.0 ||tags.op-palvelut.fi
@@ -61658,6 +61672,14 @@
 0.0.0.0 ||420909.cn
 0.0.0.0 ||bzqqftz.icu
 0.0.0.0 ||esyliew.top
+0.0.0.0 ||fpelfyeesuoivy.com
+0.0.0.0 ||nlvwdlnhfnnw.com
+0.0.0.0 ||auisaoa.top
+0.0.0.0 ||bing001.shop
+0.0.0.0 ||uskecsx.icu
+0.0.0.0 ||zhangqifeng12.top
+0.0.0.0 ||wsyliee.top
+0.0.0.0 ||abucki.xyz
 0.0.0.0 ||0322cfmtl.cc
 0.0.0.0 ||07dy.cc
 0.0.0.0 ||0940088.com
