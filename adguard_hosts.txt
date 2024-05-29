@@ -1439,14 +1439,14 @@
 0.0.0.0 ||ado.delfi.ee
 0.0.0.0 ||es.ylilauta.org
 0.0.0.0 ||sab.fast.ge
+0.0.0.0 ||ban.bhol.co.il
+0.0.0.0 ||ext.bhol.co.il
+0.0.0.0 ||st1.bhol.co.il
 0.0.0.0 ||head-clickfusion.com
 0.0.0.0 ||headerbidding.services
 0.0.0.0 ||3myad.com
 0.0.0.0 ||cdn.234doo.com
 0.0.0.0 ||a.b.napiszar.com
-0.0.0.0 ||ban.bhol.co.il
-0.0.0.0 ||ext.bhol.co.il
-0.0.0.0 ||st1.bhol.co.il
 0.0.0.0 ||planner.tiscali.it
 0.0.0.0 ||reklammen.spellchecker.lu
 0.0.0.0 ||bn.gogo.mn
@@ -4682,6 +4682,7 @@
 0.0.0.0 ||arkfreakyinsufficient.com
 0.0.0.0 ||arkmedboo.live
 0.0.0.0 ||arkunexpectedtrousers.com
+0.0.0.0 ||arleavannya.com
 0.0.0.0 ||arlyreven.top
 0.0.0.0 ||armamentsummary.com
 0.0.0.0 ||armarilltor.com
@@ -7240,6 +7241,7 @@
 0.0.0.0 ||bryond.com
 0.0.0.0 ||bryovo.com
 0.0.0.0 ||bs50tds.com
+0.0.0.0 ||bsantycbjnf.com
 0.0.0.0 ||bsfofnphcuj.com
 0.0.0.0 ||bsgbd77l.de
 0.0.0.0 ||bsgeneral.com
@@ -7260,6 +7262,7 @@
 0.0.0.0 ||btdnav.com
 0.0.0.0 ||btilxdpcco.com
 0.0.0.0 ||btjbppltrdpyjsj.com
+0.0.0.0 ||btkwlsfvc.com
 0.0.0.0 ||btnativedirect.com
 0.0.0.0 ||btodsjr.com
 0.0.0.0 ||btpnative.com
@@ -9394,6 +9397,7 @@
 0.0.0.0 ||coochitiphy.com
 0.0.0.0 ||cooeyeddarbs.com
 0.0.0.0 ||coofumberty.digital
+0.0.0.0 ||coogauwoupto.com
 0.0.0.0 ||coogoocy.com
 0.0.0.0 ||coogumak.com
 0.0.0.0 ||coojaiku.com
@@ -17739,6 +17743,7 @@
 0.0.0.0 ||hudrftcspuf.com
 0.0.0.0 ||hue2a.com
 0.0.0.0 ||huehinge.com
+0.0.0.0 ||hufaztjist.com
 0.0.0.0 ||hugelyantony.com
 0.0.0.0 ||hugelyimmovable.com
 0.0.0.0 ||hugenicholas.com
@@ -21767,6 +21772,7 @@
 0.0.0.0 ||looksblazeconfidentiality.com
 0.0.0.0 ||looksdashboardcome.com
 0.0.0.0 ||looksthrilled.com
+0.0.0.0 ||looktotheright.com
 0.0.0.0 ||lookujie.net
 0.0.0.0 ||lookwhippedoppressive.com
 0.0.0.0 ||lookypeacing.uno
@@ -30093,6 +30099,7 @@
 0.0.0.0 ||refilednisi.com
 0.0.0.0 ||refilmsbones.top
 0.0.0.0 ||refineminx.top
+0.0.0.0 ||refinerfiery.com
 0.0.0.0 ||reflectingscoopcourse.com
 0.0.0.0 ||reflectionseldomnorth.com
 0.0.0.0 ||reflectionsidewalk.com
@@ -34666,6 +34673,7 @@
 0.0.0.0 ||tefaighecmoa.com
 0.0.0.0 ||tefuse.com
 0.0.0.0 ||tegleebs.com
+0.0.0.0 ||teiankythes.top
 0.0.0.0 ||teicdn.com
 0.0.0.0 ||teiidsfortune.com
 0.0.0.0 ||teinlbw.com
@@ -40000,6 +40008,7 @@
 0.0.0.0 ||yscntxil.com
 0.0.0.0 ||ysemblyjusting.info
 0.0.0.0 ||ysesials.net
+0.0.0.0 ||yshhfig.com
 0.0.0.0 ||ysnxszyrxdzp.com
 0.0.0.0 ||yspecjbjmcub.com
 0.0.0.0 ||ysxuehcerecoge.com
@@ -40521,6 +40530,7 @@
 0.0.0.0 ||zxmojgj.com
 0.0.0.0 ||zxpqwwt.com
 0.0.0.0 ||zxr9gpxf7j.com
+0.0.0.0 ||zxrfzxb.com
 0.0.0.0 ||zxwhkosabux.com
 0.0.0.0 ||zxxgoikbqyiu.com
 0.0.0.0 ||zy16eoat1w.com
@@ -41962,6 +41972,7 @@
 0.0.0.0 ||97b448.xyz
 0.0.0.0 ||a49ebd.xyz
 0.0.0.0 ||a67d12.xyz
+0.0.0.0 ||b0eb63.xyz
 0.0.0.0 ||b211.xyz
 0.0.0.0 ||b59c.xyz
 0.0.0.0 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online
@@ -41971,6 +41982,7 @@
 0.0.0.0 ||ca3d.site
 0.0.0.0 ||ca9246.xyz
 0.0.0.0 ||caa2c4.xyz
+0.0.0.0 ||ce357c.xyz
 0.0.0.0 ||d84bc26d.site
 0.0.0.0 ||d8b0a5.xyz
 0.0.0.0 ||d980ed.xyz
@@ -44312,6 +44324,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||hzstats.com
 0.0.0.0 ||plausible.scimago.es
 0.0.0.0 ||analytics.qushad.com
 0.0.0.0 ||orangeclickmedia.com
@@ -47778,6 +47791,9 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||doppler-beacon.cbsivideo.com
+0.0.0.0 ||lake.studydrive.net
+0.0.0.0 ||ce.x-opt.io
 0.0.0.0 ||backstory.ebay.
 0.0.0.0 ||edgetrksvc.ebay.
 0.0.0.0 ||analytics.global.sky.com
@@ -50855,7 +50871,6 @@
 0.0.0.0 ||diagnose.igstatic.com
 0.0.0.0 ||dig.ultimedia.com
 0.0.0.0 ||dl.episerver.net
-0.0.0.0 ||doppler-beacon.cbsivideo.com
 0.0.0.0 ||doppler-client-events.cbsivideo.com
 0.0.0.0 ||doppler-config.cbsivideo.com
 0.0.0.0 ||doppler-reporting.cbsivideo.com
@@ -61680,6 +61695,13 @@
 0.0.0.0 ||zhangqifeng12.top
 0.0.0.0 ||wsyliee.top
 0.0.0.0 ||abucki.xyz
+0.0.0.0 ||jinzige.cn
+0.0.0.0 ||15huhu.cn
+0.0.0.0 ||nkdgnsfsk.com
+0.0.0.0 ||sdjbvskjvds.com
+0.0.0.0 ||aeaw.cn
+0.0.0.0 ||mqaoweu.icu
+0.0.0.0 ||mninoq.xyz
 0.0.0.0 ||0322cfmtl.cc
 0.0.0.0 ||07dy.cc
 0.0.0.0 ||0940088.com
