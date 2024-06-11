@@ -40176,6 +40176,7 @@
 0.0.0.0 ||adspeed.com
 0.0.0.0 ||adspruce.com
 0.0.0.0 ||adsquirrel.ai
+0.0.0.0 ||adsreference.com
 0.0.0.0 ||adsring.com
 0.0.0.0 ||adsrv4k.com
 0.0.0.0 ||adsrvmedia.com
@@ -41210,6 +41211,7 @@
 0.0.0.0 ||295c.site
 0.0.0.0 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 0.0.0.0 ||3a2e.site
+0.0.0.0 ||420db600.xyz
 0.0.0.0 ||485728.xyz
 0.0.0.0 ||48a16802.site
 0.0.0.0 ||4a0e.xyz
@@ -43600,6 +43602,8 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||ssevt.com
+0.0.0.0 ||lahar.com.br
 0.0.0.0 ||pxl.knam.pro
 0.0.0.0 ||manalyticshub.com
 0.0.0.0 ||metrics.streaks.jp
@@ -50789,6 +50793,17 @@
 0.0.0.0 ||duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 ||dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 ||dzgwautxzdtn9.cloudfront.net
+0.0.0.0 ||anal.sataniskwijt.be
+0.0.0.0 ||analytics.code.dccouncil.gov
+0.0.0.0 ||count.vidsrc.pro
+0.0.0.0 ||goat.hepicgamerz.com
+0.0.0.0 ||goat.nhimmeo.cf
+0.0.0.0 ||goat.skeetstats.xyz
+0.0.0.0 ||goat.tailspace.net
+0.0.0.0 ||st.mapleranks.com
+0.0.0.0 ||stats.afrocave.com
+0.0.0.0 ||stats.boringproxy.io
+0.0.0.0 ||stats.how.wtf
 0.0.0.0 ||urc.taboolasyndication.com
 0.0.0.0 ||ascpqnj-oam.global.ssl.fastly.net
 0.0.0.0 ||fyrsbckgi-c.global.ssl.fastly.net
@@ -51606,6 +51621,7 @@
 0.0.0.0 ||templates.buscape.com
 0.0.0.0 ||yestorrents.org
 0.0.0.0 ||oecistbenton.com
+0.0.0.0 ||1qe.info
 0.0.0.0 ||23oct2023.site
 0.0.0.0 ||fcepahafyq.com
 0.0.0.0 ||6rn05mmbct.ru
@@ -56427,6 +56443,7 @@
 0.0.0.0 ||analytics.jamstackvietnam.com
 0.0.0.0 ||analytics.molistar.com
 0.0.0.0 ||analytics.nhattao.com
+0.0.0.0 ||analytics.ntlc.com.vn
 0.0.0.0 ||analytics.pancake.vn
 0.0.0.0 ||analytics.rever.vn
 0.0.0.0 ||analytics.sohatv.vn
@@ -56504,6 +56521,7 @@
 0.0.0.0 ||file-subiz.com
 0.0.0.0 ||financial-agent.headlines.pw
 0.0.0.0 ||follow.vnay.vn
+0.0.0.0 ||formalhood.com
 0.0.0.0 ||go.vnecdn.com
 0.0.0.0 ||gtmjs.com
 0.0.0.0 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -56937,6 +56955,7 @@
 0.0.0.0 ||amqa11.com
 0.0.0.0 ||anbinh-finance.club
 0.0.0.0 ||anceovarec.cfd
+0.0.0.0 ||and4.junglebeariwtc4.com
 0.0.0.0 ||andall.servicesql.info
 0.0.0.0 ||andelect.cfd
 0.0.0.0 ||android-system-virus-detect.web.app
@@ -57010,6 +57029,7 @@
 0.0.0.0 ||bb9998.com
 0.0.0.0 ||bbankpower.com
 0.0.0.0 ||bbc6666.com
+0.0.0.0 ||bbuildersget.com
 0.0.0.0 ||bcmoney.xyz
 0.0.0.0 ||bemcll.me
 0.0.0.0 ||beoneviet.com
@@ -57078,6 +57098,7 @@
 0.0.0.0 ||card-tindung-vp.com
 0.0.0.0 ||card-tindung.com
 0.0.0.0 ||cardshinhan.com
+0.0.0.0 ||cardzstorezone.com
 0.0.0.0 ||casneon.com
 0.0.0.0 ||cathe-tindung247mpos.com
 0.0.0.0 ||cb49836.click
@@ -57216,6 +57237,7 @@
 0.0.0.0 ||cuocthitainangnhithang12.weebly.com
 0.0.0.0 ||currencyconverterbanking.weebly.com
 0.0.0.0 ||cvietcombank.com
+0.0.0.0 ||da2323.com
 0.0.0.0 ||da6555.com
 0.0.0.0 ||dadw11.com
 0.0.0.0 ||dadw22.com
@@ -57746,6 +57768,7 @@
 0.0.0.0 ||hitiens.com
 0.0.0.0 ||hkdbitexchange.com
 0.0.0.0 ||hlviet84.com
+0.0.0.0 ||hnmrw.net
 0.0.0.0 ||hoakhoithanhlichmamnon9999.weebly.com
 0.0.0.0 ||hoangkim1.org
 0.0.0.0 ||hocbongtienganh.com
@@ -57892,6 +57915,7 @@
 0.0.0.0 ||itviet-hcm.com
 0.0.0.0 ||iviietcombank.com
 0.0.0.0 ||ivvietcombank.com
+0.0.0.0 ||ivz7x63ymy.ru
 0.0.0.0 ||iyogo.shop
 0.0.0.0 ||jaccsc.com
 0.0.0.0 ||jaccscom.com
@@ -57905,6 +57929,7 @@
 0.0.0.0 ||jeyrkyshop.com
 0.0.0.0 ||jo9p72.cyou
 0.0.0.0 ||jomashopsa.com
+0.0.0.0 ||jpalertcert.com
 0.0.0.0 ||junoshop.online
 0.0.0.0 ||kaurroot.com
 0.0.0.0 ||kavay.vn
@@ -57918,6 +57943,7 @@
 0.0.0.0 ||kfdg55.com
 0.0.0.0 ||kh-cn-mrd-f5-tpbank.com
 0.0.0.0 ||kh-cn-uutien-3fv-vib.com
+0.0.0.0 ||kh-vibquocte.com
 0.0.0.0 ||khach-hang-ca-nhan-vip5.com
 0.0.0.0 ||khachhangvib-canhan.com
 0.0.0.0 ||khangdz215.tk
@@ -58741,6 +58767,7 @@
 0.0.0.0 ||oivay.app
 0.0.0.0 ||oivay.vip
 0.0.0.0 ||oldcname.ieasyclick.net
+0.0.0.0 ||omfghellobrosjda38.org
 0.0.0.0 ||onhamuadich.com
 0.0.0.0 ||onirybank.com
 0.0.0.0 ||online-ibank.com
@@ -59684,6 +59711,7 @@
 0.0.0.0 ||takk6.com
 0.0.0.0 ||tammenaa.com
 0.0.0.0 ||tang-han-muc-the-visa-vn.com
+0.0.0.0 ||tang-han-muc-tin-dung-vn.com
 0.0.0.0 ||tangcuongbanlinh.com
 0.0.0.0 ||tangcuongsinhluc.site
 0.0.0.0 ||tanghanmuc-vn.com
@@ -60728,6 +60756,7 @@
 0.0.0.0 ||vnshopee.vip
 0.0.0.0 ||vnshoping.com
 0.0.0.0 ||vnsshoppe.com
+0.0.0.0 ||vntanghanmucvisadebit.com
 0.0.0.0 ||vntiki.shop
 0.0.0.0 ||vntiki11.com
 0.0.0.0 ||vntikiship.com
@@ -60991,6 +61020,17 @@
 0.0.0.0 ||zvc.cc
 0.0.0.0 ||zvietcombank.com
 0.0.0.0 ||zvietnakello.weebly.com
+0.0.0.0 ||auislq.top
+0.0.0.0 ||taproximo.com
+0.0.0.0 ||twqtf.boats
+0.0.0.0 ||kjipko.xyz
+0.0.0.0 ||wfjslie.top
+0.0.0.0 ||pztezl.xyz
+0.0.0.0 ||rqnefp.xyz
+0.0.0.0 ||retrefsf.cn
+0.0.0.0 ||hsoubnp.icu
+0.0.0.0 ||binga03.shop
+0.0.0.0 ||jcfnbhqo.icu
 0.0.0.0 ||ligfdjnfd.cn
 0.0.0.0 ||ozykeor.icu
 0.0.0.0 ||yxkbgg.xyz
