@@ -56623,6 +56623,7 @@
 0.0.0.0 ||adclient.vietnamnetjsc.vn
 0.0.0.0 ||addlog.thuvienphapluat.vn
 0.0.0.0 ||addtop.trangvangvietnam.com
+0.0.0.0 ||adhub.mobifone.vn
 0.0.0.0 ||adjusts.info
 0.0.0.0 ||adm.phunusuckhoe.vn
 0.0.0.0 ||adm.phunuvagiadinh.vn
@@ -57542,6 +57543,7 @@
 0.0.0.0 ||cskh-vib-canhan.com
 0.0.0.0 ||cskh-vib.ho-tro-tin-dung-ca-nhan.com
 0.0.0.0 ||cskh-vib.nang-han-muc-the-visa.com
+0.0.0.0 ||cskhcanhanhd.com
 0.0.0.0 ||cskhdienmayxanh.com
 0.0.0.0 ||cskhdienmayxanhvn.com
 0.0.0.0 ||cskhmayxanh.com
@@ -57561,6 +57563,7 @@
 0.0.0.0 ||cvietcombank.com
 0.0.0.0 ||da2323.com
 0.0.0.0 ||da6555.com
+0.0.0.0 ||da8975.com
 0.0.0.0 ||dadw11.com
 0.0.0.0 ||dadw22.com
 0.0.0.0 ||dadw55.com
@@ -57585,6 +57588,7 @@
 0.0.0.0 ||dangkytruyenhinhcap.com
 0.0.0.0 ||dangkyvay-bank247.net
 0.0.0.0 ||dangkyvaybidv.com
+0.0.0.0 ||dangnhaphoso.com
 0.0.0.0 ||dantri.live
 0.0.0.0 ||dantrii.info
 0.0.0.0 ||daohannganhang.click
@@ -57677,6 +57681,7 @@
 0.0.0.0 ||dienthoaiviet.net
 0.0.0.0 ||differentia.ru
 0.0.0.0 ||disorderstatus.ru
+0.0.0.0 ||dkmjxh.info
 0.0.0.0 ||dmxprovip.com
 0.0.0.0 ||dmxvip.com
 0.0.0.0 ||dns-log.d-n-s.org.uk
@@ -57701,6 +57706,7 @@
 0.0.0.0 ||duchessefit.com
 0.0.0.0 ||duthithanhlich2021.weebly.com
 0.0.0.0 ||duyendangaodaivietnam2021.weebly.com
+0.0.0.0 ||duyetdonlazada.com
 0.0.0.0 ||dv-ca-nhan-vpbank.com
 0.0.0.0 ||dv-nang-cap-vpbank.com
 0.0.0.0 ||dvdienmayxanh.com
@@ -57725,6 +57731,7 @@
 0.0.0.0 ||ebeuboay.cc
 0.0.0.0 ||ebmarketingshops.com
 0.0.0.0 ||ebuyy.shop
+0.0.0.0 ||ecishh.info
 0.0.0.0 ||edbythe67ak.cfd
 0.0.0.0 ||edunetworkonlinevietnam.com
 0.0.0.0 ||edunetworkvietnam.com.vn
@@ -57797,6 +57804,7 @@
 0.0.0.0 ||fe.lwcvn.com
 0.0.0.0 ||feacbookk.com
 0.0.0.0 ||fecabookk.com
+0.0.0.0 ||fefqkn.org
 0.0.0.0 ||ff-garena-membership-2021.com
 0.0.0.0 ||ff-garena-membershipff.com
 0.0.0.0 ||ff-garena-sukien.com
@@ -57975,6 +57983,7 @@
 0.0.0.0 ||giaodichquettindungpos247-online.com
 0.0.0.0 ||giaodichquettindungvn-online.com
 0.0.0.0 ||giaodichquocte-wumoney365.weebly.com
+0.0.0.0 ||giaodichquoctes.com
 0.0.0.0 ||giaodichtiente247ipay.weebly.com
 0.0.0.0 ||giaodichvidientu.com.vn
 0.0.0.0 ||giaothuongvietnhat.org
@@ -58017,6 +58026,7 @@
 0.0.0.0 ||gplxgovn.vn
 0.0.0.0 ||greatvay.xyz
 0.0.0.0 ||greenvay8.com
+0.0.0.0 ||griefcube.cc
 0.0.0.0 ||grn-membershipff.com
 0.0.0.0 ||grn-memberships.com
 0.0.0.0 ||grn-memberships2021.com
@@ -58545,6 +58555,7 @@
 0.0.0.0 ||mail.pcygphil.com
 0.0.0.0 ||mail.simpletra.com
 0.0.0.0 ||mail.theworkguyoo.com
+0.0.0.0 ||main-card-vib.com
 0.0.0.0 ||maivang.vip
 0.0.0.0 ||maivang.xyz
 0.0.0.0 ||mallshopvn.vip
@@ -58568,11 +58579,13 @@
 0.0.0.0 ||mbbankn.com
 0.0.0.0 ||mbbffn.online
 0.0.0.0 ||mbcanhan-cskh.com
+0.0.0.0 ||mbdk99.com
 0.0.0.0 ||mbdkb.com
 0.0.0.0 ||mbfic-plus.com
 0.0.0.0 ||mbfn-fic.com
 0.0.0.0 ||mbtk-bank.com
 0.0.0.0 ||mcfa11.com
+0.0.0.0 ||mcnodes.zapto.org
 0.0.0.0 ||mcredit.vaynhanh-bankcredits.com
 0.0.0.0 ||meetamate.site
 0.0.0.0 ||member-gaarena.com
@@ -58729,6 +58742,7 @@
 0.0.0.0 ||moneygram24hh.weebly.com
 0.0.0.0 ||moneyhay.net
 0.0.0.0 ||moneyloan-vn.com
+0.0.0.0 ||moneytracking137.com
 0.0.0.0 ||moneyveo.vn
 0.0.0.0 ||moneyvi.xyz
 0.0.0.0 ||moneywallet.cf
@@ -58811,6 +58825,7 @@
 0.0.0.0 ||mysp.ac
 0.0.0.0 ||nalhajarm.cfd
 0.0.0.0 ||nang-cap-hang-vvip-vib.com
+0.0.0.0 ||nang-cap-ocare-vib.com
 0.0.0.0 ||nang-cap-online-vpbank.com
 0.0.0.0 ||nang-cap-vip-vpbank.com
 0.0.0.0 ||nang-han-muc-ido-vpbank.com
@@ -59329,6 +59344,7 @@
 0.0.0.0 ||restless.su
 0.0.0.0 ||restlesz.su
 0.0.0.0 ||reviewphim.pro
+0.0.0.0 ||rgbppxtvieoytnoej.org
 0.0.0.0 ||rhighest.cfd
 0.0.0.0 ||rich678.com
 0.0.0.0 ||rickmomo.fun
@@ -59399,6 +59415,7 @@
 0.0.0.0 ||sdo8357.com
 0.0.0.0 ||sdqwf.ga
 0.0.0.0 ||seabank-nganhanghanoi.com
+0.0.0.0 ||sendotv.com
 0.0.0.0 ||sendovip.com
 0.0.0.0 ||sendovn.com
 0.0.0.0 ||senopaee.com
@@ -59448,6 +59465,7 @@
 0.0.0.0 ||shoopvv.com
 0.0.0.0 ||shoosse.com
 0.0.0.0 ||shop-ama-zon.net
+0.0.0.0 ||shop.global-selling.top
 0.0.0.0 ||shop146.com
 0.0.0.0 ||shop2727.com
 0.0.0.0 ||shop3001.com
@@ -59905,6 +59923,7 @@
 0.0.0.0 ||sos-icloud.com
 0.0.0.0 ||sotuyenvcb.vietcombanker.com
 0.0.0.0 ||sp15569p.com
+0.0.0.0 ||sp1663p.com
 0.0.0.0 ||sp315693vn.com
 0.0.0.0 ||sp5188.com
 0.0.0.0 ||sp56788.com
@@ -60092,6 +60111,7 @@
 0.0.0.0 ||tdkd03.com
 0.0.0.0 ||tdkd07.com
 0.0.0.0 ||tdkd08.com
+0.0.0.0 ||tdkt00.com
 0.0.0.0 ||tdkt01.com
 0.0.0.0 ||tdtc.shop
 0.0.0.0 ||techcombank.ngan-hang.net
@@ -60111,6 +60131,7 @@
 0.0.0.0 ||thang365g.com
 0.0.0.0 ||thanhphomomo.com
 0.0.0.0 ||thanhtoanlienquan.com
+0.0.0.0 ||thanhtrapcrt.online
 0.0.0.0 ||thanquay247.vip
 0.0.0.0 ||thao88.com
 0.0.0.0 ||thebank247.ga
@@ -60136,6 +60157,7 @@
 0.0.0.0 ||thisinhthanhlich.cf
 0.0.0.0 ||thisinhthanhlich.com
 0.0.0.0 ||thisinhthanhlich2022.com
+0.0.0.0 ||thisinhthanhlich2024.com
 0.0.0.0 ||thongtindonhang.com
 0.0.0.0 ||thpthuynhthuckhang.edu.vn
 0.0.0.0 ||thsdbj.com
@@ -60272,6 +60294,7 @@
 0.0.0.0 ||tinchap-techcombank.store
 0.0.0.0 ||tinchaphd.com
 0.0.0.0 ||tinchapluong-techcombank.xyz
+0.0.0.0 ||tinchapshinhan.online
 0.0.0.0 ||tinchapvcb-vn.com
 0.0.0.0 ||tinchapvietcombank24h.com
 0.0.0.0 ||tindung-online.com
@@ -60328,6 +60351,7 @@
 0.0.0.0 ||tmko3.com
 0.0.0.0 ||toaaikhoongnhho-352614.click
 0.0.0.0 ||tochucthetindung.com
+0.0.0.0 ||tokyueiklbphqgupc.org
 0.0.0.0 ||tomo5933.vip
 0.0.0.0 ||tomo5963.vip
 0.0.0.0 ||tongdaicaptruyenhinh.online
@@ -60718,6 +60742,7 @@
 0.0.0.0 ||viaviet03.mobie.in
 0.0.0.0 ||vib-bank.com
 0.0.0.0 ||vib-mydiamon-khcn-uutien-vnc1.com
+0.0.0.0 ||vib-nangcap.com
 0.0.0.0 ||vib-tindung-khcn.com
 0.0.0.0 ||vib-tindung.click
 0.0.0.0 ||vib-tindung.online
@@ -61069,6 +61094,7 @@
 0.0.0.0 ||vn88khuyenmai.site
 0.0.0.0 ||vn88khuyenmai.space
 0.0.0.0 ||vn88khuyenmai.store
+0.0.0.0 ||vn999mall.vip
 0.0.0.0 ||vnah567.com
 0.0.0.0 ||vnambzuon36sc.vip
 0.0.0.0 ||vnbitcoin.cc
@@ -61206,6 +61232,7 @@
 0.0.0.0 ||vpb-nanghanmuc.online
 0.0.0.0 ||vpbank-vaytien.com
 0.0.0.0 ||vpbank.appvest.vn
+0.0.0.0 ||vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 ||vpbankvn.com
 0.0.0.0 ||vpbban.com
 0.0.0.0 ||vpbbank.com
@@ -61371,6 +61398,7 @@
 0.0.0.0 ||zeroshop.cc
 0.0.0.0 ||zingmp3.pro
 0.0.0.0 ||zingshop.net
+0.0.0.0 ||zla653.top
 0.0.0.0 ||zla963.top
 0.0.0.0 ||zmomo.cc
 0.0.0.0 ||znavidsde.cfd
@@ -61384,6 +61412,16 @@
 0.0.0.0 ||saeo.cn
 0.0.0.0 ||edoshbw.top
 0.0.0.0 ||blciqbk.icu
+0.0.0.0 ||ycgfdf.cn
+0.0.0.0 ||birtw.cn
+0.0.0.0 ||fmjjvb.xyz
+0.0.0.0 ||awyuge.xyz
+0.0.0.0 ||ddnzpr.xyz
+0.0.0.0 ||uessnah.icu
+0.0.0.0 ||wdoshbe.top
+0.0.0.0 ||663008888.com
+0.0.0.0 ||uutytp.com
+0.0.0.0 ||w0057.com
 0.0.0.0 ||8878tp.com
 0.0.0.0 ||ccccc66kkkkk.com
 0.0.0.0 ||ccccc78kkkkk.com
@@ -67640,12 +67678,7 @@
 0.0.0.0 ||tinancefa.org
 0.0.0.0 ||laxsson.com
 0.0.0.0 ||tradergpt.ai
-0.0.0.0 ||wibodir.com
-0.0.0.0 ||eh-ra-z-se-na.org
-0.0.0.0 ||ebl-hot.com
-0.0.0.0 ||iranuschsahm.sbs
-0.0.0.0 ||seownae.space
-0.0.0.0 ||maeshhtr.com
+0.0.0.0 ||meashstis.ir
 0.0.0.0 ||middlepoint.co.kr
 0.0.0.0 ||authanalysis.com
 0.0.0.0 ||planmix.co.kr
