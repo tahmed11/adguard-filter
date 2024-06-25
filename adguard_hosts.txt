@@ -1067,7 +1067,6 @@
 0.0.0.0 ||kmsofficial.org
 0.0.0.0 ||Kmspico-official.org
 0.0.0.0 ||Yasir252.com
-0.0.0.0 ||karanpc.com
 0.0.0.0 ||getintopc.today
 0.0.0.0 ||stripe.rs-1028-a.com
 0.0.0.0 ||hub.fghtem.com
@@ -4507,6 +4506,7 @@
 0.0.0.0 ||aphemicstull.com
 0.0.0.0 ||aphidsapprend.top
 0.0.0.0 ||aphidsclee.com
+0.0.0.0 ||api168168.com
 0.0.0.0 ||apiculirackman.top
 0.0.0.0 ||apidata.info
 0.0.0.0 ||apiecelee.com
@@ -5852,6 +5852,7 @@
 0.0.0.0 ||bcuiaw.com
 0.0.0.0 ||bcxcxixcwprccn.com
 0.0.0.0 ||bczzwakqyae.com
+0.0.0.0 ||bd51static.com
 0.0.0.0 ||bdbffuwrxmsekjp.com
 0.0.0.0 ||bdbovbmfu.xyz
 0.0.0.0 ||bddc935c97.com
@@ -24473,6 +24474,7 @@
 0.0.0.0 ||noureewo.com
 0.0.0.0 ||nourishinghorny.com
 0.0.0.0 ||nourishmentrespective.com
+0.0.0.0 ||nouveau-digital.com
 0.0.0.0 ||nouveaulain.com
 0.0.0.0 ||nouvhidtxryveg.com
 0.0.0.0 ||novadune.com
@@ -40682,6 +40684,7 @@
 0.0.0.0 ||capacitygrid.com
 0.0.0.0 ||caroda.io
 0.0.0.0 ||casino-zilla.com
+0.0.0.0 ||cazamba.com
 0.0.0.0 ||cb-content.com
 0.0.0.0 ||cdnreference.com
 0.0.0.0 ||charltonmedia.com
@@ -43872,6 +43875,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||api.sardine.ai
 0.0.0.0 ||dmp.one
 0.0.0.0 ||dmp-ai.ru
 0.0.0.0 ||dmp-one.ru
@@ -45110,7 +45114,6 @@
 0.0.0.0 ||statsp.fpop.net
 0.0.0.0 ||conductrics.com
 0.0.0.0 ||zorosrv.com
-0.0.0.0 ||api.cazamba.com
 0.0.0.0 ||maliva-mcs.byteoversea.com
 0.0.0.0 ||sgali-mcs.byteoversea.com
 0.0.0.0 ||1dmp.io
@@ -55686,6 +55689,7 @@
 0.0.0.0 ||rpofsweden.se
 0.0.0.0 ||rum-http-intake.logs.datadoghq.eu
 0.0.0.0 ||rum-reporter-prod.exp.bn.nr
+0.0.0.0 ||s.cartbooster.io
 0.0.0.0 ||s.ntv.io
 0.0.0.0 ||sak.userreport.com
 0.0.0.0 ||salesbooster.ai
@@ -61422,6 +61426,18 @@
 0.0.0.0 ||663008888.com
 0.0.0.0 ||uutytp.com
 0.0.0.0 ||w0057.com
+0.0.0.0 ||doujs03.xyz
+0.0.0.0 ||6pznpz.com
+0.0.0.0 ||baijs02.xyz
+0.0.0.0 ||baijs03.xyz
+0.0.0.0 ||google-js-01.xyz
+0.0.0.0 ||afopr.cn
+0.0.0.0 ||qdoshby.top
+0.0.0.0 ||eyislow.top
+0.0.0.0 ||miwfkm.xyz
+0.0.0.0 ||dnpalh.xyz
+0.0.0.0 ||cresqoirz.com
+0.0.0.0 ||mcighme.icu
 0.0.0.0 ||8878tp.com
 0.0.0.0 ||ccccc66kkkkk.com
 0.0.0.0 ||ccccc78kkkkk.com
