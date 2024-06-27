@@ -1,3 +1,4 @@
+0.0.0.0 ||pepiggies.xyz
 0.0.0.0 ||shuanshu.com.com
 0.0.0.0 ||kuurza.com
 0.0.0.0 ||dxtv1.com
@@ -21727,6 +21728,7 @@
 0.0.0.0 ||luckypushh.com
 0.0.0.0 ||luckyz.xyz
 0.0.0.0 ||lucrativeemotionallypromised.com
+0.0.0.0 ||lucrinearraign.com
 0.0.0.0 ||lucrumvirga.life
 0.0.0.0 ||lucvhrdlywvnwh.com
 0.0.0.0 ||ludabmanros.com
@@ -26480,6 +26482,7 @@
 0.0.0.0 ||paucityirido.space
 0.0.0.0 ||pauewr4cw2xs5q.com
 0.0.0.0 ||paughtyrostrum.com
+0.0.0.0 ||paugrozefou.net
 0.0.0.0 ||paularrears.com
 0.0.0.0 ||paulastroid.com
 0.0.0.0 ||paulcorrectfluid.com
@@ -26663,6 +26666,7 @@
 0.0.0.0 ||pegirs.com
 0.0.0.0 ||pegloang.com
 0.0.0.0 ||peirs5tbakchios.com
+0.0.0.0 ||peisantcorneas.com
 0.0.0.0 ||pejzeexukxo.com
 0.0.0.0 ||pekcbuz.com
 0.0.0.0 ||pelagictanjib.com
@@ -27871,6 +27875,7 @@
 0.0.0.0 ||preferencedrank.com
 0.0.0.0 ||preferenceforfeit.com
 0.0.0.0 ||preferredsaltshift.com
+0.0.0.0 ||prefershapely.com
 0.0.0.0 ||preferunhair.com
 0.0.0.0 ||prefleks.com
 0.0.0.0 ||pregainpotgut.top
@@ -33168,6 +33173,7 @@
 0.0.0.0 ||steamjaws.com
 0.0.0.0 ||stedsous.xyz
 0.0.0.0 ||steefaulrouy.xyz
+0.0.0.0 ||steegnow.com
 0.0.0.0 ||steel-bedroom.pro
 0.0.0.0 ||steeplederivedinattentive.com
 0.0.0.0 ||steeplesaturday.com
@@ -33359,6 +33365,7 @@
 0.0.0.0 ||straitchangeless.com
 0.0.0.0 ||straitmeasures.com
 0.0.0.0 ||straitsdeprive.com
+0.0.0.0 ||straletmitvoth.com
 0.0.0.0 ||stranddecidedlydemeanour.com
 0.0.0.0 ||strandedpeel.com
 0.0.0.0 ||strandedprobable.com
@@ -40206,12 +40213,16 @@
 0.0.0.0 ||yimkju.com
 0.0.0.0 ||zhu-ni-hao-yun.sh
 0.0.0.0 ||zxcbaby.ru
+0.0.0.0 ||5wzgtq8dpk.com
+0.0.0.0 ||65spy7rgcu.com
 0.0.0.0 ||asqualmag.com
 0.0.0.0 ||bestunfollow.com
 0.0.0.0 ||chattedhelio.top
 0.0.0.0 ||emperilchilies.top
+0.0.0.0 ||hfr67jhqrw8.com
 0.0.0.0 ||lookup-domain.com
 0.0.0.0 ||mgid.com
+0.0.0.0 ||tbao684tryo.com
 0.0.0.0 ||tracking.injoyalot.com
 0.0.0.0 ||vpn-offers.org
 0.0.0.0 ||vriddhipardee.top
@@ -41526,6 +41537,7 @@
 0.0.0.0 ||9814b49f.xyz
 0.0.0.0 ||a49ebd.xyz
 0.0.0.0 ||a67d12.xyz
+0.0.0.0 ||a8b68645.xyz
 0.0.0.0 ||b0eb63.xyz
 0.0.0.0 ||b211.xyz
 0.0.0.0 ||b2bf222e.xyz
@@ -41544,6 +41556,7 @@
 0.0.0.0 ||cd57296e.xyz
 0.0.0.0 ||ce357c.xyz
 0.0.0.0 ||cfb98a.xyz
+0.0.0.0 ||d477275c.xyz
 0.0.0.0 ||d84bc26d.site
 0.0.0.0 ||d8b0a5.xyz
 0.0.0.0 ||d980ed.xyz
@@ -43906,6 +43919,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||pixel.mintigo.com
 0.0.0.0 ||api.sardine.ai
 0.0.0.0 ||dmp.one
 0.0.0.0 ||dmp-ai.ru
@@ -47393,6 +47407,9 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||metrics.api.drift.com
+0.0.0.0 ||targeting.api.drift.com
+0.0.0.0 ||event.api.drift.com
 0.0.0.0 ||matomo.promobil.de
 0.0.0.0 ||api.ad-platform.jmty.jp
 0.0.0.0 ||events.tryamped.com
@@ -47610,7 +47627,6 @@
 0.0.0.0 ||gtm.vanmoof.com
 0.0.0.0 ||gtm.wonderbly.com
 0.0.0.0 ||gtm.docswell.com
-0.0.0.0 ||collector-pxfqtaw5et.px-client.net
 0.0.0.0 ||statistik.changing-cities.org
 0.0.0.0 ||ping.paidy.com
 0.0.0.0 ||a.deadlinefunnel.com
@@ -50539,7 +50555,6 @@
 0.0.0.0 ||event-api.rdstation.com.br
 0.0.0.0 ||event-logger.tagboard.com
 0.0.0.0 ||event-service.letslinc.com
-0.0.0.0 ||event.api.drift.com
 0.0.0.0 ||eventgateway.soundcloud.com
 0.0.0.0 ||eventlog.chatlead.com
 0.0.0.0 ||events.api.secureserver.net
@@ -50664,7 +50679,6 @@
 0.0.0.0 ||measure.refinery89.com
 0.0.0.0 ||mediametrics.mpsa.com
 0.0.0.0 ||metering.pagesuite.com
-0.0.0.0 ||metrics.api.drift.com
 0.0.0.0 ||metrics.ctvdigital.net
 0.0.0.0 ||metrics.doppiocdn.com
 0.0.0.0 ||metrics.doppiocdn.org
@@ -50721,7 +50735,6 @@
 0.0.0.0 ||pixel.ampry.com
 0.0.0.0 ||pixel.archipro.co.nz
 0.0.0.0 ||pixel.blivenyc.com
-0.0.0.0 ||pixel.mintigo.com
 0.0.0.0 ||pixel.mtrcs.samba.tv
 0.0.0.0 ||pixel.newscred.com
 0.0.0.0 ||pixel.redgifs.com
@@ -51047,7 +51060,6 @@
 0.0.0.0 ||d1733r3id7jrw5.cloudfront.net
 0.0.0.0 ||d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 ||d196fri2z18sm.cloudfront.net
-0.0.0.0 ||d1af033869koo7.cloudfront.net
 0.0.0.0 ||d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 ||d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 ||d1hyarjnwqrenh.cloudfront.net
@@ -61471,6 +61483,11 @@
 0.0.0.0 ||fvyqblc.icu
 0.0.0.0 ||tdoshbi.top
 0.0.0.0 ||lxryhx.xyz
+0.0.0.0 ||ioaiqp.top
+0.0.0.0 ||qyisloy.top
+0.0.0.0 ||dxfidr.xyz
+0.0.0.0 ||na06.cn
+0.0.0.0 ||thruudrad.com
 0.0.0.0 ||afopr.cn
 0.0.0.0 ||qdoshby.top
 0.0.0.0 ||eyislow.top
@@ -67929,6 +67946,7 @@
 0.0.0.0 ||adv.imadrep.co.kr
 0.0.0.0 ||safeframe.googlesyndication.com
 0.0.0.0 ||adservice.google.com
+0.0.0.0 ||ttse.b-cdn.net
 0.0.0.0 ||i.keezip.com
 0.0.0.0 ||awd.spochak.com
 0.0.0.0 ||abcounter.de
