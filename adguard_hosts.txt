@@ -1260,6 +1260,7 @@
 0.0.0.0 ||revrtb.com
 0.0.0.0 ||newbluetrue.xyz
 0.0.0.0 ||onemediawork.com
+0.0.0.0 ||ad.twinrdengine.com
 0.0.0.0 ||d2lg0swrp15nsj.cloudfront.net
 0.0.0.0 ||dpeqm8xv96fuc.cloudfront.net
 0.0.0.0 ||d127s3e8wcl3q6.cloudfront.net
@@ -2356,6 +2357,7 @@
 0.0.0.0 ||8d68be1445.com
 0.0.0.0 ||8d8e6d1087.com
 0.0.0.0 ||8d96fe2f01.com
+0.0.0.0 ||8db4fde90b.com
 0.0.0.0 ||8de2448875.com
 0.0.0.0 ||8dfc9560e0.com
 0.0.0.0 ||8e6d77310c.com
@@ -5096,6 +5098,7 @@
 0.0.0.0 ||aupteens.com
 0.0.0.0 ||aurdoagnoak.net
 0.0.0.0 ||aurgoast.com
+0.0.0.0 ||auroraveil.bid
 0.0.0.0 ||aurousroseola.com
 0.0.0.0 ||aursaign.net
 0.0.0.0 ||ausoafab.net
@@ -9997,6 +10000,7 @@
 0.0.0.0 ||dateszone.net
 0.0.0.0 ||datetrackservice.com
 0.0.0.0 ||datewhisper.life
+0.0.0.0 ||datexurlove.com
 0.0.0.0 ||datherap.xyz
 0.0.0.0 ||dating-banners.com
 0.0.0.0 ||dating-roo3.site
@@ -12431,6 +12435,7 @@
 0.0.0.0 ||enviousforegroundboldly.com
 0.0.0.0 ||enviousinevitable.com
 0.0.0.0 ||enviouspipe.com
+0.0.0.0 ||environmental3x.fun
 0.0.0.0 ||environmentalanalogous.com
 0.0.0.0 ||environmentalchangingnative.com
 0.0.0.0 ||environmentaltallrender.com
@@ -13578,6 +13583,7 @@
 0.0.0.0 ||fihsgqbif.com
 0.0.0.0 ||fiinann.com
 0.0.0.0 ||fiinnancesur.com
+0.0.0.0 ||fiiqmjyrznkhbv.com
 0.0.0.0 ||fiisscqwokt.com
 0.0.0.0 ||fijekone.com
 0.0.0.0 ||fikedaquabib.com
@@ -18226,6 +18232,7 @@
 0.0.0.0 ||iornsfyhueev.com
 0.0.0.0 ||iorwe-qmf.com
 0.0.0.0 ||iosqmookf.com
+0.0.0.0 ||iovia-pmj.com
 0.0.0.0 ||iovxhfavijyu.com
 0.0.0.0 ||ioxffew.com
 0.0.0.0 ||ipales.com
@@ -27165,6 +27172,7 @@
 0.0.0.0 ||pretextunfinished.com
 0.0.0.0 ||pretrackings.com
 0.0.0.0 ||pretty-size.pro
+0.0.0.0 ||pretty-sluts-nearby.com
 0.0.0.0 ||prettypasttime.com
 0.0.0.0 ||prettypermission.pro
 0.0.0.0 ||prettytypicalimpatience.com
@@ -29156,6 +29164,7 @@
 0.0.0.0 ||reryn3ce.com
 0.0.0.0 ||rerynjia.com
 0.0.0.0 ||rerynjie.com
+0.0.0.0 ||rerynjua.com
 0.0.0.0 ||resailsgyse.com
 0.0.0.0 ||resalag.com
 0.0.0.0 ||resaypyche.top
@@ -29362,6 +29371,7 @@
 0.0.0.0 ||rftodidsrel.com
 0.0.0.0 ||rftslb.com
 0.0.0.0 ||rfxxjpuh.com
+0.0.0.0 ||rfzlfsedzesgp.com
 0.0.0.0 ||rgauwvaznptsx.com
 0.0.0.0 ||rgbnqmz.com
 0.0.0.0 ||rgbvgxfcp.xyz
@@ -32221,6 +32231,7 @@
 0.0.0.0 ||startperfectsolutions.com
 0.0.0.0 ||startservicefounds.com
 0.0.0.0 ||startsprepenseprepensevessel.com
+0.0.0.0 ||starvalue-4.online
 0.0.0.0 ||starvardsee.xyz
 0.0.0.0 ||starvationdefence.com
 0.0.0.0 ||starvegingerwaist.com
@@ -34490,6 +34501,7 @@
 0.0.0.0 ||trigscocos.com
 0.0.0.0 ||trikerboughs.com
 0.0.0.0 ||trim-goal.com
+0.0.0.0 ||trimpagkygg.com
 0.0.0.0 ||trimpur.com
 0.0.0.0 ||trimregular.com
 0.0.0.0 ||trinitydiverge.com
@@ -34575,6 +34587,7 @@
 0.0.0.0 ||truanet.com
 0.0.0.0 ||truantslaughterbrew.com
 0.0.0.0 ||truantsnarestrand.com
+0.0.0.0 ||truazka.xyz
 0.0.0.0 ||truceforensicswaterfall.com
 0.0.0.0 ||trucemallow.website
 0.0.0.0 ||trulydevotionceramic.com
@@ -38931,6 +38944,7 @@
 0.0.0.0 ||zshyudl.com
 0.0.0.0 ||zskuvehuihkusp.com
 0.0.0.0 ||zsrqmgvb.com
+0.0.0.0 ||zsxeymv.com
 0.0.0.0 ||ztbtbbizb.com
 0.0.0.0 ||ztcbmnkqxqx.com
 0.0.0.0 ||zteollhhyaqez.com
@@ -40414,6 +40428,7 @@
 0.0.0.0 ||05751c.site
 0.0.0.0 ||072551.xyz
 0.0.0.0 ||07e197.site
+0.0.0.0 ||09bd5a69.xyz
 0.0.0.0 ||0ae00c7c.xyz
 0.0.0.0 ||0c0b6e3f.xyz
 0.0.0.0 ||0d785fd7.xyz
@@ -40484,12 +40499,14 @@
 0.0.0.0 ||bc98ad.xyz
 0.0.0.0 ||bcbe.site
 0.0.0.0 ||bd5a57.xyz
+0.0.0.0 ||c31133f7.xyz
 0.0.0.0 ||ca3d.site
 0.0.0.0 ||ca9246.xyz
 0.0.0.0 ||caa2c4.xyz
 0.0.0.0 ||cd57296e.xyz
 0.0.0.0 ||ce357c.xyz
 0.0.0.0 ||cfb98a.xyz
+0.0.0.0 ||d23d450d.xyz
 0.0.0.0 ||d477275c.xyz
 0.0.0.0 ||d84bc26d.site
 0.0.0.0 ||d8b0a5.xyz
@@ -42279,7 +42296,6 @@
 0.0.0.0 ||tx-ad.a.yximgs.com
 0.0.0.0 ||tx-kmpaudio.pull.yximgs.com
 0.0.0.0 ||hw-ot-ad.a.yximgs.com
-0.0.0.0 ||kskwai.com
 0.0.0.0 ||adkwai.com
 0.0.0.0 ||marketing.mangacopy.com
 0.0.0.0 ||gdfp.gifshow.com
@@ -42852,6 +42868,7 @@
 0.0.0.0 ||ib.snssdk.com
 0.0.0.0 ||xlog.snssdk.com
 0.0.0.0 ||log.snssdk.com
+0.0.0.0 ||track.fluffyfalcon.com
 0.0.0.0 ||gojsmanager.com
 0.0.0.0 ||adtrack.adleadevent.com
 0.0.0.0 ||metrics-fe-na1.hubspot.com
@@ -46344,6 +46361,7 @@
 0.0.0.0 ||wizaly.com
 0.0.0.0 ||d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ||tagman.britishairways.com
+0.0.0.0 ||track.amebame.com
 0.0.0.0 ||pks-analytics.raenonx.cc
 0.0.0.0 ||pyxis.atp.fox
 0.0.0.0 ||r.sib2.gardrops.com
@@ -47954,7 +47972,6 @@
 0.0.0.0 ||prudsys-rde.de
 0.0.0.0 ||prx.wayfair.com
 0.0.0.0 ||pv.hd.sohu.com
-0.0.0.0 ||pv.sohu.com
 0.0.0.0 ||pw.gigazine.net
 0.0.0.0 ||px.dynamicyield.com
 0.0.0.0 ||px.gfycat.com
@@ -54571,6 +54588,7 @@
 0.0.0.0 ||gamblingsyndication.com
 0.0.0.0 ||gameanalytics.com
 0.0.0.0 ||girohjalm.com.se
+0.0.0.0 ||gtm.ekonomifakta.se
 0.0.0.0 ||gtm.findroommate.dk
 0.0.0.0 ||gtm.stampenmedia.se
 0.0.0.0 ||gwen.insertcoin.se
@@ -60438,6 +60456,17 @@
 0.0.0.0 ||ajoqu.cn
 0.0.0.0 ||hdtvnr.xyz
 0.0.0.0 ||cjgymo.xyz
+0.0.0.0 ||hzrnbl.xyz
+0.0.0.0 ||8208tp.com
+0.0.0.0 ||imgoss511.top
+0.0.0.0 ||ovejqw.xyz
+0.0.0.0 ||jiusudie.com
+0.0.0.0 ||cmqxy.cn
+0.0.0.0 ||pnvtlh.xyz
+0.0.0.0 ||idipsumo.top
+0.0.0.0 ||hyislou.top
+0.0.0.0 ||tlpyft.xyz
+0.0.0.0 ||jbkqemk.icu
 0.0.0.0 ||0322cfmtl.cc
 0.0.0.0 ||07dy.cc
 0.0.0.0 ||0940088.com
@@ -61031,7 +61060,6 @@
 0.0.0.0 ||jhnnnb.xyz
 0.0.0.0 ||jinzige.cn
 0.0.0.0 ||jioed.cyou
-0.0.0.0 ||jiusudie.com
 0.0.0.0 ||jivvjl.xyz
 0.0.0.0 ||jmesxbe.icu
 0.0.0.0 ||jnalzla.top
