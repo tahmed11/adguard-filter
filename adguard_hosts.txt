@@ -1265,6 +1265,7 @@
 0.0.0.0 revrtb.com
 0.0.0.0 newbluetrue.xyz
 0.0.0.0 onemediawork.com
+0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 d2lg0swrp15nsj.cloudfront.net
 0.0.0.0 dpeqm8xv96fuc.cloudfront.net
 0.0.0.0 d127s3e8wcl3q6.cloudfront.net
@@ -2077,6 +2078,7 @@
 0.0.0.0 44a9217f10.com
 0.0.0.0 44ffd27303.com
 0.0.0.0 452tapgn.de
+0.0.0.0 453130fa9e.com
 0.0.0.0 46186911.vtt
 0.0.0.0 46243b6252.com
 0.0.0.0 463fca0d34.com
@@ -7939,6 +7941,7 @@
 0.0.0.0 cesebtp.com
 0.0.0.0 cesiumsemboite.com
 0.0.0.0 cessationcorrectmist.com
+0.0.0.0 cessationhamster.com
 0.0.0.0 cessationrepulsivehumid.com
 0.0.0.0 cestibegster.com
 0.0.0.0 ceteembathe.com
@@ -13539,6 +13542,7 @@
 0.0.0.0 fgbthrsxnlo.xyz
 0.0.0.0 fgdxwpht.com
 0.0.0.0 fgfgnbmeieorr910.com
+0.0.0.0 fgigrmle.xyz
 0.0.0.0 fgijincfktbguv.xyz
 0.0.0.0 fgislklsqqytr.com
 0.0.0.0 fgisstdudch.com
@@ -14993,6 +14997,7 @@
 0.0.0.0 ggsbjzyo.com
 0.0.0.0 ggsfq.com
 0.0.0.0 ggvhbnkfc.com
+0.0.0.0 ggwifobvx.com
 0.0.0.0 ggxcoez.com
 0.0.0.0 ggxyyalrj.com
 0.0.0.0 ggzckmlts.com
@@ -24734,6 +24739,7 @@
 0.0.0.0 ongrpdwwnvliao.xyz
 0.0.0.0 onibyezctus.com
 0.0.0.0 oninewsful.life
+0.0.0.0 onkafxtiqcu.com
 0.0.0.0 onkavst.com
 0.0.0.0 onlinedeltazone.online
 0.0.0.0 onlinepromousa.com
@@ -32354,6 +32360,7 @@
 0.0.0.0 stealthlockers.com
 0.0.0.0 steamdespicable.com
 0.0.0.0 steamjaws.com
+0.0.0.0 stedrits.xyz
 0.0.0.0 stedsous.xyz
 0.0.0.0 steefaulrouy.xyz
 0.0.0.0 steegnow.com
@@ -40598,6 +40605,7 @@
 0.0.0.0 f8a070.xyz
 0.0.0.0 fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 0.0.0.0 fbfec2.xyz
+0.0.0.0 fe30a5b4.xyz
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.nettvservices.com
 0.0.0.0 ads.samsung.com
@@ -41931,7 +41939,6 @@
 0.0.0.0 masterwanker.com
 0.0.0.0 matrimoniale3x.ro
 0.0.0.0 matrix-cash.com
-0.0.0.0 maxcash.com
 0.0.0.0 maxiadv.com
 0.0.0.0 mc-nudes.com
 0.0.0.0 mcprofits.com
@@ -42940,6 +42947,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 qobuz.surveysparrow.com
+0.0.0.0 srvr.dmvs-apac.com
 0.0.0.0 dash.zintrack.com
 0.0.0.0 revotas.com
 0.0.0.0 track.fluffyfalcon.com
@@ -46434,6 +46443,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 peach-analytics.vercel.app
 0.0.0.0 lfmetrics.loyalfans.com
 0.0.0.0 track.amebame.com
 0.0.0.0 pks-analytics.raenonx.cc
@@ -49734,6 +49744,7 @@
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 msadsscale.azureedge.net
 0.0.0.0 myscoop-tracking.googlecode.com
+0.0.0.0 native-ads-events-api.c4s-rd.services
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 net-tracker.notolytix.com
 0.0.0.0 netlify-rum.netlify.app
@@ -50777,6 +50788,7 @@
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 bvr.snva.jp
 0.0.0.0 log.f-tra.com
+0.0.0.0 mail-count.matsui.co.jp
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 reproio.com
 0.0.0.0 sync.shinobi.jp
@@ -50821,6 +50833,7 @@
 0.0.0.0 statistic.audima.co
 0.0.0.0 stats.gridmidia.com.br
 0.0.0.0 tags.cmp.tail.digital
+0.0.0.0 track.zapimoveis.com.br
 0.0.0.0 tracker.tolvnow.com
 0.0.0.0 visit-prod-us.occa.ocs.oraclecloud.com
 0.0.0.0 webstats.sapo.pt
@@ -60547,6 +60560,22 @@
 0.0.0.0 zwlxnj.xyz
 0.0.0.0 jyisloa.top
 0.0.0.0 xuzsdn.xyz
+0.0.0.0 baijs05.xyz
+0.0.0.0 doujs05.xyz
+0.0.0.0 baijs06.xyz
+0.0.0.0 doujs06.xyz
+0.0.0.0 urtlist.top
+0.0.0.0 ortlisk.top
+0.0.0.0 dmnxkj.cn
+0.0.0.0 gw2cddpt2hao.cloud
+0.0.0.0 gw2cddpt2hao.site
+0.0.0.0 fgwuw.com
+0.0.0.0 febtzd.xyz
+0.0.0.0 olgcpwc.icu
+0.0.0.0 gsywcc.xyz
+0.0.0.0 iptuy.cn
+0.0.0.0 kyislod.top
+0.0.0.0 lijlrz.xyz
 0.0.0.0 0uyt5b.cn
 0.0.0.0 0v1syj.cn
 0.0.0.0 1028images.com
