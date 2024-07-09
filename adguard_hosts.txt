@@ -1,3 +1,5 @@
+0.0.0.0 femqrjwnk.xyz
+0.0.0.0 routowoashie.xyz
 0.0.0.0 xlvul.ajscdn.com
 0.0.0.0 ahmar2four.xyz
 0.0.0.0 ser678uikl.xyz
@@ -1265,6 +1267,7 @@
 0.0.0.0 revrtb.com
 0.0.0.0 newbluetrue.xyz
 0.0.0.0 onemediawork.com
+0.0.0.0 srtb.msn.cn
 0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 d2lg0swrp15nsj.cloudfront.net
 0.0.0.0 dpeqm8xv96fuc.cloudfront.net
@@ -40613,6 +40616,7 @@
 0.0.0.0 ec44.site
 0.0.0.0 f090.site
 0.0.0.0 f2f8.xyz
+0.0.0.0 f33d11b5.xyz
 0.0.0.0 f417a726.xyz
 0.0.0.0 f4c9a0fb.xyz
 0.0.0.0 f6176563.site
@@ -42962,6 +42966,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 exacttarget.com
+0.0.0.0 analytics.launch.bz
 0.0.0.0 qobuz.surveysparrow.com
 0.0.0.0 srvr.dmvs-apac.com
 0.0.0.0 dash.zintrack.com
@@ -46458,6 +46464,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 trc.r25.jp
 0.0.0.0 anal.doubledouble.top
 0.0.0.0 peach-analytics.vercel.app
 0.0.0.0 lfmetrics.loyalfans.com
@@ -60603,6 +60610,16 @@
 0.0.0.0 lgpjw.cn
 0.0.0.0 eqkvks.xyz
 0.0.0.0 sdipsumb.top
+0.0.0.0 wuisaq.top
+0.0.0.0 jgvkxp.xyz
+0.0.0.0 mrtlisx.top
+0.0.0.0 fbqrt.cn
+0.0.0.0 edipsumw.top
+0.0.0.0 tvgkatu.icu
+0.0.0.0 snux.cn
+0.0.0.0 qpigoa.xyz
+0.0.0.0 vihqpr.xyz
+0.0.0.0 goodvibe1.com
 0.0.0.0 0322cfmtl.cc
 0.0.0.0 07dy.cc
 0.0.0.0 0940088.com
