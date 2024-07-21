@@ -1,3 +1,6 @@
+0.0.0.0 ljr3.site
+0.0.0.0 lcarlbvwr.com
+0.0.0.0 thuckautiru.com
 0.0.0.0 metogthr.com
 0.0.0.0 rdtracer.com
 0.0.0.0 blogostock.com
@@ -2457,6 +2460,7 @@
 0.0.0.0 9content.com
 0.0.0.0 9d2cca15e4.com
 0.0.0.0 9d407e803d.com
+0.0.0.0 9d603009eb.com
 0.0.0.0 9dccbda825.com
 0.0.0.0 9dmnv9z0gtoh.com
 0.0.0.0 9e1852531b.com
@@ -4860,6 +4864,7 @@
 0.0.0.0 asnoibator.com
 0.0.0.0 asnortsalol.website
 0.0.0.0 asnothycan.info
+0.0.0.0 asnothycantyou.info
 0.0.0.0 aso1.net
 0.0.0.0 asoawhum.com
 0.0.0.0 asopn.com
@@ -11710,6 +11715,7 @@
 0.0.0.0 dwithmefeyauknal.info
 0.0.0.0 dwlgdzzltdekr.com
 0.0.0.0 dwlmjxf.com
+0.0.0.0 dwuxbazvi.com
 0.0.0.0 dwvbfnqrbif.com
 0.0.0.0 dwwpofwebdwm.com
 0.0.0.0 dxajhcdz.com
@@ -28303,6 +28309,7 @@
 0.0.0.0 qdprapwflpvxpyl.com
 0.0.0.0 qdvducltjswp.com
 0.0.0.0 qe0ckm024b.com
+0.0.0.0 qebpwkxjz.com
 0.0.0.0 qebuoxn.com
 0.0.0.0 qedeczzdt.com
 0.0.0.0 qehjsjdubamsrt.com
@@ -30499,6 +30506,7 @@
 0.0.0.0 sandtheircle.com
 0.0.0.0 sandwich3452.fun
 0.0.0.0 sandwichdeliveringswine.com
+0.0.0.0 sandyrecordingmeet.com
 0.0.0.0 sandysuspicions.com
 0.0.0.0 sanedfalsely.com
 0.0.0.0 sanfordcessor.space
@@ -33123,6 +33131,7 @@
 0.0.0.0 surfeitdrabble.com
 0.0.0.0 surfingmister.com
 0.0.0.0 surfmdia.com
+0.0.0.0 surfwestlaw.com
 0.0.0.0 surge.systems
 0.0.0.0 surgicalhanging.com
 0.0.0.0 surgicaljunctiontriumph.com
@@ -37267,6 +37276,7 @@
 0.0.0.0 wepainsoaken.com
 0.0.0.0 weredthechild.info
 0.0.0.0 wereksbeforebut.info
+0.0.0.0 weremoiety.com
 0.0.0.0 wererxrzmp.com
 0.0.0.0 werped.com
 0.0.0.0 werxebpnl.com
@@ -39057,6 +39067,7 @@
 0.0.0.0 zemstvahorn.top
 0.0.0.0 zemteksu.xyz
 0.0.0.0 zemydreamsa.info
+0.0.0.0 zemydreamsauk.com
 0.0.0.0 zemywwm.com
 0.0.0.0 zenam.xyz
 0.0.0.0 zenaot.xyz
@@ -39082,6 +39093,7 @@
 0.0.0.0 zetadeo.com
 0.0.0.0 zetamm.com
 0.0.0.0 zetchopa.xyz
+0.0.0.0 zetutsooz.net
 0.0.0.0 zevwkbzwkbawz.top
 0.0.0.0 zevwkbzwkbqzw.top
 0.0.0.0 zewkj.com
@@ -40833,6 +40845,7 @@
 0.0.0.0 8acc5c.site
 0.0.0.0 8b71e197.xyz
 0.0.0.0 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
+0.0.0.0 8eef59a5.live
 0.0.0.0 977878.xyz
 0.0.0.0 97b448.xyz
 0.0.0.0 9814b49f.xyz
@@ -40851,6 +40864,7 @@
 0.0.0.0 b82978.xyz
 0.0.0.0 b903c2.xyz
 0.0.0.0 b9f25b.site
+0.0.0.0 bc0ca74b.live
 0.0.0.0 bc98ad.xyz
 0.0.0.0 bcbe.site
 0.0.0.0 bd5a57.xyz
@@ -46744,6 +46758,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 datum.jsdelivr.com
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 stats.habr.com
 0.0.0.0 analytics.qs-apps.com
@@ -56768,6 +56783,7 @@
 0.0.0.0 auth.bitdefenderupdate.com
 0.0.0.0 avietcombank.com
 0.0.0.0 awae-shop.com
+0.0.0.0 bachhoaxanhh.com
 0.0.0.0 bachoaxanhh.com
 0.0.0.0 backuprabbit.com
 0.0.0.0 bagas3-1.com
@@ -56886,8 +56902,11 @@
 0.0.0.0 cf222.art
 0.0.0.0 cgovn.cc
 0.0.0.0 chamsockhachang.com
+0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
+0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
+0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
@@ -57075,10 +57094,14 @@
 0.0.0.0 dich-vu-online-vpbank.com
 0.0.0.0 dich-vu-the-ai-vpbank.com
 0.0.0.0 dich-vu-the-cashback-vib.com
+0.0.0.0 dich-vu-the-elite-vib.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-kt3-vib.com
+0.0.0.0 dich-vu-the-sat-vib.com
+0.0.0.0 dich-vu-the-svip-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
+0.0.0.0 dich-vu-the-vvip-vib.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
 0.0.0.0 dich-vu-vip3-vib.com
@@ -57132,6 +57155,7 @@
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
+0.0.0.0 dienmayxanhctv24.com
 0.0.0.0 dienmayxanhh.com
 0.0.0.0 dienmayxanhhcm.com
 0.0.0.0 dienmayxanhhcm24h.com
@@ -57237,6 +57261,7 @@
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook4288062.blogspot.com
+0.0.0.0 facebook60118.blogspot.com
 0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
@@ -57254,6 +57279,7 @@
 0.0.0.0 fairu-schnellvpn.com
 0.0.0.0 fairu-schnellvpn.xyz
 0.0.0.0 fajiafu30.com
+0.0.0.0 fajiafu50.com
 0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fc.adswt.com
@@ -59416,6 +59442,7 @@
 0.0.0.0 sp56788.com
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
+0.0.0.0 sp75193p.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spark123.shop
@@ -59604,6 +59631,7 @@
 0.0.0.0 tdkd08.com
 0.0.0.0 tdkt00.com
 0.0.0.0 tdkt01.com
+0.0.0.0 tdkt04.com
 0.0.0.0 tdkt06.com
 0.0.0.0 tdkt07.com
 0.0.0.0 tdtc.shop
@@ -60246,6 +60274,7 @@
 0.0.0.0 viaviet03.mobie.in
 0.0.0.0 vib-bank.com
 0.0.0.0 vib-cardnew.shop
+0.0.0.0 vib-care.com
 0.0.0.0 vib-gold-card.shop
 0.0.0.0 vib-mydiamon-khcn-uutien-vnc1.com
 0.0.0.0 vib-nang-the.com
@@ -60492,6 +60521,7 @@
 0.0.0.0 viptikivn.club
 0.0.0.0 virtuallaughing.com
 0.0.0.0 visa-mb.com
+0.0.0.0 visa-vibbank.com
 0.0.0.0 visa-vpbank-uu-tien.com
 0.0.0.0 vitienonline88.com
 0.0.0.0 vitindungpgbank.com
@@ -60618,6 +60648,7 @@
 0.0.0.0 vnfiba.com
 0.0.0.0 vnhopqua.com
 0.0.0.0 vnietinbank.com
+0.0.0.0 vnmcrd2s.online
 0.0.0.0 vnpanda.shop
 0.0.0.0 vnpay-quetthetindung.com
 0.0.0.0 vnpay-ruttientindung.com
@@ -60656,6 +60687,7 @@
 0.0.0.0 vnsshoppe.com
 0.0.0.0 vntanghanmucvisadebit.com
 0.0.0.0 vntiki.shop
+0.0.0.0 vntiki1.com
 0.0.0.0 vntiki11.com
 0.0.0.0 vntikiship.com
 0.0.0.0 vntkm.com
@@ -60746,7 +60778,6 @@
 0.0.0.0 vpb-nanghanmuc.online
 0.0.0.0 vpbank-vaytien.com
 0.0.0.0 vpbank.appvest.vn
-0.0.0.0 vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 0.0.0.0 vpbankvn.com
 0.0.0.0 vpbban.com
 0.0.0.0 vpbbank.com
@@ -60943,6 +60974,13 @@
 0.0.0.0 chaoyumiao.com
 0.0.0.0 rodmfv.xyz
 0.0.0.0 fhnbrx.xyz
+0.0.0.0 doujs010.xyz
+0.0.0.0 hrtlisu.top
+0.0.0.0 uqaagi.xyz
+0.0.0.0 5brxi.icu
+0.0.0.0 nouusup.icu
+0.0.0.0 tyretui.top
+0.0.0.0 zyfnbl.xyz
 0.0.0.0 wnootzc.icu
 0.0.0.0 eiuoom.xyz
 0.0.0.0 bavotr.xyz
