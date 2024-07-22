@@ -8448,6 +8448,7 @@
 0.0.0.0 ciwedsem.xyz
 0.0.0.0 ciwhacheho.pro
 0.0.0.0 cizzwykcug.com
+0.0.0.0 cj2550.com
 0.0.0.0 cjcbzqrwwi.com
 0.0.0.0 cjewz.com
 0.0.0.0 cjhkmsguxlxgy.com
@@ -32829,6 +32830,7 @@
 0.0.0.0 strikinghystericalglove.com
 0.0.0.0 stringssymptomfishing.com
 0.0.0.0 stringthumbprowl.com
+0.0.0.0 stripedcover.pro
 0.0.0.0 stripedonerous.com
 0.0.0.0 striperaised.com
 0.0.0.0 striperewind.com
@@ -33667,6 +33669,7 @@
 0.0.0.0 teeglimu.com
 0.0.0.0 teelconch.com
 0.0.0.0 teemcapablespinal.com
+0.0.0.0 teemingweekend.com
 0.0.0.0 teemooge.net
 0.0.0.0 teenagerapostrophe.com
 0.0.0.0 teensexgfs.com
@@ -40888,6 +40891,7 @@
 0.0.0.0 e076.xyz
 0.0.0.0 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 0.0.0.0 e1ce13d5.xyz
+0.0.0.0 e75d10b9.live
 0.0.0.0 ec44.site
 0.0.0.0 f090.site
 0.0.0.0 f2f8.xyz
@@ -41758,7 +41762,6 @@
 0.0.0.0 d3frqqoat98cng.cloudfront.net
 0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
-0.0.0.0 d3hb14vkzrxvla.cloudfront.net
 0.0.0.0 d3hfiiy55cbi5t.cloudfront.net
 0.0.0.0 d3hib26r77jdus.cloudfront.net
 0.0.0.0 d3hitamb7drqut.cloudfront.net
@@ -46758,6 +46761,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 test.torrentfreak.com
 0.0.0.0 datum.jsdelivr.com
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 stats.habr.com
@@ -51077,6 +51081,7 @@
 0.0.0.0 rum.marquardmedia.hu
 0.0.0.0 videostat-new.index.hu
 0.0.0.0 videostat.index.hu
+0.0.0.0 parsley.detik.com
 0.0.0.0 analytics.competitoor.com
 0.0.0.0 analytics.eikondigital.it
 0.0.0.0 analytics.gtechgroup.it
@@ -60958,6 +60963,19 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 zqkxlf.com
+0.0.0.0 baijs011.xyz
+0.0.0.0 google-js-09.xyz
+0.0.0.0 zvhlzb.xyz
+0.0.0.0 fmkipgm.icu
+0.0.0.0 gcylkq.xyz
+0.0.0.0 cetlwsf.top
+0.0.0.0 dfan4.icu
+0.0.0.0 lsjazn.xyz
+0.0.0.0 dokfrl.xyz
+0.0.0.0 25662zubo23739.com
+0.0.0.0 88362zubo95838.com
+0.0.0.0 cosmo001.top
 0.0.0.0 ofebyk.xyz
 0.0.0.0 mdipsumx.top
 0.0.0.0 jsdelivr.vip
@@ -60981,6 +60999,8 @@
 0.0.0.0 nouusup.icu
 0.0.0.0 tyretui.top
 0.0.0.0 zyfnbl.xyz
+0.0.0.0 uyretut.top
+0.0.0.0 ppxscy1.cn
 0.0.0.0 wnootzc.icu
 0.0.0.0 eiuoom.xyz
 0.0.0.0 bavotr.xyz
@@ -67413,6 +67433,7 @@
 0.0.0.0 analytics.fam.ir
 0.0.0.0 sentry.fidibo.net
 0.0.0.0 vast.filmnet.ir
+0.0.0.0 sentry.filmnet.ir
 0.0.0.0 analytics.football360.ir
 0.0.0.0 sentry.footballiapp.com
 0.0.0.0 analysis.faradars.org
