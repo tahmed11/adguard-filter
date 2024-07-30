@@ -1,3 +1,4 @@
+0.0.0.0 kurjutodbxca.com
 0.0.0.0 ywmvppnlwwxkgt.com
 0.0.0.0 chouchicky.com
 0.0.0.0 crewedbangup.com
@@ -1551,6 +1552,7 @@
 0.0.0.0 ado.delfi.ee
 0.0.0.0 es.ylilauta.org
 0.0.0.0 sab.fast.ge
+0.0.0.0 target.hidabroot.org
 0.0.0.0 ban.bhol.co.il
 0.0.0.0 ext.bhol.co.il
 0.0.0.0 st1.bhol.co.il
@@ -2520,6 +2522,7 @@
 0.0.0.0 a32fc87d2f.com
 0.0.0.0 a356ff8a25.com
 0.0.0.0 a3595ccd38.com
+0.0.0.0 a35e803f21.com
 0.0.0.0 a3ion.com
 0.0.0.0 a3yqjsrczwwp.com
 0.0.0.0 a41bd55af8.com
@@ -2878,6 +2881,7 @@
 0.0.0.0 acrevenene.com
 0.0.0.0 acridtaxiworking.com
 0.0.0.0 acridtubsource.com
+0.0.0.0 acrobaticdesire.com
 0.0.0.0 acronkkky.com
 0.0.0.0 acrossbrittle.com
 0.0.0.0 acrossgigantic.com
@@ -8607,6 +8611,7 @@
 0.0.0.0 cleaningmaturegallop.com
 0.0.0.0 cleanmediaads.com
 0.0.0.0 cleanmypc.click
+0.0.0.0 cleannow.click
 0.0.0.0 cleanplentifulnomad.com
 0.0.0.0 cleantrafficrotate.com
 0.0.0.0 clear-request.com
@@ -10609,6 +10614,7 @@
 0.0.0.0 deshourty.com
 0.0.0.0 designatejay.com
 0.0.0.0 designerdeclinedfrail.com
+0.0.0.0 designernoise.com
 0.0.0.0 designeropened.com
 0.0.0.0 designingbadlyhinder.com
 0.0.0.0 designingpupilintermediary.com
@@ -12014,6 +12020,7 @@
 0.0.0.0 echoachy.xyz
 0.0.0.0 echocultdanger.com
 0.0.0.0 echoeshamauls.com
+0.0.0.0 echopixelwave.net
 0.0.0.0 echskbpghlc.com
 0.0.0.0 eciivxqtur.com
 0.0.0.0 ecipientconcertain.info
@@ -15775,6 +15782,7 @@
 0.0.0.0 gospelsaneared.top
 0.0.0.0 gossipcase.com
 0.0.0.0 gossipfinestanalogy.com
+0.0.0.0 gossipinvest.com
 0.0.0.0 gossipprotectioncredentials.com
 0.0.0.0 gossipsize.com
 0.0.0.0 gossipylard.com
@@ -17845,6 +17853,7 @@
 0.0.0.0 illusiveremarkstreat.com
 0.0.0.0 illustcutesy.com
 0.0.0.0 illustrateartery.com
+0.0.0.0 illustrious-challenge.pro
 0.0.0.0 illustriousmind.pro
 0.0.0.0 ilmtudcgmqxa.com
 0.0.0.0 ilo134ulih.com
@@ -18882,6 +18891,7 @@
 0.0.0.0 japw.cloud
 0.0.0.0 jaqgkyfupna.com
 0.0.0.0 jaqwtyajwp.com
+0.0.0.0 jaqxaqoxwhce.com
 0.0.0.0 jargonwillinglybetrayal.com
 0.0.0.0 jarguvie.xyz
 0.0.0.0 jarldomtemplar.top
@@ -30811,6 +30821,7 @@
 0.0.0.0 sb4you1.com
 0.0.0.0 sb89347.com
 0.0.0.0 sbfsdvc.com
+0.0.0.0 sbhight.com
 0.0.0.0 sbonjqsxicqfo.xyz
 0.0.0.0 sbqptosht.com
 0.0.0.0 sbrakepads.com
@@ -37151,6 +37162,7 @@
 0.0.0.0 wafflesquaking.com
 0.0.0.0 wafmedia6.com
 0.0.0.0 waframedia5.com
+0.0.0.0 wagaloo.co.in
 0.0.0.0 wagecolorful.com
 0.0.0.0 wagepulsate.com
 0.0.0.0 wagerjoint.com
@@ -41113,6 +41125,7 @@
 0.0.0.0 acf705ad.xyz
 0.0.0.0 af6937a2.live
 0.0.0.0 b0eb63.xyz
+0.0.0.0 b0f2f18e.xyz
 0.0.0.0 b211.xyz
 0.0.0.0 b2bf222e.xyz
 0.0.0.0 b51475b8.xyz
@@ -41206,6 +41219,7 @@
 0.0.0.0 1200932035.rsc.cdn77.org
 0.0.0.0 1201741305.rsc.cdn77.org
 0.0.0.0 1204491360.rsc.cdn77.org
+0.0.0.0 123-stream.org
 0.0.0.0 1273167513.rsc.cdn77.org
 0.0.0.0 1278977604.rsc.cdn77.org
 0.0.0.0 1288151678.rsc.cdn77.org
@@ -41370,6 +41384,7 @@
 0.0.0.0 marketing.888.com
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 media.netrefer.com
+0.0.0.0 mktg.evvnt.com
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 monetize-static.viralize.tv
 0.0.0.0 neural.myth.dev
@@ -43525,6 +43540,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 static.target2sell.com
 0.0.0.0 sumatra.ai
 0.0.0.0 nkdyzf.com
 0.0.0.0 b3mxnuvcer.com
@@ -47028,6 +47044,12 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analytics.mailmunch.co
+0.0.0.0 tracker.adsales.rakuten.co.jp
+0.0.0.0 revengine-tracker.remp.dailymaverick.co.za
+0.0.0.0 analytics-logger.service.junctiontv.net
+0.0.0.0 analytics.saikosoft.jp
+0.0.0.0 analytics-v2.wetransfer.com
 0.0.0.0 collector.plarium.com
 0.0.0.0 g.ign.com
 0.0.0.0 beacon.radiko.jp
@@ -49970,7 +49992,6 @@
 0.0.0.0 analytics.lemoolah.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.maikel.pro
-0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.midwesternmac.com
 0.0.0.0 analytics.myfidevs.io
@@ -61246,12 +61267,21 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 shbzpgs.cn
+0.0.0.0 bxmazls.icu
+0.0.0.0 guyhok.xyz
+0.0.0.0 jwerilxa.top
+0.0.0.0 hov15.icu
+0.0.0.0 qvxtzi.xyz
+0.0.0.0 nxxkxr.xyz
 0.0.0.0 aiqks.top
 0.0.0.0 sikapo.top
 0.0.0.0 sikaq.top
 0.0.0.0 uiatkc.xyz
 0.0.0.0 izwmfmu.icu
 0.0.0.0 wetlwse.top
+0.0.0.0 zylizz.xyz
+0.0.0.0 nnvjbb.xyz
 0.0.0.0 eetlwsw.top
 0.0.0.0 5mltq.icu
 0.0.0.0 shbzdkj.cn
