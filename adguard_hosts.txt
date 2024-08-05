@@ -41237,6 +41237,7 @@
 0.0.0.0 8b71e197.xyz
 0.0.0.0 8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 0.0.0.0 8eef59a5.live
+0.0.0.0 9354ee72.xyz
 0.0.0.0 97496b9d.xyz
 0.0.0.0 977878.xyz
 0.0.0.0 97b448.xyz
@@ -41259,6 +41260,7 @@
 0.0.0.0 b82978.xyz
 0.0.0.0 b903c2.xyz
 0.0.0.0 b9f25b.site
+0.0.0.0 ba0bf98c.xyz
 0.0.0.0 bc0ca74b.live
 0.0.0.0 bc98ad.xyz
 0.0.0.0 bcbe.site
@@ -43675,6 +43677,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tr.dec-connect.decsuite.com
 0.0.0.0 yatr.ru
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
 0.0.0.0 umami.aigenerations.net
@@ -56546,6 +56549,7 @@
 0.0.0.0 adjusts.info
 0.0.0.0 adm.phunusuckhoe.vn
 0.0.0.0 adm.phunuvagiadinh.vn
+0.0.0.0 admin.giaminhmedia.vn
 0.0.0.0 admin.phunusuckhoe.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 admin.voh.com.vn
@@ -56557,6 +56561,7 @@
 0.0.0.0 ads.568play.vn
 0.0.0.0 ads.6svn.com
 0.0.0.0 ads.admatrix.vn
+0.0.0.0 ads.alobacsi.vn
 0.0.0.0 ads.autonet.com.vn
 0.0.0.0 ads.baoangiang.com.vn
 0.0.0.0 ads.baobinhduong.vn
@@ -56577,11 +56582,13 @@
 0.0.0.0 ads.cungcau.vn
 0.0.0.0 ads.fpt.vn
 0.0.0.0 ads.fptplay.net.vn
+0.0.0.0 ads.giaminhmedia.vn
 0.0.0.0 ads.gosu.vn
 0.0.0.0 ads.home.vn
 0.0.0.0 ads.homedy.net
 0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.inetgroup.vn
+0.0.0.0 ads.ketnoitatca.net
 0.0.0.0 ads.kiemsat.vn
 0.0.0.0 ads.lamchame.vn
 0.0.0.0 ads.laodongbinhduong.org.vn
@@ -56628,6 +56635,7 @@
 0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.autosurf.vn
 0.0.0.0 adv.baoangiang.com.vn
+0.0.0.0 adv.baotayninh.vn
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adv.baovemoitruong.org.vn
 0.0.0.0 adv.thuvienphapluat.vn
@@ -56987,6 +56995,7 @@
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.thichxemphim.net
 0.0.0.0 tracking-web.smobgame.com
+0.0.0.0 tracking.10gb.vn
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.cystack.net
 0.0.0.0 tracking.dantri.com.vn
@@ -56997,6 +57006,7 @@
 0.0.0.0 tracking.hongtinnhanh.com
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
+0.0.0.0 tracking.saostar.vn
 0.0.0.0 tracking.tekoapis.com
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.tuyenquang.gov.vn
@@ -59309,6 +59319,7 @@
 0.0.0.0 quydoichuyenkhoanquocte.weebly.com
 0.0.0.0 quydoitienquocte24h7azx.weebly.com
 0.0.0.0 quytiente.com
+0.0.0.0 r01lacou.azidp.tech
 0.0.0.0 rategicstrai.cfd
 0.0.0.0 re0y7d.cyou
 0.0.0.0 reallkeys.com
@@ -61418,6 +61429,7 @@
 0.0.0.0 ynefefyopqvu.com
 0.0.0.0 youtuber-cash.buzz
 0.0.0.0 yunduofei.xyz
+0.0.0.0 zSmhlV.zgbv.tech
 0.0.0.0 zalorashop.com
 0.0.0.0 zeroshop.cc
 0.0.0.0 zingmp3.pro
