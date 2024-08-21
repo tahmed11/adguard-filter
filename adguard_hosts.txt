@@ -3873,6 +3873,7 @@
 0.0.0.0 alcatza.com
 0.0.0.0 alchemysocial.com
 0.0.0.0 alchimybegins.com
+0.0.0.0 alcidkits.com
 0.0.0.0 alcovesoftenedenthusiastic.com
 0.0.0.0 alcroconawa.com
 0.0.0.0 aldosesmajeure.com
@@ -5112,6 +5113,7 @@
 0.0.0.0 autoperplexturban.com
 0.0.0.0 autopsyfowl.com
 0.0.0.0 autumncamping.com
+0.0.0.0 autumndrum.com
 0.0.0.0 auvenebu.xyz
 0.0.0.0 auwjmphx.com
 0.0.0.0 auxiliarydonor.com
@@ -5845,6 +5847,7 @@
 0.0.0.0 behaviourquarrelsomelollipop.com
 0.0.0.0 beheadmuffleddetached.com
 0.0.0.0 beheldconformoutlaw.com
+0.0.0.0 behesttitus.com
 0.0.0.0 behim.click
 0.0.0.0 behindfebruary.com
 0.0.0.0 beholdcontents.com
@@ -8117,6 +8120,7 @@
 0.0.0.0 circumstantialplatoon.com
 0.0.0.0 circusinjunctionarrangement.com
 0.0.0.0 circusmediocre.com
+0.0.0.0 cirrateremord.com
 0.0.0.0 ciscoesfirring.guru
 0.0.0.0 cisfazpisju.com
 0.0.0.0 cisheeng.com
@@ -9060,6 +9064,7 @@
 0.0.0.0 covivado.club
 0.0.0.0 cow-timerbudder.org
 0.0.0.0 cowerscrowers.top
+0.0.0.0 cowroidforril.click
 0.0.0.0 cowtpvi.com
 0.0.0.0 coxaripply.top
 0.0.0.0 coxiesthubble.com
@@ -17370,6 +17375,7 @@
 0.0.0.0 intruderalreadypromising.com
 0.0.0.0 intrustedzone.site
 0.0.0.0 intuitiontrenchproduces.com
+0.0.0.0 intuseseorita.com
 0.0.0.0 inuedidgmapla.com
 0.0.0.0 inulaserenegue.top
 0.0.0.0 inumbreonr.com
@@ -22619,6 +22625,7 @@
 0.0.0.0 nopoloferewer.com
 0.0.0.0 noproblfr.com
 0.0.0.0 noptog.com
+0.0.0.0 norardmirror.com
 0.0.0.0 norentisol.com
 0.0.0.0 noretia.com
 0.0.0.0 normalheart.pro
@@ -24674,6 +24681,7 @@
 0.0.0.0 peasbishopgive.com
 0.0.0.0 peaveynee.top
 0.0.0.0 pebadu.com
+0.0.0.0 pebbledteledus.com
 0.0.0.0 pebbleoutgoing.com
 0.0.0.0 pecdfzy.com
 0.0.0.0 pecialukizeias.info
@@ -25688,6 +25696,7 @@
 0.0.0.0 pouchadjoinmama.com
 0.0.0.0 pouchaffection.com
 0.0.0.0 pouchclockwise.com
+0.0.0.0 pouchedathelia.com
 0.0.0.0 poudrinnamaste.com
 0.0.0.0 poufaini.com
 0.0.0.0 poufsgausses.top
@@ -29142,6 +29151,7 @@
 0.0.0.0 searchmulty.com
 0.0.0.0 searchrespectivelypotency.com
 0.0.0.0 searchsecurer.com
+0.0.0.0 searswalers.com
 0.0.0.0 seashorelikelihoodreasonably.com
 0.0.0.0 seashoremessy.com
 0.0.0.0 seashorepigeonsbanish.com
@@ -30829,6 +30839,7 @@
 0.0.0.0 sternlythese.com
 0.0.0.0 steropestreaks.com
 0.0.0.0 sterouhavene.org
+0.0.0.0 stertordorab.com
 0.0.0.0 steshacm.xyz
 0.0.0.0 stethaug.xyz
 0.0.0.0 stethuth.xyz
@@ -34237,6 +34248,7 @@
 0.0.0.0 venuewasadi.org
 0.0.0.0 venulaeriggite.com
 0.0.0.0 veoxphl.com
+0.0.0.0 vepemtuphul.net
 0.0.0.0 vephowcpyvncm.com
 0.0.0.0 veralmefarketi.info
 0.0.0.0 verandahcrease.com
@@ -35130,6 +35142,7 @@
 0.0.0.0 weekendchinholds.com
 0.0.0.0 weeklideals.com
 0.0.0.0 weemofee.com
+0.0.0.0 weephuwe.xyz
 0.0.0.0 weepingheartache.com
 0.0.0.0 weepingpretext.com
 0.0.0.0 weeprobbery.com
@@ -35854,6 +35867,7 @@
 0.0.0.0 wretchmilitantasia.com
 0.0.0.0 wrevenuewasadi.info
 0.0.0.0 wrgjbsjxb.xyz
+0.0.0.0 wrightdirely.com
 0.0.0.0 wringdecorate.com
 0.0.0.0 wrinkleirritateoverrated.com
 0.0.0.0 wristtrunkpublication.com
@@ -38641,6 +38655,7 @@
 0.0.0.0 3a2e.site
 0.0.0.0 3a55f02d.xyz
 0.0.0.0 3ffa255f.xyz
+0.0.0.0 40451343.xyz
 0.0.0.0 4126fe80.xyz
 0.0.0.0 420db600.xyz
 0.0.0.0 45496fee.xyz
@@ -40608,7 +40623,6 @@
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 app.adjust.world
-0.0.0.0 app.adjust.net.in
 0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ads.iosappsworld.com
@@ -41100,7 +41114,6 @@
 0.0.0.0 sec.webeyez.com
 0.0.0.0 michiganrobotflower.com
 0.0.0.0 uid.mediacorp.sg
-0.0.0.0 exacttarget.com
 0.0.0.0 analytics.launch.bz
 0.0.0.0 qobuz.surveysparrow.com
 0.0.0.0 srvr.dmvs-apac.com
@@ -44587,6 +44600,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 ninja.data.olxcdn.com
 0.0.0.0 ocular.mydealz.de
 0.0.0.0 tiq.espritshop.pl
 0.0.0.0 abc.espritshop.pl
@@ -44598,7 +44612,6 @@
 0.0.0.0 trace.mjyx.com
 0.0.0.0 event-router.chime.com
 0.0.0.0 t3.cdnpure.com
-0.0.0.0 counter.wikiwiki.jp
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 d.analyticsmania.com
 0.0.0.0 gtm.lercio.it
@@ -45174,7 +45187,6 @@
 0.0.0.0 cdn-redirector.glopal.com
 0.0.0.0 storelog.kode.co.kr
 0.0.0.0 ampltd2.medal.tv
-0.0.0.0 l.bfmtv.com
 0.0.0.0 stats.debatdirect.tweedekamer.nl
 0.0.0.0 analytics.dugun.com
 0.0.0.0 report2.iciba.com
@@ -51335,7 +51347,6 @@
 0.0.0.0 medyanative.com
 0.0.0.0 61ads.net
 0.0.0.0 apptospace.com
-0.0.0.0 aybereklam.com
 0.0.0.0 publisher-network.com
 0.0.0.0 dzypro.xyz
 0.0.0.0 storj.cloud
@@ -58871,6 +58882,16 @@
 0.0.0.0 dqlrfmwp.icu
 0.0.0.0 cewrutf.top
 0.0.0.0 grihaith.com
+0.0.0.0 dabajd.xyz
+0.0.0.0 miycoc.xyz
+0.0.0.0 hewrutu.top
+0.0.0.0 jyjrbz.xyz
+0.0.0.0 kjxhd.cn
+0.0.0.0 doujs08.shop
+0.0.0.0 baijs08.shop
+0.0.0.0 lkdyft.xyz
+0.0.0.0 yuwqsk.xyz
+0.0.0.0 dkhffh.xyz
 0.0.0.0 uloscw.xyz
 0.0.0.0 gahejiao.com
 0.0.0.0 nbfsvreu.icu
