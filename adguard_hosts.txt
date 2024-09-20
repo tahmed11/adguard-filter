@@ -1773,6 +1773,7 @@
 0.0.0.0 5b3fbababb.com
 0.0.0.0 5btekl14.de
 0.0.0.0 5c01ad4cb7.com
+0.0.0.0 5c4ccd56c9.com
 0.0.0.0 5ca59a669a.com
 0.0.0.0 5caa478343.com
 0.0.0.0 5cbbdb4434.com
@@ -11299,6 +11300,7 @@
 0.0.0.0 embogsoarers.com
 0.0.0.0 embolipokies.com
 0.0.0.0 embolysaros.click
+0.0.0.0 embowerdatto.com
 0.0.0.0 embracetrace.com
 0.0.0.0 embrailcamino.top
 0.0.0.0 embtrk.com
@@ -18707,6 +18709,7 @@
 0.0.0.0 laitushous.com
 0.0.0.0 laivue.com
 0.0.0.0 laizuwhy.com
+0.0.0.0 lajjmqeshj.com
 0.0.0.0 lajouly.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lakmus.xyz
@@ -24564,6 +24567,7 @@
 0.0.0.0 phumpauk.com
 0.0.0.0 phupours.com
 0.0.0.0 phursefter.net
+0.0.0.0 phuthobsee.com
 0.0.0.0 phuzeeksub.com
 0.0.0.0 phvhnxebmrzf.com
 0.0.0.0 phxnkysa.com
@@ -25831,6 +25835,7 @@
 0.0.0.0 ptanguth.com
 0.0.0.0 ptapjmp.com
 0.0.0.0 ptatexiwhe.com
+0.0.0.0 ptatzrucj.com
 0.0.0.0 ptaujoot.net
 0.0.0.0 ptaumoadsovu.com
 0.0.0.0 ptaunsoova.com
@@ -30327,6 +30332,7 @@
 0.0.0.0 statsforads.com
 0.0.0.0 statsmobi.com
 0.0.0.0 staubsuthil.com
+0.0.0.0 staukaul.com
 0.0.0.0 staumersleep.com
 0.0.0.0 staunchchivied.top
 0.0.0.0 staunchgenetwitch.com
@@ -35534,6 +35540,7 @@
 0.0.0.0 wwaeljajwvlrw.top
 0.0.0.0 wwaeljajwvywm.top
 0.0.0.0 wwahuxzipoc.com
+0.0.0.0 wwaowwonthco.com
 0.0.0.0 wwarvlorkeww.top
 0.0.0.0 wwarvlorobzw.top
 0.0.0.0 wwbeqrhjwnijdk.com
@@ -38386,6 +38393,7 @@
 0.0.0.0 7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 0.0.0.0 7fc8.site
 0.0.0.0 814272c4.xyz
+0.0.0.0 83761158.xyz
 0.0.0.0 83887336.xyz
 0.0.0.0 84631949.xyz
 0.0.0.0 88129513.xyz
@@ -40178,6 +40186,7 @@
 0.0.0.0 deapi.afreecatv.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 umphek.com
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ad.iwhop.cn
@@ -40865,7 +40874,6 @@
 0.0.0.0 dmp-one.ru
 0.0.0.0 dmp-1.ru
 0.0.0.0 tjk-njk.com
-0.0.0.0 cdn.pubnub.com
 0.0.0.0 ziwelatum.com
 0.0.0.0 houston.advgo.net
 0.0.0.0 merchant-center-analytics.goog
@@ -44336,6 +44344,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analitik.pendik.bel.tr
 0.0.0.0 analytics-api.sconto.cz
 0.0.0.0 log-ana.h3z.jp
 0.0.0.0 ivstat.indavideo.hu
@@ -51649,6 +51658,7 @@
 0.0.0.0 azol.de
 0.0.0.0 twiago.com
 0.0.0.0 bauernative.com
+0.0.0.0 mm.wxc.cc
 0.0.0.0 xn--mts60is5y5uk.com
 0.0.0.0 dfqzah.xyz
 0.0.0.0 lafacw.xyz
@@ -58717,6 +58727,23 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 pmzlnt.xyz
+0.0.0.0 imusye.xyz
+0.0.0.0 bgbg00.fun
+0.0.0.0 fwsfwef2.fun
+0.0.0.0 vvadz.cc
+0.0.0.0 wpsbaq.xyz
+0.0.0.0 blinxmi.icu
+0.0.0.0 dasda64.fun
+0.0.0.0 iffobi.xyz
+0.0.0.0 jauql.top
+0.0.0.0 okiterk.top
+0.0.0.0 786yfvedhcbxjk.top
+0.0.0.0 ukitert.top
+0.0.0.0 csdcfvgf4.fun
+0.0.0.0 megydyk.icu
+0.0.0.0 szapaqi.cn
+0.0.0.0 zjsnhl.xyz
 0.0.0.0 dscds111.fun
 0.0.0.0 qrwcss.xyz
 0.0.0.0 tkiteri.top
