@@ -38347,6 +38347,7 @@
 0.0.0.0 16327739.xyz
 0.0.0.0 164de830.live
 0.0.0.0 16972675.xyz
+0.0.0.0 19199675.xyz
 0.0.0.0 19706903.xyz
 0.0.0.0 1a1fb6.xyz
 0.0.0.0 1c52e1e2.live
@@ -38357,6 +38358,7 @@
 0.0.0.0 224cc86d.xyz
 0.0.0.0 22dd31.xyz
 0.0.0.0 23879858.xyz
+0.0.0.0 23907453.xyz
 0.0.0.0 24052107.live
 0.0.0.0 24837724.xyz
 0.0.0.0 258104d2.live
@@ -39676,7 +39678,6 @@
 0.0.0.0 affiliaxe.com
 0.0.0.0 affiligay.net
 0.0.0.0 aipmedia.com
-0.0.0.0 all-about-tech.com
 0.0.0.0 allosponsor.com
 0.0.0.0 amateurhub.cam
 0.0.0.0 asiafriendfinder.com
@@ -39704,7 +39705,6 @@
 0.0.0.0 cbmiocw.com
 0.0.0.0 chatinator.com
 0.0.0.0 cherrytv.media
-0.0.0.0 citysex.com
 0.0.0.0 clickaine.com
 0.0.0.0 clipxn.com
 0.0.0.0 cwchmb.com
@@ -39770,7 +39770,6 @@
 0.0.0.0 getiton.com
 0.0.0.0 ggwcash.com
 0.0.0.0 golderotica.com
-0.0.0.0 hentai369.com
 0.0.0.0 hookupbucks.com
 0.0.0.0 hornymatches.com
 0.0.0.0 hornyspots.com
@@ -39802,7 +39801,6 @@
 0.0.0.0 itw.me
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 ixspublic.com
-0.0.0.0 jav-7mmtv.top
 0.0.0.0 javbucks.com
 0.0.0.0 joyourself.com
 0.0.0.0 kadam.ru
@@ -39825,9 +39823,7 @@
 0.0.0.0 lovercash.com
 0.0.0.0 lsawards.com
 0.0.0.0 lucidcommerce.com
-0.0.0.0 luvcash.com
 0.0.0.0 lwxjg.com
-0.0.0.0 madbanner.com
 0.0.0.0 mallcom.com
 0.0.0.0 marisappear.pro
 0.0.0.0 markswebcams.com
@@ -39889,7 +39885,6 @@
 0.0.0.0 outster.com
 0.0.0.0 oxcluster.com
 0.0.0.0 ozelmedikal.com
-0.0.0.0 paid-to-promote.net
 0.0.0.0 parkingpremium.com
 0.0.0.0 partnercash.com
 0.0.0.0 partnercash.de
@@ -39921,12 +39916,10 @@
 0.0.0.0 pourmajeurs.com
 0.0.0.0 ppc-direct.com
 0.0.0.0 premiumhdv.com
-0.0.0.0 presatisfy.com
 0.0.0.0 privacyprotector.com
 0.0.0.0 private4.com
 0.0.0.0 privateseiten.net
 0.0.0.0 privatewebseiten.com
-0.0.0.0 prmobiles.com
 0.0.0.0 program3.com
 0.0.0.0 promo4partners.com
 0.0.0.0 promocionesweb.com
@@ -40005,7 +39998,6 @@
 0.0.0.0 steamtraffic.com
 0.0.0.0 streamateaccess.com
 0.0.0.0 stripsaver.com
-0.0.0.0 sunnysmedia.com
 0.0.0.0 supuv3.com
 0.0.0.0 sv2.biz
 0.0.0.0 sweetmedia.org
@@ -40046,7 +40038,6 @@
 0.0.0.0 tubeadv.com
 0.0.0.0 tubecorporate.com
 0.0.0.0 tubepush.eu
-0.0.0.0 tubesweet.com
 0.0.0.0 twistyscash.com
 0.0.0.0 uxernab.com
 0.0.0.0 ver-pelis.net
@@ -40058,7 +40049,6 @@
 0.0.0.0 vidsrev.com
 0.0.0.0 viensvoircesite.com
 0.0.0.0 virtuagirlhd.com
-0.0.0.0 vivaclix.com
 0.0.0.0 vividcash.com
 0.0.0.0 vlexokrako.com
 0.0.0.0 vlogexpert.com
@@ -40121,6 +40111,7 @@
 0.0.0.0 indianfriendfinder.com
 0.0.0.0 irtye.com
 0.0.0.0 isanalyze.com
+0.0.0.0 jav-7mmtv.top
 0.0.0.0 jizzy.org
 0.0.0.0 juicyads.com
 0.0.0.0 kaizentraffic.com
@@ -58772,6 +58763,11 @@
 0.0.0.0 zvc.cc
 0.0.0.0 zvietcombank.com
 0.0.0.0 zvietnakello.weebly.com
+0.0.0.0 swad332.fun
+0.0.0.0 ajockk.xyz
+0.0.0.0 gmmlmo.xyz
+0.0.0.0 iwatero.top
+0.0.0.0 dssddf33.fun
 0.0.0.0 rvnaxwqe.icu
 0.0.0.0 uaoaig.xyz
 0.0.0.0 xnqboqc.icu
@@ -58780,6 +58776,10 @@
 0.0.0.0 hyhy2.fun
 0.0.0.0 xxsmad4.com
 0.0.0.0 baggvon.icu
+0.0.0.0 hwateru.top
+0.0.0.0 xn--xhq326aj6yqpw.com
+0.0.0.0 vfvdvd99.fun
+0.0.0.0 fq07.shop
 0.0.0.0 jy09.shop
 0.0.0.0 ky595images.com
 0.0.0.0 cwaterf.top
