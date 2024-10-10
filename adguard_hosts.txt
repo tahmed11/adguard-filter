@@ -59317,6 +59317,17 @@
 0.0.0.0 zvietnakello.weebly.com
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 oauqyw.xyz
+0.0.0.0 hauqks.top
+0.0.0.0 jsgapai.icu
+0.0.0.0 udswai.xyz
+0.0.0.0 gbqgwes.icu
+0.0.0.0 miwpkk.xyz
+0.0.0.0 npdbxf.xyz
+0.0.0.0 wuiqiq.xyz
+0.0.0.0 jingjs.top
+0.0.0.0 0pdsa.icu
+0.0.0.0 leagsmk.icu
 0.0.0.0 irulws.xyz
 0.0.0.0 cowcuo.xyz
 0.0.0.0 ajybgc.xyz
@@ -63604,6 +63615,7 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
+0.0.0.0 efg.zle.com
 0.0.0.0 003store.com
 0.0.0.0 0941.org
 0.0.0.0 1.07swz.com
