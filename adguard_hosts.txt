@@ -1963,6 +1963,7 @@
 0.0.0.0 7jrahgc.de
 0.0.0.0 7lyonline.com
 0.0.0.0 7me0ssd6.de
+0.0.0.0 7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
 0.0.0.0 7nt9p4d4.de
 0.0.0.0 80055404.vtt
 0.0.0.0 81438456aa.com
@@ -3607,6 +3608,7 @@
 0.0.0.0 anatomybravely.com
 0.0.0.0 anattospursier.com
 0.0.0.0 anaxialaphonia.com
+0.0.0.0 ancamcdu.com
 0.0.0.0 anceenablesas.com
 0.0.0.0 anceenablesas.info
 0.0.0.0 ancestor3452.fun
@@ -4397,6 +4399,7 @@
 0.0.0.0 avbang3431.fun
 0.0.0.0 avbulb3431.fun
 0.0.0.0 avdebt3431.fun
+0.0.0.0 avecmessougnauy.net
 0.0.0.0 avenaryconcent.com
 0.0.0.0 aveneverseeno.info
 0.0.0.0 avengeburglar.com
@@ -5563,6 +5566,7 @@
 0.0.0.0 boeojpmxvwbgn.com
 0.0.0.0 boffinsoft.com
 0.0.0.0 bofhlzu.com
+0.0.0.0 bogletdent.shop
 0.0.0.0 bogrodius.com
 0.0.0.0 bogus-disk.com
 0.0.0.0 boharaf.com
@@ -6529,6 +6533,7 @@
 0.0.0.0 cdntrf.com
 0.0.0.0 cdnware.com
 0.0.0.0 cdnware.io
+0.0.0.0 cdoqjxlnegnhm.com
 0.0.0.0 cdosagebreakfast.com
 0.0.0.0 cdrvrs.com
 0.0.0.0 cdryuoe.com
@@ -8223,6 +8228,7 @@
 0.0.0.0 dallavel.com
 0.0.0.0 dallthroughthe.info
 0.0.0.0 daltongrievously.com
+0.0.0.0 daly2024.com
 0.0.0.0 dalyai.com
 0.0.0.0 dalyio.com
 0.0.0.0 dalymix.com
@@ -9898,6 +9904,7 @@
 0.0.0.0 eetsooso.net
 0.0.0.0 eewhapseepoo.net
 0.0.0.0 eeycumpmwy.com
+0.0.0.0 eeyrfrqdfey.xyz
 0.0.0.0 eeywmvwaqqrrl.top
 0.0.0.0 eezavops.net
 0.0.0.0 eezegrip.net
@@ -14037,6 +14044,7 @@
 0.0.0.0 humanjeep.com
 0.0.0.0 humiliatemoot.com
 0.0.0.0 hummingexam.com
+0.0.0.0 hummockpenner.shop
 0.0.0.0 humoralpurline.com
 0.0.0.0 humpdecompose.com
 0.0.0.0 humplollipopsalts.com
@@ -15416,6 +15424,7 @@
 0.0.0.0 joachoag.xyz
 0.0.0.0 joaglouwulin.com
 0.0.0.0 joagroamy.com
+0.0.0.0 joajazaicoa.xyz
 0.0.0.0 joanneehretia.com
 0.0.0.0 joaqaylueycfqw.xyz
 0.0.0.0 joastaca.com
@@ -16076,6 +16085,7 @@
 0.0.0.0 kqrcijq.com
 0.0.0.0 kquptfjubrbp.xyz
 0.0.0.0 kquzgqf.com
+0.0.0.0 kra18.com
 0.0.0.0 krankenwagenmotor.com
 0.0.0.0 kraoqsvumatd.com
 0.0.0.0 krazil.com
@@ -22781,6 +22791,7 @@
 0.0.0.0 qroagwadndwy.com
 0.0.0.0 qrprobopassor.com
 0.0.0.0 qrredraws.com
+0.0.0.0 qrroyrdbjeeffw.com
 0.0.0.0 qrrqysjnwctp.xyz
 0.0.0.0 qrubv.buzz
 0.0.0.0 qrwkkcyih.xyz
@@ -34945,6 +34956,7 @@
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-config-engine-noneu.truecaller.com
 0.0.0.0 ad.inston.ltd
 0.0.0.0 ad.deepthought.industries
@@ -39157,6 +39169,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 analytics.ahrefs.
 0.0.0.0 montelena.gmarket.co.kr
 0.0.0.0 stats.hitwebcloud.de
 0.0.0.0 amplitude.bandlab.com
@@ -46240,6 +46253,7 @@
 0.0.0.0 caraneoutraze.uno
 0.0.0.0 adserve.lasentinelle.mu
 0.0.0.0 adserver.icimedias.ca
+0.0.0.0 adsby.2bet.co.jp
 0.0.0.0 indexad.net
 0.0.0.0 recruitbox.media.iid.jp
 0.0.0.0 creative-klepon-3f0ecb.netlify.app
@@ -49192,6 +49206,7 @@
 0.0.0.0 0088shop.com
 0.0.0.0 009855.com
 0.0.0.0 010172.com
+0.0.0.0 08ro35delw.ru
 0.0.0.0 0fb.co
 0.0.0.0 0fb.ltd
 0.0.0.0 113-bca.online
@@ -49345,11 +49360,14 @@
 0.0.0.0 amatvip36sc.cc
 0.0.0.0 amazon.amazonptj.com
 0.0.0.0 amazonbig.asia
+0.0.0.0 amazoni2.com
 0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
 0.0.0.0 amazonl4.com
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
+0.0.0.0 amazoul.site
+0.0.0.0 amazoul.xyz
 0.0.0.0 amg133180.com
 0.0.0.0 amg187098.com
 0.0.0.0 amg187208.com
@@ -49371,6 +49389,7 @@
 0.0.0.0 anzvn.net
 0.0.0.0 aodainusinh-cuoinam20233.weebly.com
 0.0.0.0 aodaisieuvietnhi2022.weebly.com
+0.0.0.0 api.garageserviceoperation.com
 0.0.0.0 api.simpletra.com
 0.0.0.0 app.amazon-line.com
 0.0.0.0 app.mybigc.net
@@ -49525,6 +49544,7 @@
 0.0.0.0 cbfor49836.click
 0.0.0.0 cbox4.ignorelist.com
 0.0.0.0 cct-giaohangtietkiem.com
+0.0.0.0 ccty-ghtk.com
 0.0.0.0 cdn.g8z.net
 0.0.0.0 celerantatters.com
 0.0.0.0 centralonline.shop
@@ -49534,15 +49554,24 @@
 0.0.0.0 cgovn.cc
 0.0.0.0 cham-soc-the-truc-tuyen.com.vn
 0.0.0.0 chamsockhachang.com
+0.0.0.0 chamsockhachhang-the-tructuyen-thang9.com.vn
 0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
+0.0.0.0 chamsockhachhang-uudai-tructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
 0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
+0.0.0.0 chamsockhachhang-uudaithetructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudaithetructuyen-thang8.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
+0.0.0.0 chamsocthe-uudai-tructuyen-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-tructuyen.com
+0.0.0.0 chamsocthe-uudaikhachhang.com
+0.0.0.0 chamsocthe-uudaikhachhang.online
+0.0.0.0 chamsocthe-uudaitructuyen.com.vn
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chamsocthekhachhang-thang4.online
@@ -49669,6 +49698,7 @@
 0.0.0.0 csr110112201eur.click
 0.0.0.0 csr110112203eur.click
 0.0.0.0 csr110112204eur.click
+0.0.0.0 ctivo.com
 0.0.0.0 ctswasprimarilyd.cfd
 0.0.0.0 ctv-shopee.com
 0.0.0.0 ctvay.net
@@ -49719,6 +49749,7 @@
 0.0.0.0 deepprostore.com
 0.0.0.0 defi.hsfdefi.com
 0.0.0.0 dev-checkmoneypayment-mpos.com
+0.0.0.0 dfeenxea.tidc.bid
 0.0.0.0 dfsshop66.com
 0.0.0.0 dg2255.com
 0.0.0.0 dhl-chuyenphatnhanhquocte.com.vn
@@ -49751,6 +49782,7 @@
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.bcavnvnvngov.com
+0.0.0.0 dichvucong.ccbcavn.cc
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dancuso.com
@@ -49772,6 +49804,8 @@
 0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
+0.0.0.0 dichvudienmay-xanh.online
+0.0.0.0 dichvugiaohangtietkiem.com
 0.0.0.0 dichvunhantien-eu.org
 0.0.0.0 dichvunhantien24h.com
 0.0.0.0 dichvunhantienquocte2-4-7.weebly.com
@@ -49781,6 +49815,7 @@
 0.0.0.0 didongviet.store
 0.0.0.0 dien-may-xanh.net
 0.0.0.0 dienlanhdienmayxanh.com
+0.0.0.0 dienlanhdienmayxanhvn.com
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-hcm.com
 0.0.0.0 dienmayxanh-vn.top
@@ -49797,6 +49832,7 @@
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
+0.0.0.0 dienmayxanhcenter.vn
 0.0.0.0 dienmayxanhctv24.com
 0.0.0.0 dienmayxanhh.com
 0.0.0.0 dienmayxanhhcm.com
@@ -49894,6 +49930,7 @@
 0.0.0.0 eventriansieusao.com
 0.0.0.0 evnbankcredit.info
 0.0.0.0 evncredit.online
+0.0.0.0 evnnpcs.com
 0.0.0.0 evnvaytien.xyz
 0.0.0.0 eximbank.club
 0.0.0.0 eximbank.me
@@ -49925,6 +49962,7 @@
 0.0.0.0 fairu-schnellvpn.xyz
 0.0.0.0 fajiafu30.com
 0.0.0.0 fajiafu50.com
+0.0.0.0 fasebook.com.vn
 0.0.0.0 fb88viet.com
 0.0.0.0 fbviet88.com
 0.0.0.0 fc.adswt.com
@@ -50105,6 +50143,7 @@
 0.0.0.0 ghnn11.com
 0.0.0.0 ghnn22.com
 0.0.0.0 ghnn33.com
+0.0.0.0 ghtk247.com
 0.0.0.0 giacatloi.info
 0.0.0.0 giaingan799.com
 0.0.0.0 giainganonline799.com
@@ -50127,6 +50166,7 @@
 0.0.0.0 giaohangtietkiem247.top
 0.0.0.0 giaohangtietkiemvietnam.com
 0.0.0.0 giaohangtietkiemvn.com
+0.0.0.0 giaohangtietkiemvn.website
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 gifcode-lienquan.com
 0.0.0.0 giftbangbangtank.weebly.com
@@ -50419,6 +50459,7 @@
 0.0.0.0 jaemoney.ltd
 0.0.0.0 japan-shopac.asia
 0.0.0.0 jbovietnam.com
+0.0.0.0 jetkingncsc.online
 0.0.0.0 jewvvkh.cyou
 0.0.0.0 jeyrkyshop.com
 0.0.0.0 jo9p72.cyou
@@ -50502,6 +50543,7 @@
 0.0.0.0 kkh818.com
 0.0.0.0 km-digibank.com
 0.0.0.0 kmnapthe.ga
+0.0.0.0 korshoptiktok.com
 0.0.0.0 kpd63519s.com
 0.0.0.0 kpt32165s.com
 0.0.0.0 ksdp997.com
@@ -50886,6 +50928,7 @@
 0.0.0.0 momomini.online
 0.0.0.0 momoplus.club
 0.0.0.0 momoproapi.com
+0.0.0.0 momoshopvip.com
 0.0.0.0 momoshopy.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 momosieutoc.net
@@ -51193,6 +51236,7 @@
 0.0.0.0 napxutiktok.net
 0.0.0.0 napzingspeed.com
 0.0.0.0 napzingvng.news
+0.0.0.0 natvxgkbb.9pz1.tech
 0.0.0.0 ncb-bank.pw
 0.0.0.0 ncbbank.online
 0.0.0.0 ncbbank.site
@@ -51615,6 +51659,7 @@
 0.0.0.0 sdqwf.ga
 0.0.0.0 seabank-nganhanghanoi.com
 0.0.0.0 seleeashopee.com
+0.0.0.0 sendo1.com
 0.0.0.0 sendotv.com
 0.0.0.0 sendotv.shop
 0.0.0.0 sendovip.com
@@ -52131,6 +52176,7 @@
 0.0.0.0 sopper68.com
 0.0.0.0 sos-icloud.com
 0.0.0.0 sotuyenvcb.vietcombanker.com
+0.0.0.0 soyte.cc
 0.0.0.0 sp15569p.com
 0.0.0.0 sp1663p.com
 0.0.0.0 sp1776p.com
@@ -52141,6 +52187,7 @@
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
 0.0.0.0 sp75193p.com
+0.0.0.0 sp7588p.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 spaines.pw
@@ -52341,6 +52388,7 @@
 0.0.0.0 techcombank.site
 0.0.0.0 techcombank.vn-ol.top
 0.0.0.0 techcombank.website
+0.0.0.0 telaagam.maxisl.vip
 0.0.0.0 telegram.app0w.ltd
 0.0.0.0 teleway.top
 0.0.0.0 tescoshop.shop
@@ -52391,6 +52439,7 @@
 0.0.0.0 thuoctangcuongsinhlynam.com
 0.0.0.0 thuonghieutoancau69.com
 0.0.0.0 thuonghieutop1.online
+0.0.0.0 thuongmai-dientu.com
 0.0.0.0 thuongmaidientuquocte.com
 0.0.0.0 thuongmaivietnhat.com
 0.0.0.0 thuongviet01.com
@@ -52456,6 +52505,7 @@
 0.0.0.0 tiki8.vip
 0.0.0.0 tiki82.com
 0.0.0.0 tiki86.com
+0.0.0.0 tiki886.vip
 0.0.0.0 tiki888.com
 0.0.0.0 tiki94.com
 0.0.0.0 tiki98.com
@@ -52591,6 +52641,7 @@
 0.0.0.0 tongdaifacebook.online
 0.0.0.0 tongdaitruyenhinhcap.info
 0.0.0.0 tongdaitruyenhinhcap24h.online
+0.0.0.0 topcvvn.com
 0.0.0.0 topdienthoaia72.com
 0.0.0.0 tophanmem.com
 0.0.0.0 topmomo.me
@@ -52754,12 +52805,17 @@
 0.0.0.0 upushjxglaroiqnii.org
 0.0.0.0 uslimsofbr.cfd
 0.0.0.0 uudai-tructuyen-chamsockhachhang-the.com.vn
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com.vn
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com
+0.0.0.0 uudaikhachhang-tructuyen-the.com.vn
 0.0.0.0 uudaikhachhang-tructuyen.com.vn
 0.0.0.0 uudaikhachhangthe-tructuyen-thang9.com.vn
 0.0.0.0 uudailienquan.com
 0.0.0.0 uudainapthe.vn
 0.0.0.0 uudainganhang.com
 0.0.0.0 uudainganhangso.site
+0.0.0.0 uudauthekhachhanh-tructuyen-thang10.com.vn
+0.0.0.0 uuyiiuqwownx.pw
 0.0.0.0 uyban.club
 0.0.0.0 uyhgqunqkxnx.pw
 0.0.0.0 v-vay.com
@@ -53355,6 +53411,7 @@
 0.0.0.0 vnc75635s.com
 0.0.0.0 vnduthianhgroup.com
 0.0.0.0 vnebank.xyz
+0.0.0.0 vneid.vieegovn.cc
 0.0.0.0 vnexprress.com
 0.0.0.0 vnfiba.com
 0.0.0.0 vngiao.hangtietkiem.online
@@ -53554,6 +53611,7 @@
 0.0.0.0 vxvw55.com
 0.0.0.0 w88banh.com
 0.0.0.0 walmartshoping.com
+0.0.0.0 walmartva.icu
 0.0.0.0 warrenmoneytrader.com
 0.0.0.0 watch-online.49n7wqynho5u.top
 0.0.0.0 wbk9sohp.jdpz.link
@@ -53667,6 +53725,7 @@
 0.0.0.0 xtramannchinhhang.com
 0.0.0.0 xuanlienquan.com
 0.0.0.0 yeumomo.me
+0.0.0.0 yk37wagdg.life
 0.0.0.0 yl0sj9.cyou
 0.0.0.0 ymx33.com
 0.0.0.0 ynefefyopqvu.com
@@ -53693,8 +53752,17 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 vsojfsoj.com
+0.0.0.0 ezrcowa.icu
+0.0.0.0 uwsaqoi.icu
 0.0.0.0 imniel.com
 0.0.0.0 kiolpia.icu
+0.0.0.0 bdcmwcl.icu
+0.0.0.0 urpkktc.icu
+0.0.0.0 dsfh2.icu
+0.0.0.0 toublii.top
+0.0.0.0 uoublit.top
+0.0.0.0 7f7rt.icu
 0.0.0.0 qoubliy.top
 0.0.0.0 vuirssd.icu
 0.0.0.0 kjnsgqe.icu
