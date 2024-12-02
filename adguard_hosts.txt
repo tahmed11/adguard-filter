@@ -30410,6 +30410,7 @@
 0.0.0.0 datacluster.club
 0.0.0.0 dtrk.slimcdn.com
 0.0.0.0 dunhilltraveldeals.com
+0.0.0.0 ebayadservices.com
 0.0.0.0 ebayrtm.com
 0.0.0.0 eclipse-adblocker.pro
 0.0.0.0 epnt.ebay.com
@@ -40091,7 +40092,6 @@
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d1vg5xiq7qffdj.cloudfront.net
-0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1z3r0i09bwium.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
@@ -44880,7 +44880,6 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.heltenkelt.se
 0.0.0.0 statistik.blogg1.se
-0.0.0.0 statistik.mxo.se
 0.0.0.0 statistik.svenskaakademien.se
 0.0.0.0 stats.agrar.nu
 0.0.0.0 stats.docu.info
@@ -45041,7 +45040,6 @@
 0.0.0.0 tracking.visitorsvoice.com
 0.0.0.0 tracking.vlt.se
 0.0.0.0 tracking.vn.se
-0.0.0.0 tracking.vxonews.se
 0.0.0.0 tracking.ystadsallehanda.se
 0.0.0.0 tracking.etidning.fagersta-posten.se
 0.0.0.0 tracking.fagersta-posten.se
@@ -50870,11 +50868,24 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 sconat.com
+0.0.0.0 cidhmxxb.icu
+0.0.0.0 jcwlsofn.icu
+0.0.0.0 brircel.com
+0.0.0.0 af6s.icu
+0.0.0.0 edamcsw.top
+0.0.0.0 e8d7.icu
+0.0.0.0 aoao12011iis.top
+0.0.0.0 a2wx.icu
+0.0.0.0 caaqot.com
+0.0.0.0 zio8.icu
+0.0.0.0 wdamcse.top
 0.0.0.0 ruqaks.com
 0.0.0.0 bmhtwefv.icu
 0.0.0.0 olkoins.com
 0.0.0.0 w59g.icu
 0.0.0.0 sdamcsb.top
+0.0.0.0 ao1201kas.top
 0.0.0.0 igabcgnh.icu
 0.0.0.0 saizih.com
 0.0.0.0 1gtp.icu
