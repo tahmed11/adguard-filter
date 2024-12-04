@@ -1,3 +1,4 @@
+0.0.0.0 op3xdork.xyz
 0.0.0.0 qrifhajtabcy.com
 0.0.0.0 joogruphezefaul.net
 0.0.0.0 legiblyosmols.top
@@ -7086,6 +7087,7 @@
 0.0.0.0 conative.network
 0.0.0.0 concealedcredulous.com
 0.0.0.0 concealmentbrainpower.com
+0.0.0.0 concealmentmimic.com
 0.0.0.0 concedederaserskyline.com
 0.0.0.0 conceitedfedapple.com
 0.0.0.0 conceivedtowards.com
@@ -20712,6 +20714,7 @@
 0.0.0.0 puzzlepursued.com
 0.0.0.0 puzzoa.xyz
 0.0.0.0 pvclouds.com
+0.0.0.0 pvdbkr.com
 0.0.0.0 pvtqllwgu.com
 0.0.0.0 pvxvazbehd.com
 0.0.0.0 pwaarkac.com
@@ -30517,6 +30520,7 @@
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 monetize-static.viralize.tv
 0.0.0.0 neural.myth.dev
+0.0.0.0 newtabextension.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 omegadblocker.com
 0.0.0.0 onlinepromogift.com
@@ -36271,6 +36275,8 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 femetrics.grammarly.io
+0.0.0.0 media-stat.mail.ru
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 analytics.shorthand.com
 0.0.0.0 gh.fanatical.com
@@ -36556,7 +36562,6 @@
 0.0.0.0 segment-api.goodrx.com
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 log.suumo.jp
-0.0.0.0 femetrics.grammarly.io
 0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 stats.indianpornempire.com
 0.0.0.0 lp.spac.me
@@ -43090,6 +43095,7 @@
 0.0.0.0 vst.videolink.host
 0.0.0.0 exad.smi2.ru
 0.0.0.0 tgb.hsmedia.ru
+0.0.0.0 media-advcycle.imgsmail.ru
 0.0.0.0 sdk.kokocads.com
 0.0.0.0 r1.ati.su
 0.0.0.0 rcmjs.rambler.ru
@@ -44066,7 +44072,6 @@
 0.0.0.0 codes.wai.it
 0.0.0.0 conative.de
 0.0.0.0 connects.ch
-0.0.0.0 cpdsrv.de
 0.0.0.0 crmpilot.it
 0.0.0.0 cuiron.de
 0.0.0.0 cussixia.de
@@ -50933,6 +50938,14 @@
 0.0.0.0 vokzqgjp.icu
 0.0.0.0 sokars.com
 0.0.0.0 grerzieds.com
+0.0.0.0 c4uy.icu
+0.0.0.0 k5uj.icu
+0.0.0.0 udamcst.top
+0.0.0.0 thaqne.com
+0.0.0.0 q1bp.icu
+0.0.0.0 odamcsk.top
+0.0.0.0 lumvkebr.icu
+0.0.0.0 scroscoi.com
 0.0.0.0 sconat.com
 0.0.0.0 cidhmxxb.icu
 0.0.0.0 ig69.vip
