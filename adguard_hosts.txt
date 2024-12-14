@@ -1,3 +1,4 @@
+0.0.0.0 cpngiubbcnq.love
 0.0.0.0 ads.twdcgrid.com
 0.0.0.0 myaudioads.com
 0.0.0.0 rixengine.com
@@ -1320,6 +1321,7 @@
 0.0.0.0 freecontent.stream
 0.0.0.0 mine.torrent.pw
 0.0.0.0 00d84987c0.com
+0.0.0.0 00f8c4bb25.com
 0.0.0.0 012024jhvjhkozekl.space
 0.0.0.0 0127c96640.com
 0.0.0.0 01counter.com
@@ -1339,6 +1341,7 @@
 0.0.0.0 05e11c9f6f.com
 0.0.0.0 0676el9lskux.top
 0.0.0.0 06a21eff24.com
+0.0.0.0 06cffaae87.com
 0.0.0.0 070880.com
 0.0.0.0 0760571ca9.com
 0.0.0.0 07a1624bd7.com
@@ -1771,6 +1774,7 @@
 0.0.0.0 49b6b77e56.com
 0.0.0.0 49d4db4864.com
 0.0.0.0 4a9517991d.com
+0.0.0.0 4armn.com
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4b7140e260.com
 0.0.0.0 4bad5cdf48.com
@@ -3006,6 +3010,7 @@
 0.0.0.0 afgwsgl.com
 0.0.0.0 afgzipohma.com
 0.0.0.0 afiliapub.click
+0.0.0.0 afilliatetraff.com
 0.0.0.0 afkearupl.com
 0.0.0.0 afloatroyalty.com
 0.0.0.0 afm01.com
@@ -7788,6 +7793,7 @@
 0.0.0.0 d0main.ru
 0.0.0.0 d15a035f27.com
 0.0.0.0 d1a0c6affa.com
+0.0.0.0 d1f76eb5a4.com
 0.0.0.0 d1x9q8w2e4.xyz
 0.0.0.0 d1ygczx880h5yu.cloudfront.net
 0.0.0.0 d24ak3f2b.top
@@ -10962,6 +10968,7 @@
 0.0.0.0 frettedmalta.top
 0.0.0.0 frezahkthnz.com
 0.0.0.0 frfetchme.com
+0.0.0.0 frfsjjtis.com
 0.0.0.0 fri4esianewheywr90itrage.com
 0.0.0.0 frictionliteral.com
 0.0.0.0 frictionterritoryvacancy.com
@@ -14782,6 +14789,7 @@
 0.0.0.0 knownwarn.com
 0.0.0.0 knpfx.life
 0.0.0.0 kntodvofiyjjl.xyz
+0.0.0.0 knubletupgrow.shop
 0.0.0.0 knutenegros.pro
 0.0.0.0 koabapeed.com
 0.0.0.0 koafaimoor.net
@@ -18452,6 +18460,7 @@
 0.0.0.0 oometermerkhet.click
 0.0.0.0 oomsijahail.com
 0.0.0.0 oomsoapt.net
+0.0.0.0 oomsurtour.net
 0.0.0.0 oongouha.xyz
 0.0.0.0 oonsouque.com
 0.0.0.0 oopatet.com
@@ -20264,6 +20273,7 @@
 0.0.0.0 printerswear.com
 0.0.0.0 printgrownuphail.com
 0.0.0.0 printsmull.com
+0.0.0.0 prioraslop.com
 0.0.0.0 priorityblockinghopped.com
 0.0.0.0 priselapse.com
 0.0.0.0 prisonfirmlyswallow.com
@@ -27067,6 +27077,7 @@
 0.0.0.0 villagerreporter.com
 0.0.0.0 vilmgins.com
 0.0.0.0 vilpujzmyhu.com
+0.0.0.0 vimaxckc.com
 0.0.0.0 vincentagrafes.top
 0.0.0.0 vindicosuite.com
 0.0.0.0 vindictivegrabnautical.com
@@ -27502,6 +27513,7 @@
 0.0.0.0 wcbxugtfk.com
 0.0.0.0 wcdxpxugsrk.xyz
 0.0.0.0 wcgcddncqveiqia.xyz
+0.0.0.0 wcigmepzygad.com
 0.0.0.0 wcmcs.net
 0.0.0.0 wcnhhqqueu.com
 0.0.0.0 wcoaswaxkrt.com
@@ -28435,6 +28447,7 @@
 0.0.0.0 xwqea.com
 0.0.0.0 xwqvytuiko.com
 0.0.0.0 xwvduxeiuv.com
+0.0.0.0 xwzbpkku-i.site
 0.0.0.0 xx-umomfzqik.today
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxdfexbwv.top
@@ -30811,7 +30824,6 @@
 0.0.0.0 saambaa.com
 0.0.0.0 search-carousel-widget.snc-prod.aws.cinch.co.uk
 0.0.0.0 secure.money.com
-0.0.0.0 services.zam.com
 0.0.0.0 shopmyshelf.us
 0.0.0.0 smartads.statsperform.com
 0.0.0.0 squirrels.getsquirrel.co
@@ -36534,6 +36546,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 afl.rozetka.com.ua
 0.0.0.0 c783.fastcompany.com
 0.0.0.0 event.northghost.com
 0.0.0.0 profile-api.amplitude.com
@@ -39116,6 +39129,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 stats.samsungpass.com
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
@@ -39143,7 +39157,6 @@
 0.0.0.0 caerulus.io
 0.0.0.0 log.heartratepros.com
 0.0.0.0 tatrack.thinkyeah.com
-0.0.0.0 sdk-04.moengage.com
 0.0.0.0 vcs.zijieapi.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 atsod.launch.liveramp.com
@@ -39579,7 +39592,7 @@
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 d.applvn.com
 0.0.0.0 rt.applvn.com
-0.0.0.0 apiv2.moengage.com
+0.0.0.0 moengage.com
 0.0.0.0 track.uc.cn
 0.0.0.0 uc.ucweb.com
 0.0.0.0 puds.ucweb.com
@@ -44100,6 +44113,7 @@
 0.0.0.0 azol.de
 0.0.0.0 twiago.com
 0.0.0.0 bauernative.com
+0.0.0.0 b10.justacdn.net
 0.0.0.0 wkzw.me
 0.0.0.0 dhkqqe.top
 0.0.0.0 yruadj.top
@@ -51303,9 +51317,17 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 wlouqsz.xyz
+0.0.0.0 hcznaubp.icu
+0.0.0.0 truxedku.com
 0.0.0.0 owsrgljb.icu
 0.0.0.0 ziqniduy.com
 0.0.0.0 dddstew6cw8.fun
+0.0.0.0 ctimiyf.top
+0.0.0.0 8et.icu
+0.0.0.0 treimphens.com
+0.0.0.0 zr3.icu
+0.0.0.0 htimiyu.top
 0.0.0.0 neldatsy.com
 0.0.0.0 yqlzccxn.icu
 0.0.0.0 bjimtyv.top
