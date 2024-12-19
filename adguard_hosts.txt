@@ -1,3 +1,8 @@
+0.0.0.0 ceefsyqotuagk.com
+0.0.0.0 kljhsanvj.com
+0.0.0.0 leegreemula.net
+0.0.0.0 ldjyvegage.com
+0.0.0.0 skhmjezzj.com
 0.0.0.0 predictivadnetwork.com
 0.0.0.0 epvjljye.com
 0.0.0.0 ageetsaimouphih.net
@@ -8893,6 +8898,7 @@
 0.0.0.0 dovictinian.com
 0.0.0.0 down1oads.com
 0.0.0.0 download-adblock-zen.com
+0.0.0.0 download-privacybear.com
 0.0.0.0 download-ready.net
 0.0.0.0 download4.cfd
 0.0.0.0 download4allfree.com
@@ -32960,6 +32966,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 bt.dns-finder.com
+0.0.0.0 btloader.com
+0.0.0.0 glamipixel.com
 0.0.0.0 nocodelytics.com
 0.0.0.0 stat.fly.codes
 0.0.0.0 events.engager.ecbsn.com
@@ -33834,7 +33843,6 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 cdn.trackclicks.info
 0.0.0.0 mm.actionlink.jp
-0.0.0.0 btloader.com
 0.0.0.0 tracklog.58.com
 0.0.0.0 wtstats.ro
 0.0.0.0 static.terratraf.io
@@ -51331,6 +51339,8 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 threkuth.com
+0.0.0.0 nrbwzh.icu
 0.0.0.0 ihearsoh.com
 0.0.0.0 juutckrt.icu
 0.0.0.0 qtimiyy.top
@@ -51338,6 +51348,16 @@
 0.0.0.0 screspoy.com
 0.0.0.0 ua2.icu
 0.0.0.0 ttimiyi.top
+0.0.0.0 elloisny.com
+0.0.0.0 zabpgtjh.icu
+0.0.0.0 utimiyt.top
+0.0.0.0 ee5.icu
+0.0.0.0 pofbpx.icu
+0.0.0.0 sckyf.com
+0.0.0.0 ppio12181ios.top
+0.0.0.0 stongors.com
+0.0.0.0 4we.icu
+0.0.0.0 otimiyk.top
 0.0.0.0 qonbibff.icu
 0.0.0.0 n7a.icu
 0.0.0.0 craegvin.com
@@ -57126,6 +57146,7 @@
 0.0.0.0 tracker.jabama.com
 0.0.0.0 kar-sentry.karnameh.com
 0.0.0.0 websocket.khanefootball.com
+0.0.0.0 sentry.mci.dev
 0.0.0.0 counter.musicsweb.ir
 0.0.0.0 counter.mahanmusic.net
 0.0.0.0 analytic.magland.ir
@@ -57136,7 +57157,7 @@
 0.0.0.0 stc.ninisite.com
 0.0.0.0 websocket.55online.news
 0.0.0.0 analytics.plaza.ir
-0.0.0.0 sentry.quera.org
+0.0.0.0 sentry.querastaff.ir
 0.0.0.0 a.reymit.ir
 0.0.0.0 sentry.mielse.com
 0.0.0.0 ingest-data-afra.snappfood.dev
