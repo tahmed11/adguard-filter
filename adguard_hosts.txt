@@ -1,3 +1,6 @@
+0.0.0.0 gsrgjsmymkwt.com
+0.0.0.0 zeecajichaiw.net
+0.0.0.0 server.megabrain.co
 0.0.0.0 cf.adxcel.com
 0.0.0.0 cda7k-ddok.com
 0.0.0.0 sat.cellordion3.net
@@ -871,6 +874,7 @@
 0.0.0.0 newbluetrue.xyz
 0.0.0.0 onemediawork.com
 0.0.0.0 d162h6x3rxav67.cloudfront.net
+0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 openx.tiesraides.lv
 0.0.0.0 ctent.povvverz.one
 0.0.0.0 az-neverblock.aznude.workers.dev
@@ -6215,6 +6219,7 @@
 0.0.0.0 centalkochab.com
 0.0.0.0 centeredfailinghotline.com
 0.0.0.0 centeredmotorcycle.com
+0.0.0.0 centlyhavebed.com
 0.0.0.0 centralnervous.net
 0.0.0.0 centredrag.com
 0.0.0.0 centrenicelyteaching.com
@@ -7645,6 +7650,7 @@
 0.0.0.0 cynoidfudging.shop
 0.0.0.0 cypfdxbynb.com
 0.0.0.0 cypresslocum.com
+0.0.0.0 cyrociest.shop
 0.0.0.0 cytomecruor.top
 0.0.0.0 cyuyvjwyfvn.com
 0.0.0.0 cyvjmnu.com
@@ -9299,6 +9305,7 @@
 0.0.0.0 ehpxmsqghx.xyz
 0.0.0.0 ehrydnmdoe.com
 0.0.0.0 ehutzaug.life
+0.0.0.0 eibzywva.com
 0.0.0.0 eidoscruster.com
 0.0.0.0 eighteenderived.com
 0.0.0.0 eighteenprofit.com
@@ -13011,6 +13018,7 @@
 0.0.0.0 iarrowtoldilim.info
 0.0.0.0 iasbetaffiliates.com
 0.0.0.0 iasrv.com
+0.0.0.0 ibbmkdooqkj.com
 0.0.0.0 ibidemkorari.com
 0.0.0.0 ibikini.cyou
 0.0.0.0 iboobeelt.net
@@ -13873,6 +13881,7 @@
 0.0.0.0 jalewaads.com
 0.0.0.0 jambosmodesty.com
 0.0.0.0 jamstech.store
+0.0.0.0 janads.shop
 0.0.0.0 janemmf.com
 0.0.0.0 jangiddywashed.com
 0.0.0.0 jangleachy.com
@@ -20208,6 +20217,7 @@
 0.0.0.0 protawe.com
 0.0.0.0 protectonlinenow.com
 0.0.0.0 protectorincorporatehush.com
+0.0.0.0 protectwborcn.com
 0.0.0.0 protectyourdevices.com
 0.0.0.0 proteinfrivolousfertilised.com
 0.0.0.0 proteininnovationpioneer.com
@@ -22666,6 +22676,7 @@
 0.0.0.0 sehlicegxy.com
 0.0.0.0 seibertspart.com
 0.0.0.0 seichesditali.click
+0.0.0.0 seishinyoga.com
 0.0.0.0 seizecrashsophia.com
 0.0.0.0 seizefortunesdefiant.com
 0.0.0.0 seizeshoot.com
@@ -23353,6 +23364,7 @@
 0.0.0.0 smhmayvtwii.xyz
 0.0.0.0 smigdxy.com
 0.0.0.0 smigro.info
+0.0.0.0 smileesidesuk.com
 0.0.0.0 smileoffennec.com
 0.0.0.0 smilesalesmanhorrified.com
 0.0.0.0 smilewanted.com
@@ -32650,6 +32662,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 ascendeummedia.com
+0.0.0.0 agma-analytics.de
 0.0.0.0 cdn-gw-dv.vip
 0.0.0.0 cloudad.icu
 0.0.0.0 stats2.indianpornempire.com
@@ -36242,6 +36256,12 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 log.shortbread.analytics.console.aws.a2z.com
+0.0.0.0 log.shortbread.aws.dev
+0.0.0.0 trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
+0.0.0.0 minerva.devices.a2z.com
+0.0.0.0 s.pie.org
+0.0.0.0 t.pie.org
 0.0.0.0 altema-log.com
 0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 w890.denvergazette.com
@@ -36477,7 +36497,6 @@
 0.0.0.0 m1tm.motor1.com
 0.0.0.0 ctr.po-kaki-to.com
 0.0.0.0 analytics.sonjj.com
-0.0.0.0 status.techtarget.itmedia.co.jp
 0.0.0.0 px.adfulplatform.com
 0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 logs.openbank.com
@@ -38830,6 +38849,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 mobile-production.content-square.net
 0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
@@ -45223,7 +45243,6 @@
 0.0.0.0 wct-1.com
 0.0.0.0 webbannons.ntm.eu
 0.0.0.0 webbplatsanalys.goteborg.se
-0.0.0.0 webpower.eu
 0.0.0.0 webstats.100procent.com
 0.0.0.0 web-analytics.ica.se
 0.0.0.0 west.statisticplatform.com
@@ -51029,8 +51048,15 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 pzzedx.icu
 0.0.0.0 vriesziy.com
 0.0.0.0 rwdjrn.icu
+0.0.0.0 twilmii.top
+0.0.0.0 r4u.icu
+0.0.0.0 bpxxgkoj.icu
+0.0.0.0 gmso12251oka.top
+0.0.0.0 6cs.icu
+0.0.0.0 uwilmit.top
 0.0.0.0 beenedsl.com
 0.0.0.0 tghrfv.icu
 0.0.0.0 wwilmie.top
@@ -54946,6 +54972,7 @@
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 27gh.cc
+0.0.0.0 jbdch1.appmobile.cn
 0.0.0.0 lcd.aivote.com
 0.0.0.0 cnbd1.appmobile.cn
 0.0.0.0 003store.com
@@ -55810,6 +55837,7 @@
 0.0.0.0 xjs.lol
 0.0.0.0 xmlx.lol
 0.0.0.0 yelloadwise.ir
+0.0.0.0 sentry.yektanet.tech
 0.0.0.0 yekbux.com
 0.0.0.0 zarad.net
 0.0.0.0 ads.aftab.cc
