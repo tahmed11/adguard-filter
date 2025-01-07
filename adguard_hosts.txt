@@ -1864,6 +1864,7 @@
 0.0.0.0 9cd76b4462bb.com
 0.0.0.0 9d2cca15e4.com
 0.0.0.0 9d603009eb.com
+0.0.0.0 9d87b35397.com
 0.0.0.0 9dccbda825.com
 0.0.0.0 9dmnv9z0gtoh.com
 0.0.0.0 9e3810a418.com
@@ -32836,6 +32837,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 view.mngusr.com
 0.0.0.0 cdn.q0losid.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 matomo.akbal.dev
@@ -36439,6 +36441,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 qbrth.ezcontacts.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 lgforbes.akamaized.net
 0.0.0.0 event.wondershare.com
@@ -43992,6 +43995,7 @@
 0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 bance.jp
 0.0.0.0 94.130.167.163
+0.0.0.0 mbada.nan.co.jp
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 adserv2.suumo.jp
 0.0.0.0 ad.woman.mynavi.jp
@@ -45244,10 +45248,12 @@
 0.0.0.0 stat.brollopstorget.se
 0.0.0.0 stat.devote.se
 0.0.0.0 stat.familjeliv.se
+0.0.0.0 stat.loppi.se
 0.0.0.0 stat.modette.se
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 stat.rodeo.net
 0.0.0.0 stat.torgen.se
+0.0.0.0 stat.vimedbarn.se
 0.0.0.0 stat03.stat.cliche.se
 0.0.0.0 statcounter.va-endpoint.com
 0.0.0.0 static.matchads.net
@@ -51238,10 +51244,17 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 jfrrnf.icu
 0.0.0.0 jjplaqyo.icu
 0.0.0.0 tixoilll.com
 0.0.0.0 hitalsli.com
 0.0.0.0 lcvwdn.icu
+0.0.0.0 1tp.icu
+0.0.0.0 jdyurlia.top
+0.0.0.0 orcinhyi.com
+0.0.0.0 thruksyq.com
+0.0.0.0 z4v.icu
+0.0.0.0 kdyurlid.top
 0.0.0.0 lirretsn.com
 0.0.0.0 nmzbrd.icu
 0.0.0.0 hrjciqyu.icu
