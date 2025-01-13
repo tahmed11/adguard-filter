@@ -4134,6 +4134,7 @@
 0.0.0.0 auxiliarydonor.com
 0.0.0.0 auxiliaryspokenrationalize.com
 0.0.0.0 auxml.com
+0.0.0.0 auytiuhpu.com
 0.0.0.0 avads.co.uk
 0.0.0.0 availablesyrup.com
 0.0.0.0 avalancheofnews.com
@@ -8749,6 +8750,7 @@
 0.0.0.0 dozzlegram-duj-i-280.site
 0.0.0.0 dpahlsm.com
 0.0.0.0 dpdnav.com
+0.0.0.0 dphwyvcmdki.com
 0.0.0.0 dpmsrv.com
 0.0.0.0 dprivatedquali.org
 0.0.0.0 dprtb.com
@@ -15337,6 +15339,7 @@
 0.0.0.0 list-ads.com
 0.0.0.0 listbrandnew.com
 0.0.0.0 listenedmusician.com
+0.0.0.0 listoukectivetr.com
 0.0.0.0 listsbuttock.com
 0.0.0.0 litarnrajol.com
 0.0.0.0 litdeetar.live
@@ -18014,6 +18017,7 @@
 0.0.0.0 ofclaydolr.com
 0.0.0.0 ofdanpozlgha.com
 0.0.0.0 ofdittor.com
+0.0.0.0 ofdomjzpix.com
 0.0.0.0 ofdrapiona.com
 0.0.0.0 offalakazaman.com
 0.0.0.0 offchatotor.com
@@ -18644,6 +18648,7 @@
 0.0.0.0 oumoshomp.xyz
 0.0.0.0 oumtirsu.com
 0.0.0.0 ounceanalogous.com
+0.0.0.0 oundaymitools.org
 0.0.0.0 oundhertobeconsi.com
 0.0.0.0 oungimuk.net
 0.0.0.0 ounigaugsurvey.space
@@ -21084,6 +21089,7 @@
 0.0.0.0 quidclueless.com
 0.0.0.0 quietlybananasmarvel.com
 0.0.0.0 quilkinhulking.shop
+0.0.0.0 quillsconi.top
 0.0.0.0 quinchdeepish.top
 0.0.0.0 quintag.com
 0.0.0.0 quintessential-telephone.pro
@@ -21882,6 +21888,7 @@
 0.0.0.0 rfity.com
 0.0.0.0 rfjuoqrbnknop.com
 0.0.0.0 rfogqbystvgb.com
+0.0.0.0 rfoqfifqcyymeb.com
 0.0.0.0 rfsjuxlip.com
 0.0.0.0 rftslb.com
 0.0.0.0 rgbnqmz.com
@@ -25955,6 +25962,7 @@
 0.0.0.0 tsrpcf.xyz
 0.0.0.0 tsrpif.xyz
 0.0.0.0 tstats-13fkh44r.com
+0.0.0.0 tstpmasispcw.com
 0.0.0.0 tsy-jnugwavj.love
 0.0.0.0 tsyndicate.com
 0.0.0.0 ttbm.com
@@ -28305,6 +28313,7 @@
 0.0.0.0 xgtfptm.com
 0.0.0.0 xhcouznqwhwas.com
 0.0.0.0 xhhaakxn.xyz
+0.0.0.0 xholinqbbicfk.com
 0.0.0.0 xhvaqgs.com
 0.0.0.0 xhwwcif.com
 0.0.0.0 xhzz3moj1dsd.com
@@ -28951,6 +28960,7 @@
 0.0.0.0 zoowhausairoun.net
 0.0.0.0 zoozishooh.com
 0.0.0.0 zorango.com
+0.0.0.0 zotkosplh.com
 0.0.0.0 zougreek.com
 0.0.0.0 zouloafi.net
 0.0.0.0 zounaishuphaucu.xyz
@@ -29243,7 +29253,6 @@
 0.0.0.0 adisfy.com
 0.0.0.0 adisn.com
 0.0.0.0 adit-media.com
-0.0.0.0 adition.com
 0.0.0.0 aditize.com
 0.0.0.0 aditude.io
 0.0.0.0 adjal.com
@@ -32735,6 +32744,7 @@
 0.0.0.0 adhood.com
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adinfuse.com
+0.0.0.0 adition.com
 0.0.0.0 adkmob.com
 0.0.0.0 adleads.com
 0.0.0.0 adlibr.com
@@ -32959,6 +32969,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 actiontracking.jp
 0.0.0.0 mantis-intelligence.com
 0.0.0.0 stream.datago.ru
 0.0.0.0 pabidding.io
@@ -39926,6 +39937,7 @@
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 c.albss.com
 0.0.0.0 c.amazinglybrilliant.com.au
 0.0.0.0 c.bazo.io
 0.0.0.0 c.live.com
@@ -43525,6 +43537,7 @@
 0.0.0.0 popvalk.com
 0.0.0.0 bjiuck.com
 0.0.0.0 greencuttlefish.com
+0.0.0.0 ad.cub.red
 0.0.0.0 vst.videolink.host
 0.0.0.0 exad.smi2.ru
 0.0.0.0 tgb.hsmedia.ru
@@ -44139,6 +44152,7 @@
 0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 bance.jp
 0.0.0.0 94.130.167.163
+0.0.0.0 ad.firestorage.jp
 0.0.0.0 mbada.nan.co.jp
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 adserv2.suumo.jp
@@ -51389,9 +51403,16 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 nxdefd.icu
+0.0.0.0 thonkoirs.com
+0.0.0.0 vftrfmia.icu
+0.0.0.0 hdomsiu.top
 0.0.0.0 tndbnriz.icu
 0.0.0.0 eisnaisv.com
 0.0.0.0 puhmtt.icu
+0.0.0.0 cdomsif.top
+0.0.0.0 ok5.fun
+0.0.0.0 drauvea.com
 0.0.0.0 riscats.com
 0.0.0.0 jebrhb.icu
 0.0.0.0 bc4.fun
