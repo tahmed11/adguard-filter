@@ -3172,6 +3172,7 @@
 0.0.0.0 alingrethertantin.info
 0.0.0.0 aliposite.site
 0.0.0.0 aliquidalgesic.top
+0.0.0.0 aliteartful.com
 0.0.0.0 alitems.co
 0.0.0.0 alitems.site
 0.0.0.0 alivebald.com
@@ -4887,6 +4888,7 @@
 0.0.0.0 betrayedrecorderresidence.com
 0.0.0.0 betrendatimon.top
 0.0.0.0 betriolua.com
+0.0.0.0 betrustdoms.com
 0.0.0.0 betshucklean.com
 0.0.0.0 bett2you.net
 0.0.0.0 bett2you.org
@@ -7514,6 +7516,7 @@
 0.0.0.0 crudelouisa.com
 0.0.0.0 crudemonarchychill.com
 0.0.0.0 crudequeenrome.com
+0.0.0.0 crudyfilters.com
 0.0.0.0 crueltysugar.shop
 0.0.0.0 cruiserx.net
 0.0.0.0 crumblerefunddiana.com
@@ -12033,6 +12036,7 @@
 0.0.0.0 groampez.xyz
 0.0.0.0 groamsal.net
 0.0.0.0 groaxonsoow.net
+0.0.0.0 groazaimsadroa.xyz
 0.0.0.0 grobido.info
 0.0.0.0 grobungairdoul.net
 0.0.0.0 grobuveexeb.net
@@ -12499,6 +12503,7 @@
 0.0.0.0 heiressscore.com
 0.0.0.0 heiresstolerance.com
 0.0.0.0 heirloomreasoning.com
+0.0.0.0 heirsacost.com
 0.0.0.0 heixidor.com
 0.0.0.0 hejqtbnmwze.com
 0.0.0.0 hekowutus.com
@@ -17963,6 +17968,7 @@
 0.0.0.0 oaraiwephoursou.net
 0.0.0.0 oardilin.com
 0.0.0.0 oarouwousti.com
+0.0.0.0 oarsoathaihoamt.net
 0.0.0.0 oarsparttimeparent.com
 0.0.0.0 oarssamgrandparents.com
 0.0.0.0 oarswithdraw.com
@@ -20247,6 +20253,7 @@
 0.0.0.0 prfctmney.com
 0.0.0.0 prfwhite.com
 0.0.0.0 prhdvhx.com
+0.0.0.0 priceyawol.com
 0.0.0.0 pricklyachetongs.com
 0.0.0.0 pridenovicescammer.com
 0.0.0.0 priestboundsay.com
@@ -20781,6 +20788,7 @@
 0.0.0.0 purgescholars.com
 0.0.0.0 purgoaho.xyz
 0.0.0.0 purifybaptism.guru
+0.0.0.0 purlingresews.com
 0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purplepatch.online
@@ -26402,6 +26410,7 @@
 0.0.0.0 uncoverarching.com
 0.0.0.0 uncrobator.com
 0.0.0.0 uncrownarmenic.com
+0.0.0.0 undatedifreal.com
 0.0.0.0 under2given.com
 0.0.0.0 underaccredited.com
 0.0.0.0 underagebeneath.com
@@ -26864,6 +26873,7 @@
 0.0.0.0 variouscreativeformats.com
 0.0.0.0 variousformatscontent.com
 0.0.0.0 variouspheasantjerk.com
+0.0.0.0 varletsngaio.com
 0.0.0.0 varnishmosquitolocust.com
 0.0.0.0 varshacundy.com
 0.0.0.0 vartoken.com
@@ -26882,6 +26892,7 @@
 0.0.0.0 vastsneezevirtually.com
 0.0.0.0 vatanclick.ir
 0.0.0.0 vatcertaininject.com
+0.0.0.0 vaufekonaub.net
 0.0.0.0 vaugroar.com
 0.0.0.0 vaukoloon.net
 0.0.0.0 vauloops.net
@@ -27753,6 +27764,7 @@
 0.0.0.0 whampamp.com
 0.0.0.0 whandpolista.com
 0.0.0.0 wharployn.com
+0.0.0.0 wharrownecia.com
 0.0.0.0 wharvemotet.com
 0.0.0.0 whateyesight.com
 0.0.0.0 whatisnewappforyou.top
@@ -28831,6 +28843,7 @@
 0.0.0.0 z54a.xyz
 0.0.0.0 z5x.net
 0.0.0.0 zaamgqlgdhac.love
+0.0.0.0 zabaismtempi.top
 0.0.0.0 zabanit.xyz
 0.0.0.0 zachunsears.com
 0.0.0.0 zacleporis.com
@@ -33069,6 +33082,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 log-auth.zztfly.com
 0.0.0.0 adsave.co
 0.0.0.0 analytics.bitchute.com
 0.0.0.0 actiontracking.jp
@@ -36681,6 +36695,8 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 s.c-ctrip.com
+0.0.0.0 ma-adx.ctrip.com
 0.0.0.0 logs.mezmo.com
 0.0.0.0 publictelemetry.tophat.com
 0.0.0.0 dynatrace.att.com
@@ -39290,6 +39306,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tp2p.kg.qq.com
+0.0.0.0 twns.p2ptun.qq.com
 0.0.0.0 nstool.netease.com
 0.0.0.0 data.kuiniuca.com
 0.0.0.0 clientlogsf.music.163.com
@@ -51509,10 +51527,21 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 ztgha.xyz
+0.0.0.0 djsxm.xyz
+0.0.0.0 0vc.fun
+0.0.0.0 cralphal.com
+0.0.0.0 ptrmnx.icu
 0.0.0.0 zxpaa.xyz
 0.0.0.0 etallkiq.com
 0.0.0.0 tbyfz.xyz
 0.0.0.0 rqvrbf.icu
+0.0.0.0 tovbus.cn
+0.0.0.0 17282.org
+0.0.0.0 btcili.top
+0.0.0.0 04o.fun
+0.0.0.0 nagvaxvy.com
+0.0.0.0 epxlt.xyz
 0.0.0.0 lazzrv.icu
 0.0.0.0 geinkroll.com
 0.0.0.0 wusfa.xyz
@@ -56378,6 +56407,7 @@
 0.0.0.0 adv.imadrep.co.kr
 0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 adservice.google.com
+0.0.0.0 ntkimg.cloud
 0.0.0.0 ttse.b-cdn.net
 0.0.0.0 i.keezip.com
 0.0.0.0 awd.spochak.com
