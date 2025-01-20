@@ -33140,7 +33140,6 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 sygrip.info
-0.0.0.0 flippback.com
 0.0.0.0 log-auth.zztfly.com
 0.0.0.0 adsave.co
 0.0.0.0 analytics.bitchute.com
@@ -36755,6 +36754,8 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 frontend-logger.flippback.com
+0.0.0.0 analytics.nike.com
 0.0.0.0 hikari.jiocinema.com
 0.0.0.0 s.c-ctrip.com
 0.0.0.0 ma-adx.ctrip.com
@@ -51595,6 +51596,13 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 hp7.fun
 0.0.0.0 tuvrutsnf.com
+0.0.0.0 rpfuvj.icu
+0.0.0.0 4ce.fun
+0.0.0.0 h6o.fun
+0.0.0.0 gauqoith.com
+0.0.0.0 ccokamif.top
+0.0.0.0 saelphol.com
+0.0.0.0 pfbmht.icu
 0.0.0.0 lagzoids.com
 0.0.0.0 njnhzh.icu
 0.0.0.0 8u0.fun
