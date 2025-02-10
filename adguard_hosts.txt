@@ -1630,6 +1630,7 @@
 0.0.0.0 453130fa9e.com
 0.0.0.0 45cb7b8453.com
 0.0.0.0 45f2a90583.com
+0.0.0.0 460e19ebd6.com
 0.0.0.0 46186911.vtt
 0.0.0.0 466f89f4d1.com
 0.0.0.0 4690y10pvpq8.com
@@ -9972,6 +9973,7 @@
 0.0.0.0 eshkol.one
 0.0.0.0 eshoohasteeg.com
 0.0.0.0 eshouloo.net
+0.0.0.0 esihighlyrecomemu.com
 0.0.0.0 esjvrfq.com
 0.0.0.0 eskilhavena.info
 0.0.0.0 eskimi.com
@@ -14564,6 +14566,7 @@
 0.0.0.0 jmt7mbwce.com
 0.0.0.0 jmtbmqchgpw.xyz
 0.0.0.0 jmxgwesrte.com
+0.0.0.0 jncdvibhdaddmu.com
 0.0.0.0 jnhjpdayvpzj.com
 0.0.0.0 jnlldyq.com
 0.0.0.0 jnnjthg.com
@@ -18047,6 +18050,7 @@
 0.0.0.0 nooraunod.com
 0.0.0.0 noouplit.com
 0.0.0.0 noowoochuveb.net
+0.0.0.0 nopalsoxid.shop
 0.0.0.0 nope.xn--mgbkt9eckr.net
 0.0.0.0 nope.xn--ngbcrg3b.com
 0.0.0.0 nope.xn--ygba1c.wtf
@@ -18291,6 +18295,7 @@
 0.0.0.0 nvwjhrimontqvjo.com
 0.0.0.0 nwejuljibczi.com
 0.0.0.0 nwemnd.com
+0.0.0.0 nwhnzkbfsnpf.com
 0.0.0.0 nwmnd.com
 0.0.0.0 nwq-frjbumf.today
 0.0.0.0 nwqandxa.com
@@ -18694,6 +18699,7 @@
 0.0.0.0 olvwnmnp.com
 0.0.0.0 olxoqmotw.com
 0.0.0.0 olxwweaf.com
+0.0.0.0 olxxugltoku.com
 0.0.0.0 olympuscracowe.shop
 0.0.0.0 olzatpafwo.com
 0.0.0.0 olzuvgxqhozu.com
@@ -29325,6 +29331,7 @@
 0.0.0.0 yimemediatesup.com
 0.0.0.0 yinhana.com
 0.0.0.0 yinteukrestina.xyz
+0.0.0.0 yinteukrestinafu.com
 0.0.0.0 yinthesprin.xyz
 0.0.0.0 yiqetu.uno
 0.0.0.0 yirringamnesic.click
@@ -31395,6 +31402,7 @@
 0.0.0.0 fbfec2.xyz
 0.0.0.0 fe30a5b4.xyz
 0.0.0.0 fe9dc503.xyz
+0.0.0.0 fs-loader.com
 0.0.0.0 img-load.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.nettvservices.com
@@ -45039,7 +45047,6 @@
 0.0.0.0 s-ad.rmp.rakuten.co.jp
 0.0.0.0 ad.jp.ap.valuecommerce.com
 0.0.0.0 valuecommerce.ne.jp
-0.0.0.0 sgad.surfsnow.jp
 0.0.0.0 mbadv.nan.co.jp
 0.0.0.0 creative.live.tktube.com
 0.0.0.0 ads.world-fusigi.net
@@ -45080,10 +45087,8 @@
 0.0.0.0 1iuh5l.com
 0.0.0.0 ydxdg.xyz
 0.0.0.0 aafns.xyz
-0.0.0.0 towmfs.com
 0.0.0.0 hfisngksng.com
 0.0.0.0 sikncs.com
-0.0.0.0 qimaf.com
 0.0.0.0 renrenkanpian.com
 0.0.0.0 b10.justacdn.net
 0.0.0.0 wkzw.me
@@ -45301,7 +45306,6 @@
 0.0.0.0 ulukaris.com
 0.0.0.0 itadapi.ithome.com.tw
 0.0.0.0 zjgfq.com
-0.0.0.0 abc.ruodian360.com
 0.0.0.0 xmm.wxc.cc
 0.0.0.0 srtb.msn.cn
 0.0.0.0 adx.36kr.com
@@ -47330,6 +47334,7 @@
 0.0.0.0 beta-log.anninhthudo.vn
 0.0.0.0 bi.vhost.vn
 0.0.0.0 bidgear-syndication.com
+0.0.0.0 bloggiamgia.info
 0.0.0.0 btrack.homedy.com
 0.0.0.0 bubblyzucchini.com
 0.0.0.0 campaign.gitiho.com
@@ -48399,6 +48404,7 @@
 0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebookk.life
+0.0.0.0 facebookvideo87.blogspot.com
 0.0.0.0 facebookvni.com
 0.0.0.0 facialwaxmaxfaxlax3.com
 0.0.0.0 faecbooks.com
@@ -49161,6 +49167,7 @@
 0.0.0.0 lmht-membership.com
 0.0.0.0 lmoney01.com
 0.0.0.0 lo.dama582.com
+0.0.0.0 loafoushuho.com
 0.0.0.0 loanmoney-th.com
 0.0.0.0 locabank.vn
 0.0.0.0 locmomo.com
@@ -49826,6 +49833,7 @@
 0.0.0.0 onlineshop888.com
 0.0.0.0 onlineshop999.com
 0.0.0.0 onlinetiki.com
+0.0.0.0 onlinetopchoice.com
 0.0.0.0 onzeage.cfd
 0.0.0.0 optimagroupthuongphuong.net
 0.0.0.0 ordsexecutiv.cfd
@@ -52210,6 +52218,11 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 tmvirr.icu
 0.0.0.0 udinmat.top
+0.0.0.0 odinmak.top
+0.0.0.0 ldinmal.top
+0.0.0.0 brornaeq.com
+0.0.0.0 strakuty.com
+0.0.0.0 zcrddj.icu
 0.0.0.0 vjzqfh.icu
 0.0.0.0 8ff0.cn
 0.0.0.0 tdinmai.top
@@ -52329,9 +52342,9 @@
 0.0.0.0 lqxzx.com
 0.0.0.0 r0j.fun
 0.0.0.0 y0o.fun
-0.0.0.0 icokamio.top
 0.0.0.0 thrumulr.com
 0.0.0.0 01210sop.xyz
+0.0.0.0 icokamio.top
 0.0.0.0 qhihoins.com
 0.0.0.0 uv4.fun
 0.0.0.0 01211sop.xyz
@@ -52491,6 +52504,7 @@
 0.0.0.0 cuvedyqs.com
 0.0.0.0 jthotb.icu
 0.0.0.0 qhatarsl.com
+0.0.0.0 towmfs.com
 0.0.0.0 lqlwjr.icu
 0.0.0.0 ppxndfgf.icu
 0.0.0.0 1tv.icu
@@ -52605,6 +52619,7 @@
 0.0.0.0 ei7.icu
 0.0.0.0 iwilmio.top
 0.0.0.0 shaotgs.cn
+0.0.0.0 qimaf.com
 0.0.0.0 ledollull.com
 0.0.0.0 grmzwc.icu
 0.0.0.0 ppio12200ios.top
@@ -53023,9 +53038,9 @@
 0.0.0.0 g4y7uuk.com
 0.0.0.0 pmwofrq.icu
 0.0.0.0 soublib.top
-0.0.0.0 1dki0.icu
 0.0.0.0 bhakte.com
 0.0.0.0 lalabaos1101.top
+0.0.0.0 1dki0.icu
 0.0.0.0 eoubliw.top
 0.0.0.0 qkgllif.icu
 0.0.0.0 extopae.icu
@@ -56061,6 +56076,7 @@
 0.0.0.0 27gh.cc
 0.0.0.0 code.wenbanzhu.com
 0.0.0.0 reke.at.sohu.com
+0.0.0.0 abc.ruodian360.com
 0.0.0.0 hcirentgh.360doc.cn
 0.0.0.0 a1.cyyangqiguan.com
 0.0.0.0 jbdch1.appmobile.cn
